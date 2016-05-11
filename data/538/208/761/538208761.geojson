@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"137.0287,37.0348,137.0287,37.0348",
+    "geom:latitude":37.0348,
+    "geom:longitude":137.0287,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Ishikawaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Nanaoshi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Sotobayashimachi",
     "gp:parent_id":"28426416",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672741
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26249627"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d9b8bffbbc78099a1c9839ad015c997c",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538208761,
+            "region_id":85672741
+        }
+    ],
     "wof:id":538208761,
-    "wof:lastmodified":1460066670,
+    "wof:lastmodified":1462980090,
     "wof:name":"926-0376",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672741,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    137.0287,
+    37.0348,
+    137.0287,
+    37.0348
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[137.02869999999999,37.0348],"type":"Point"}
 }

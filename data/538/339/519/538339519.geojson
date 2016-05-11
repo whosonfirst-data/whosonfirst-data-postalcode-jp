@@ -5,34 +5,56 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"129.8626,32.7773,129.8626,32.7773",
+    "geom:latitude":32.7773,
+    "geom:longitude":129.8626,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Nagasakiken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Nagasakishi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Okamachi",
     "gp:parent_id":"28486407",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        102031505,
+        "85632429",
+        85672857
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26312394"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b27485a38cef5bc009a0b3ca6fc701d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102031505,
+            "postalcode_id":538339519,
+            "region_id":85672857
+        }
+    ],
     "wof:id":538339519,
-    "wof:lastmodified":1460072767,
+    "wof:lastmodified":1462979976,
     "wof:name":"852-8115",
-    "wof:parent_id":-1,
+    "wof:parent_id":102031505,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    129.8626,
+    32.7773,
+    129.8626,
+    32.7773
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[129.86259999999999,32.7773],"type":"Point"}
 }

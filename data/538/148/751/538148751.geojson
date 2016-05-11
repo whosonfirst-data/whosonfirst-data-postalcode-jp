@@ -5,34 +5,56 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"140.2018,37.1196,140.2018,37.1196",
+    "geom:latitude":37.1196,
+    "geom:longitude":140.2018,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Fukushimaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Shirakawashi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Hanamizaka",
     "gp:parent_id":"28399024",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        102031917,
+        "85632429",
+        85672835
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26219511"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e99f6a7bc5faad75e5718924de2d7255",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102031917,
+            "postalcode_id":538148751,
+            "region_id":85672835
+        }
+    ],
     "wof:id":538148751,
-    "wof:lastmodified":1460064020,
+    "wof:lastmodified":1462980185,
     "wof:name":"961-0865",
-    "wof:parent_id":-1,
+    "wof:parent_id":102031917,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    140.2018,
+    37.1196,
+    140.2018,
+    37.1196
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[140.20179999999999,37.1196],"type":"Point"}
 }

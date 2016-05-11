@@ -5,22 +5,31 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"136.8743,35.0615,136.8743,35.0615",
+    "geom:latitude":35.0615,
+    "geom:longitude":136.8743,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Aichiken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Nagoyashiminatoku",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Shiomichou",
     "gp:parent_id":"28439888",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
+    "mz:is_approximate":1,
+    "src:geom":"gn",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26264010"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"9ef8d76b6fd52fe92c2461a931ab806c",
     "wof:hierarchy":[],
     "wof:id":538238159,
-    "wof:lastmodified":1460068213,
+    "wof:lastmodified":1462979539,
     "wof:name":"455-0028",
     "wof:parent_id":-1,
     "wof:placetype":"postalcode",
@@ -29,10 +38,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    136.8743,
+    35.0615,
+    136.8743,
+    35.0615
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[136.87430000000001,35.0615],"type":"Point"}
 }

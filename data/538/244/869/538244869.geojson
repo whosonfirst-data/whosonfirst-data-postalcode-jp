@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"137.036,34.9037,137.036,34.9037",
+    "geom:latitude":34.9037,
+    "geom:longitude":137.036,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Aichiken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Anjoushi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Nesakichou",
     "gp:parent_id":"28442807",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672731
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26266779"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"563077bbfac9c71b934abb7af43b80e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538244869,
+            "region_id":85672731
+        }
+    ],
     "wof:id":538244869,
-    "wof:lastmodified":1460068587,
+    "wof:lastmodified":1462979529,
     "wof:name":"444-1211",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672731,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    137.036,
+    34.9037,
+    137.036,
+    34.9037
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[137.036,34.9037],"type":"Point"}
 }

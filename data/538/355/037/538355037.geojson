@@ -5,22 +5,31 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"129.0216,27.7442,129.0216,27.7442",
+    "geom:latitude":27.7442,
+    "geom:longitude":129.0216,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Kagoshimaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Ooshimaguntokunoshimachou",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Kametoku",
     "gp:parent_id":"28493651",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
+    "mz:is_approximate":1,
+    "src:geom":"gn",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26320059"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"65afbc9ce9fb98f1a38bd69e215f27d0",
     "wof:hierarchy":[],
     "wof:id":538355037,
-    "wof:lastmodified":1460073324,
+    "wof:lastmodified":1462980040,
     "wof:name":"891-7102",
     "wof:parent_id":-1,
     "wof:placetype":"postalcode",
@@ -29,10 +38,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    129.0216,
+    27.7442,
+    129.0216,
+    27.7442
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[129.02160000000001,27.7442],"type":"Point"}
 }

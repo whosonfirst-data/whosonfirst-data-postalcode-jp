@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"129.5691,33.0225,129.5691,33.0225",
+    "geom:latitude":33.0225,
+    "geom:longitude":129.5691,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Nagasakiken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Nishisonogigunsakitochou",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Kakiuragou",
     "gp:parent_id":"28487798",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672857
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26313233"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"da77d47da33198a69a784c9e058a5072",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538342125,
+            "region_id":85672857
+        }
+    ],
     "wof:id":538342125,
-    "wof:lastmodified":1460072862,
+    "wof:lastmodified":1462979984,
     "wof:name":"857-3101",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672857,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    129.5691,
+    33.0225,
+    129.5691,
+    33.0225
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[129.56909999999999,33.0225],"type":"Point"}
 }

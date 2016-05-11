@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"132.5188,34.8664,132.5188,34.8664",
+    "geom:latitude":34.8664,
+    "geom:longitude":132.5188,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Shimaneken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Oochigunmizuhochou",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Masubuchi",
     "gp:parent_id":"28471431",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672679
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26295571"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"daa4e79213cde416d2ef7ee39dd97da5",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538306521,
+            "region_id":85672679
+        }
+    ],
     "wof:id":538306521,
-    "wof:lastmodified":1460071213,
+    "wof:lastmodified":1462979818,
     "wof:name":"696-0221",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672679,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    132.5188,
+    34.8664,
+    132.5188,
+    34.8664
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[132.5188,34.8664],"type":"Point"}
 }

@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"136.2738,36.1981,136.2738,36.1981",
+    "geom:latitude":36.1981,
+    "geom:longitude":136.2738,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Fukuiken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Sakaigunkanaduchou",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Nakagawa",
     "gp:parent_id":"28429429",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672767
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26253080"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3db3ada84366863c1f7844079a0b2178",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538215265,
+            "region_id":85672767
+        }
+    ],
     "wof:id":538215265,
-    "wof:lastmodified":1460066965,
+    "wof:lastmodified":1462980074,
     "wof:name":"919-0741",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672767,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    136.2738,
+    36.1981,
+    136.2738,
+    36.1981
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[136.27379999999999,36.1981],"type":"Point"}
 }

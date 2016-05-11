@@ -5,14 +5,22 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"132.7232,34.2515,132.7232,34.2515",
+    "geom:latitude":34.2515,
+    "geom:longitude":132.7232,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Hiroshimaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Toyotagunyasuurachou",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Atohigashi",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
+    "mz:is_approximate":1,
+    "src:geom":"gn",
     "wof:belongsto":[
         "102191569",
-        102031577,
         "85632429",
         85672671
     ],
@@ -21,30 +29,29 @@
         "gp:id":"26299859"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"19157d18283865037b15f8ef9cc59595",
     "wof:hierarchy":[
         {
             "continent_id":"102191569",
             "country_id":"85632429",
-            "locality_id":102031577,
             "postalcode_id":538108739,
             "region_id":85672671
         }
     ],
     "wof:id":538108739,
-    "wof:lastmodified":1460062547,
+    "wof:lastmodified":1462979854,
     "wof:name":"729-2513",
-    "wof:parent_id":"102031577",
+    "wof:parent_id":85672671,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    132.7232,
+    34.2515,
+    132.7232,
+    34.2515
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[132.72319999999999,34.2515],"type":"Point"}
 }

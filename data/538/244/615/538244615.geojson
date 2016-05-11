@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"137.1974,35.0715,137.1974,35.0715",
+    "geom:latitude":35.0715,
+    "geom:longitude":137.1974,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Aichiken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Toyotashi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Shigachou",
     "gp:parent_id":"28442378",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672731
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26266692"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9b6f99d9df40071bc7870ffda0081a23",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538244615,
+            "region_id":85672731
+        }
+    ],
     "wof:id":538244615,
-    "wof:lastmodified":1460068570,
+    "wof:lastmodified":1462979552,
     "wof:name":"471-0802",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672731,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    137.1974,
+    35.0715,
+    137.1974,
+    35.0715
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[137.19739999999999,35.0715],"type":"Point"}
 }

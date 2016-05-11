@@ -5,22 +5,31 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"135.1777,35.7597,135.1777,35.7597",
+    "geom:latitude":35.7597,
+    "geom:longitude":135.1777,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Kyoutofu",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Takenoguntangochou",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Nakahama",
     "gp:parent_id":"28456696",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
+    "mz:is_approximate":1,
+    "src:geom":"gn",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26280680"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"dd91236c12d95805a5cf82d0db16462a",
     "wof:hierarchy":[],
     "wof:id":538273435,
-    "wof:lastmodified":1460069805,
+    "wof:lastmodified":1462979714,
     "wof:name":"627-0243",
     "wof:parent_id":-1,
     "wof:placetype":"postalcode",
@@ -29,10 +38,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    135.1777,
+    35.7597,
+    135.1777,
+    35.7597
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[135.17769999999999,35.7597],"type":"Point"}
 }

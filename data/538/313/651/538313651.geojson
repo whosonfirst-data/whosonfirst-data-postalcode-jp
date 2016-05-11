@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"133.151,34.5139,133.151,34.5139",
+    "geom:latitude":34.5139,
+    "geom:longitude":133.151,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Hiroshimaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Mitsugigunmitsugichou",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Hanajiri",
     "gp:parent_id":"28474631",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672671
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26299939"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5112542ad6a502e084c8992822fc6ea6",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538313651,
+            "region_id":85672671
+        }
+    ],
     "wof:id":538313651,
-    "wof:lastmodified":1460071516,
+    "wof:lastmodified":1462979850,
     "wof:name":"722-0316",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672671,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    133.151,
+    34.5139,
+    133.151,
+    34.5139
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[133.15100000000001,34.5139],"type":"Point"}
 }

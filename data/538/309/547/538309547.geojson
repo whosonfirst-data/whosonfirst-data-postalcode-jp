@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"133.7358,34.6554,133.7358,34.6554",
+    "geom:latitude":34.6554,
+    "geom:longitude":133.7358,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Okayamaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Tsukubogunkiyoneson",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Kakinoki",
     "gp:parent_id":"28472699",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672675
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26297285"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"51e30bcbf6f9a297a77cbe5da442b28f",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538309547,
+            "region_id":85672675
+        }
+    ],
     "wof:id":538309547,
-    "wof:lastmodified":1460071344,
+    "wof:lastmodified":1462979846,
     "wof:name":"719-1176",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672675,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    133.7358,
+    34.6554,
+    133.7358,
+    34.6554
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[133.73580000000001,34.6554],"type":"Point"}
 }

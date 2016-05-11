@@ -5,34 +5,56 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"127.689,26.2091,127.689,26.2091",
+    "geom:latitude":26.2091,
+    "geom:longitude":127.689,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Okinawaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Nahashi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Higawa",
     "gp:parent_id":"28493792",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        102031495,
+        "85632429",
+        85672867
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26320204"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"33b71a43bbbee1c1cd68a3f71ab0ad65",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102031495,
+            "postalcode_id":538355265,
+            "region_id":85672867
+        }
+    ],
     "wof:id":538355265,
-    "wof:lastmodified":1460073331,
+    "wof:lastmodified":1462980051,
     "wof:name":"900-0022",
-    "wof:parent_id":-1,
+    "wof:parent_id":102031495,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    127.689,
+    26.2091,
+    127.689,
+    26.2091
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[127.68899999999999,26.2091],"type":"Point"}
 }

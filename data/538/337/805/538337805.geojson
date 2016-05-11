@@ -5,34 +5,56 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"130.0451,33.4575,130.0451,33.4575",
+    "geom:latitude":33.4575,
+    "geom:longitude":130.0451,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Sagaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Higashimatsuuragunhamatamachou",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Fuchinoue",
     "gp:parent_id":"28485875",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        102031649,
+        "85632429",
+        85672695
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26311864"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"96c036d16be071b7e98808d83d782c08",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102031649,
+            "postalcode_id":538337805,
+            "region_id":85672695
+        }
+    ],
     "wof:id":538337805,
-    "wof:lastmodified":1460072689,
+    "wof:lastmodified":1462979973,
     "wof:name":"849-5104",
-    "wof:parent_id":-1,
+    "wof:parent_id":102031649,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    130.0451,
+    33.4575,
+    130.0451,
+    33.4575
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[130.04509999999999,33.4575],"type":"Point"}
 }

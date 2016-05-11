@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"136.3338,36.329,136.3338,36.329",
+    "geom:latitude":36.329,
+    "geom:longitude":136.3338,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Ishikawaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Kagashi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Kibougaoka",
     "gp:parent_id":"28427213",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672741
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26250246"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1a6cbfe944116bb84a5e48387f7e5d6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538369095,
+            "region_id":85672741
+        }
+    ],
     "wof:id":538369095,
-    "wof:lastmodified":1460073786,
+    "wof:lastmodified":1462980083,
     "wof:name":"922-0435",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672741,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    136.3338,
+    36.329,
+    136.3338,
+    36.329
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[136.3338,36.329],"type":"Point"}
 }

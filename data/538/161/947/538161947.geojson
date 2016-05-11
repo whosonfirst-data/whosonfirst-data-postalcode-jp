@@ -5,34 +5,56 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"139.6182,36.7472,139.6182,36.7472",
+    "geom:latitude":36.7472,
+    "geom:longitude":139.6182,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Tochigiken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Nikkoushi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Matsubarachou",
     "gp:parent_id":"28405106",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        102031483,
+        "85632429",
+        85672813
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26225853"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4f4caffe773dccb5b4cf6695d5b2c70a",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102031483,
+            "postalcode_id":538161947,
+            "region_id":85672813
+        }
+    ],
     "wof:id":538161947,
-    "wof:lastmodified":1460064518,
+    "wof:lastmodified":1462979419,
     "wof:name":"321-1406",
-    "wof:parent_id":-1,
+    "wof:parent_id":102031483,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    139.6182,
+    36.7472,
+    139.6182,
+    36.7472
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[139.6182,36.7472],"type":"Point"}
 }

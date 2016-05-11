@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"132.7472,34.8916,132.7472,34.8916",
+    "geom:latitude":34.8916,
+    "geom:longitude":132.7472,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Hiroshimaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Futamigunsakugison",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Kamisakugi",
     "gp:parent_id":"28474989",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672671
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26300143"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ef10f9a72783d80d7b9001a595bed11c",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538314447,
+            "region_id":85672671
+        }
+    ],
     "wof:id":538314447,
-    "wof:lastmodified":1460071548,
+    "wof:lastmodified":1462979853,
     "wof:name":"728-0123",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672671,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    132.7472,
+    34.8916,
+    132.7472,
+    34.8916
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[132.74719999999999,34.8916],"type":"Point"}
 }

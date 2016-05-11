@@ -5,34 +5,56 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"136.778,35.4424,136.778,35.4424",
+    "geom:latitude":35.4424,
+    "geom:longitude":136.778,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Gifuken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Gifushi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Nagaraoomaechou",
     "gp:parent_id":"28433396",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        102031787,
+        "85632429",
+        85672735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26256626"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7dd4b9aff634a77c4e5f18edf8faac2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102031787,
+            "postalcode_id":538224015,
+            "region_id":85672735
+        }
+    ],
     "wof:id":538224015,
-    "wof:lastmodified":1460067383,
+    "wof:lastmodified":1462979589,
     "wof:name":"502-0036",
-    "wof:parent_id":-1,
+    "wof:parent_id":102031787,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    136.778,
+    35.4424,
+    136.778,
+    35.4424
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[136.77799999999999,35.4424],"type":"Point"}
 }

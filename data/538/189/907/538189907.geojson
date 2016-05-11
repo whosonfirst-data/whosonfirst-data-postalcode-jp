@@ -5,34 +5,56 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"139.0945,35.2272,139.0945,35.2272",
+    "geom:latitude":35.2272,
+    "geom:longitude":139.0945,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Kanagawaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Ashigarashimogunhakonemachi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Yumotochaya",
     "gp:parent_id":"28417501",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        102031765,
+        "85632429",
+        85672805
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26240397"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3effbce1a7e81dcfbf09815c6c6877d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102031765,
+            "postalcode_id":538189907,
+            "region_id":85672805
+        }
+    ],
     "wof:id":538189907,
-    "wof:lastmodified":1460065806,
+    "wof:lastmodified":1462979358,
     "wof:name":"250-0312",
-    "wof:parent_id":-1,
+    "wof:parent_id":102031765,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    139.0945,
+    35.2272,
+    139.0945,
+    35.2272
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[139.09450000000001,35.2272],"type":"Point"}
 }

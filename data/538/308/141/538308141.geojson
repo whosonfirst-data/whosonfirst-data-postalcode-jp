@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"133.879,34.5347,133.879,34.5347",
+    "geom:latitude":34.5347,
+    "geom:longitude":133.879,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Okayamaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Kojimagunnadasakichou",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Hazakawa",
     "gp:parent_id":"90035968",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672675
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26297269"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e2419934779701d07cd0d3658a1cbf2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538308141,
+            "region_id":85672675
+        }
+    ],
     "wof:id":538308141,
-    "wof:lastmodified":1460071286,
+    "wof:lastmodified":1462979837,
     "wof:name":"709-1211",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672675,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    133.879,
+    34.5347,
+    133.879,
+    34.5347
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[133.87899999999999,34.5347],"type":"Point"}
 }

@@ -5,22 +5,31 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"128.9634,32.9077,128.9634,32.9077",
+    "geom:latitude":32.9077,
+    "geom:longitude":128.9634,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Nagasakiken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Minamimatsuuragunwakamatsuchou",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Ryouseuragou",
     "gp:parent_id":"28488121",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
+    "mz:is_approximate":1,
+    "src:geom":"gn",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26313790"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"fb2ddcab792b991d08d453c2c85e13d9",
     "wof:hierarchy":[],
     "wof:id":538342743,
-    "wof:lastmodified":1460072886,
+    "wof:lastmodified":1462979978,
     "wof:name":"853-2314",
     "wof:parent_id":-1,
     "wof:placetype":"postalcode",
@@ -29,10 +38,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    128.9634,
+    32.9077,
+    128.9634,
+    32.9077
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[128.96340000000001,32.9077],"type":"Point"}
 }

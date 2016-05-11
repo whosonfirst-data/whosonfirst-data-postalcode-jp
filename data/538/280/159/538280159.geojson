@@ -5,34 +5,56 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"135.554,34.5892,135.554,34.5892",
+    "geom:latitude":34.5892,
+    "geom:longitude":135.554,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Oosakafu",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Matsubarashi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Miyakenaka",
     "gp:parent_id":"28459666",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        102031439,
+        "85632429",
+        85672785
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26283555"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"15c2105e882a4a35bc42fc3b22a0e2af",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102031439,
+            "postalcode_id":538280159,
+            "region_id":85672785
+        }
+    ],
     "wof:id":538280159,
-    "wof:lastmodified":1460070087,
+    "wof:lastmodified":1462979658,
     "wof:name":"580-0046",
-    "wof:parent_id":-1,
+    "wof:parent_id":102031439,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    135.554,
+    34.5892,
+    135.554,
+    34.5892
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[135.554,34.5892],"type":"Point"}
 }

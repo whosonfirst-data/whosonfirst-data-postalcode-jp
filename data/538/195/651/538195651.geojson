@@ -5,22 +5,31 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"139.4343,38.194,139.4343,38.194",
+    "geom:latitude":38.194,
+    "geom:longitude":139.4343,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Niigataken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Murakamishi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Iwafuneshimooomachi",
     "gp:parent_id":"28420323",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
+    "mz:is_approximate":1,
+    "src:geom":"gn",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26242045"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"e384d70c5994ff0e9c0afab00780541f",
     "wof:hierarchy":[],
     "wof:id":538195651,
-    "wof:lastmodified":1460066085,
+    "wof:lastmodified":1462980166,
     "wof:name":"958-0043",
     "wof:parent_id":-1,
     "wof:placetype":"postalcode",
@@ -29,10 +38,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    139.4343,
+    38.194,
+    139.4343,
+    38.194
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[139.43430000000001,38.194],"type":"Point"}
 }

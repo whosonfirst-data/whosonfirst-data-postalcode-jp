@@ -5,34 +5,56 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"136.6298,34.9667,136.6298,34.9667",
+    "geom:latitude":34.9667,
+    "geom:longitude":136.6298,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Mieken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Yokkaichishi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Shinshinmachi",
     "gp:parent_id":"28445939",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        102031241,
+        "85632429",
+        85672745
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26270090"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d0541113ccbe28bee8daec6a7880e174",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102031241,
+            "postalcode_id":538251547,
+            "region_id":85672745
+        }
+    ],
     "wof:id":538251547,
-    "wof:lastmodified":1460068864,
+    "wof:lastmodified":1462979606,
     "wof:name":"510-0094",
-    "wof:parent_id":-1,
+    "wof:parent_id":102031241,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    136.6298,
+    34.9667,
+    136.6298,
+    34.9667
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[136.62979999999999,34.9667],"type":"Point"}
 }

@@ -5,34 +5,56 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"131.4339,31.9063,131.4339,31.9063",
+    "geom:latitude":31.9063,
+    "geom:longitude":131.4339,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Miyazakiken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Miyazakishi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Eirakuchou",
     "gp:parent_id":"28491634",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        102031527,
+        "85632429",
+        85672707
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26317866"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a4ada6df454a9b0448adde88880e5fbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102031527,
+            "postalcode_id":538350613,
+            "region_id":85672707
+        }
+    ],
     "wof:id":538350613,
-    "wof:lastmodified":1460073190,
+    "wof:lastmodified":1462980030,
     "wof:name":"880-0872",
-    "wof:parent_id":-1,
+    "wof:parent_id":102031527,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    131.4339,
+    31.9063,
+    131.4339,
+    31.9063
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[131.43389999999999,31.9063],"type":"Point"}
 }

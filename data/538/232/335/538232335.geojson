@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"139.0656,35.0879,139.0656,35.0879",
+    "geom:latitude":35.0879,
+    "geom:longitude":139.0656,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Shizuokaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Atamishi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Sakurachou",
     "gp:parent_id":"28437319",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672753
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26261034"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"47f68f7a4ccb9d06b65970c8b8151d06",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538232335,
+            "region_id":85672753
+        }
+    ],
     "wof:id":538232335,
-    "wof:lastmodified":1460067867,
+    "wof:lastmodified":1462979499,
     "wof:name":"413-0028",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672753,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    139.0656,
+    35.0879,
+    139.0656,
+    35.0879
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[139.06559999999999,35.0879],"type":"Point"}
 }

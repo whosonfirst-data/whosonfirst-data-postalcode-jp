@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"141.0363,38.2932,141.0363,38.2932",
+    "geom:latitude":38.2932,
+    "geom:longitude":141.0363,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Miyagiken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Tagajoushi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Ooshiro",
     "gp:parent_id":"28391915",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672843
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26212591"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"df60de0252be13e5018557e5d69cc9ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538135543,
+            "region_id":85672843
+        }
+    ],
     "wof:id":538135543,
-    "wof:lastmodified":1460063547,
+    "wof:lastmodified":1462980216,
     "wof:name":"985-0832",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672843,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    141.0363,
+    38.2932,
+    141.0363,
+    38.2932
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[141.03630000000001,38.2932],"type":"Point"}
 }

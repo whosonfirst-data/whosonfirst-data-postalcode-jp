@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"137.2479,34.9918,137.2479,34.9918",
+    "geom:latitude":34.9918,
+    "geom:longitude":137.2479,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Aichiken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Okazakishi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Kuranamichou",
     "gp:parent_id":"28440749",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672731
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26264974"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1b5c25dc6d62fa5d606f1dcf48b1e2c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538240571,
+            "region_id":85672731
+        }
+    ],
     "wof:id":538240571,
-    "wof:lastmodified":1460068368,
+    "wof:lastmodified":1462979531,
     "wof:name":"444-3164",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672731,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    137.2479,
+    34.9918,
+    137.2479,
+    34.9918
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[137.24789999999999,34.9918],"type":"Point"}
 }

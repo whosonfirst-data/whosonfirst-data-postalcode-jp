@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"139.6522,35.9812,139.6522,35.9812",
+    "geom:latitude":35.9812,
+    "geom:longitude":139.6522,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Saitamaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Hasudashi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Ikanikeisaiganaibaai",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
+    "mz:is_approximate":1,
+    "src:geom":"gn",
     "wof:belongsto":[
         "102191569",
         102031855,
@@ -21,7 +30,7 @@
         "gp:id":"26230453"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"5a3c37d6890250d30b3506ab50530a32",
     "wof:hierarchy":[
         {
             "continent_id":"102191569",
@@ -32,19 +41,19 @@
         }
     ],
     "wof:id":538374855,
-    "wof:lastmodified":1460073976,
+    "wof:lastmodified":1462979441,
     "wof:name":"349-0100",
-    "wof:parent_id":"102031855",
+    "wof:parent_id":102031855,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    139.6522,
+    35.9812,
+    139.6522,
+    35.9812
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[139.65219999999999,35.9812],"type":"Point"}
 }

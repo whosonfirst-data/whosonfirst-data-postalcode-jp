@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"137.3253,35.4555,137.3253,35.4555",
+    "geom:latitude":35.4555,
+    "geom:longitude":137.3253,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Gifuken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Enashi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Takenamichoufuji",
     "gp:parent_id":"28434812",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26258128"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"11c20e38f57840aeffdb3feb0c9d6c94",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538226603,
+            "region_id":85672735
+        }
+    ],
     "wof:id":538226603,
-    "wof:lastmodified":1460067583,
+    "wof:lastmodified":1462979605,
     "wof:name":"509-7121",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672735,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    137.3253,
+    35.4555,
+    137.3253,
+    35.4555
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[137.3253,35.4555],"type":"Point"}
 }

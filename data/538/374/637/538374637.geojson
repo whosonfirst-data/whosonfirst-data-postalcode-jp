@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"140.3392,35.9743,140.3392,35.9743",
+    "geom:latitude":35.9743,
+    "geom:longitude":140.3392,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Ibarakiken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Inashikigun'Edosakimachi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Ikanikeisaiganaibaai",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
+    "mz:is_approximate":1,
+    "src:geom":"gn",
     "wof:belongsto":[
         "102191569",
         102032103,
@@ -21,7 +30,7 @@
         "gp:id":"26224454"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"ce60b1d28b55cddc93f3a3a47096582c",
     "wof:hierarchy":[
         {
             "continent_id":"102191569",
@@ -32,19 +41,19 @@
         }
     ],
     "wof:id":538374637,
-    "wof:lastmodified":1460073964,
+    "wof:lastmodified":1462979393,
     "wof:name":"300-0500",
-    "wof:parent_id":"102032103",
+    "wof:parent_id":102032103,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    140.3392,
+    35.9743,
+    140.3392,
+    35.9743
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[140.33920000000001,35.9743],"type":"Point"}
 }

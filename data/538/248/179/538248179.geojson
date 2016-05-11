@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"137.6658,35.0035,137.6658,35.0035",
+    "geom:latitude":35.0035,
+    "geom:longitude":137.6658,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Aichiken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Minamishitaragunhouraichou",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Kawai",
     "gp:parent_id":"28444360",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672731
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26269680"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3f1b2390c56ad16193649bbac47253de",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538248179,
+            "region_id":85672731
+        }
+    ],
     "wof:id":538248179,
-    "wof:lastmodified":1460068709,
+    "wof:lastmodified":1462979522,
     "wof:name":"441-1601",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672731,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    137.6658,
+    35.0035,
+    137.6658,
+    35.0035
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[137.66579999999999,35.0035],"type":"Point"}
 }

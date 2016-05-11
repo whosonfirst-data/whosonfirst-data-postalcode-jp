@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"133.4835,35.0079,133.4835,35.0079",
+    "geom:latitude":35.0079,
+    "geom:longitude":133.4835,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Okayamaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Niimishi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Shimokumatani",
     "gp:parent_id":"28472818",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672675
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26296914"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9f1778e36cb154ef4b9ab120f96ae0cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538309803,
+            "region_id":85672675
+        }
+    ],
     "wof:id":538309803,
-    "wof:lastmodified":1460071363,
+    "wof:lastmodified":1462979845,
     "wof:name":"718-0002",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672675,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    133.4835,
+    35.0079,
+    133.4835,
+    35.0079
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[133.48349999999999,35.0079],"type":"Point"}
 }

@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"129.4384,33.2375,129.4384,33.2375",
+    "geom:latitude":33.2375,
+    "geom:longitude":129.4384,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Nagasakiken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Hiradoshi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Shimonakatsurachou",
     "gp:parent_id":"28487356",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672857
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26313029"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1b30e6ade27762a6b68628646755997d",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538341171,
+            "region_id":85672857
+        }
+    ],
     "wof:id":538341171,
-    "wof:lastmodified":1460072827,
+    "wof:lastmodified":1462979990,
     "wof:name":"859-5504",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672857,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    129.4384,
+    33.2375,
+    129.4384,
+    33.2375
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[129.4384,33.2375],"type":"Point"}
 }

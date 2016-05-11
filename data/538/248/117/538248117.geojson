@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"137.4938,34.904,137.4938,34.904",
+    "geom:latitude":34.904,
+    "geom:longitude":137.4938,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Aichiken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Shinshiroshi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Miyanoushiro",
     "gp:parent_id":"28444340",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672731
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26268204"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"471dc71e57b97675874031e0f733f53e",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538248117,
+            "region_id":85672731
+        }
+    ],
     "wof:id":538248117,
-    "wof:lastmodified":1460068707,
+    "wof:lastmodified":1462979521,
     "wof:name":"441-1378",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672731,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    137.4938,
+    34.904,
+    137.4938,
+    34.904
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[137.49379999999999,34.904],"type":"Point"}
 }

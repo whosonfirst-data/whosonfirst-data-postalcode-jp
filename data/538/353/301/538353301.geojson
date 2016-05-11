@@ -5,22 +5,31 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"130.694,31.4801,130.694,31.4801",
+    "geom:latitude":31.4801,
+    "geom:longitude":130.694,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Kagoshimaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Tarumizushi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Shiosaichou",
     "gp:parent_id":"28492919",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
+    "mz:is_approximate":1,
+    "src:geom":"gn",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26319307"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"a5ffc03bfbf1327afb8ab2b3d426a071",
     "wof:hierarchy":[],
     "wof:id":538353301,
-    "wof:lastmodified":1460073273,
+    "wof:lastmodified":1462980039,
     "wof:name":"891-2117",
     "wof:parent_id":-1,
     "wof:placetype":"postalcode",
@@ -29,10 +38,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    130.694,
+    31.4801,
+    130.694,
+    31.4801
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[130.69399999999999,31.4801],"type":"Point"}
 }

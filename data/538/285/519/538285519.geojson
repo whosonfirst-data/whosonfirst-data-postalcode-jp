@@ -5,34 +5,56 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"134.9928,34.6532,134.9928,34.6532",
+    "geom:latitude":34.6532,
+    "geom:longitude":134.9928,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Hyougoken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Akashishi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Akashikouen",
     "gp:parent_id":"28462027",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        102031613,
+        "85632429",
+        85672769
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26285978"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0d485a9e3d4327534d9d7a547b234eea",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102031613,
+            "postalcode_id":538285519,
+            "region_id":85672769
+        }
+    ],
     "wof:id":538285519,
-    "wof:lastmodified":1460070328,
+    "wof:lastmodified":1462979783,
     "wof:name":"673-0847",
-    "wof:parent_id":-1,
+    "wof:parent_id":102031613,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    134.9928,
+    34.6532,
+    134.9928,
+    34.6532
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[134.99279999999999,34.6532],"type":"Point"}
 }

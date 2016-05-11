@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"134.5391,35.4604,134.5391,35.4604",
+    "geom:latitude":35.4604,
+    "geom:longitude":134.5391,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Hyougoken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Kinosakigunkasumichou",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Ikanikeisaiganaibaai",
     "gp:parent_id":"28379256",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672769
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26288752"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"23b7b054e58633231b2b52ae2f2052dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538376075,
+            "region_id":85672769
+        }
+    ],
     "wof:id":538376075,
-    "wof:lastmodified":1460074013,
+    "wof:lastmodified":1462979775,
     "wof:name":"669-6500",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672769,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    134.5391,
+    35.4604,
+    134.5391,
+    35.4604
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[134.53909999999999,35.4604],"type":"Point"}
 }

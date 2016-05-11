@@ -5,34 +5,56 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"130.5157,33.3708,130.5157,33.3708",
+    "geom:latitude":33.3708,
+    "geom:longitude":130.5157,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Sagaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Tosushi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Higashimachi",
     "gp:parent_id":"28485953",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        102031301,
+        "85632429",
+        85672695
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26311520"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"15d3dcba227dbb49d5c279aee6ac5277",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102031301,
+            "postalcode_id":538337881,
+            "region_id":85672695
+        }
+    ],
     "wof:id":538337881,
-    "wof:lastmodified":1460072692,
+    "wof:lastmodified":1462979966,
     "wof:name":"841-0035",
-    "wof:parent_id":-1,
+    "wof:parent_id":102031301,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    130.5157,
+    33.3708,
+    130.5157,
+    33.3708
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[130.51570000000001,33.3708],"type":"Point"}
 }

@@ -5,34 +5,56 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"139.8084,38.7306,139.8084,38.7306",
+    "geom:latitude":38.7306,
+    "geom:longitude":139.8084,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Yamagataken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Nishitagawagun'Atsumimachi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Tozawa",
     "gp:parent_id":"1115927",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        102031283,
+        "85632429",
+        85672853
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26218470"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fc3385ddc0af4907f3236ad03a57365a",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102031283,
+            "postalcode_id":538143699,
+            "region_id":85672853
+        }
+    ],
     "wof:id":538143699,
-    "wof:lastmodified":1460063837,
+    "wof:lastmodified":1462980247,
     "wof:name":"999-7202",
-    "wof:parent_id":-1,
+    "wof:parent_id":102031283,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    139.8084,
+    38.7306,
+    139.8084,
+    38.7306
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[139.80840000000001,38.7306],"type":"Point"}
 }

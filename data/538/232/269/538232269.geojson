@@ -5,34 +5,56 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"138.8574,35.0965,138.8574,35.0965",
+    "geom:latitude":35.0965,
+    "geom:longitude":138.8574,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Shizuokaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Numadushi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Tooriyokochou",
     "gp:parent_id":"28437291",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        102031471,
+        "85632429",
+        85672753
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26260863"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ab0aa073d66e0697e7e31482f97cbecf",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102031471,
+            "postalcode_id":538232269,
+            "region_id":85672753
+        }
+    ],
     "wof:id":538232269,
-    "wof:lastmodified":1460067865,
+    "wof:lastmodified":1462979495,
     "wof:name":"410-0891",
-    "wof:parent_id":-1,
+    "wof:parent_id":102031471,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    138.8574,
+    35.0965,
+    138.8574,
+    35.0965
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[138.85740000000001,35.0965],"type":"Point"}
 }

@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"139.0303,37.8763,139.0303,37.8763",
+    "geom:latitude":37.8763,
+    "geom:longitude":139.0303,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Niigataken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Niigatashi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Tauemonshinden",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
+    "mz:is_approximate":1,
+    "src:geom":"gn",
     "wof:belongsto":[
         "102191569",
         102031487,
@@ -21,7 +30,7 @@
         "gp:id":"26240583"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"97fa2bd5349f224ffe9e8ed939d131b7",
     "wof:hierarchy":[
         {
             "continent_id":"102191569",
@@ -32,19 +41,19 @@
         }
     ],
     "wof:id":538191061,
-    "wof:lastmodified":1460065849,
+    "wof:lastmodified":1462980152,
     "wof:name":"950-1146",
-    "wof:parent_id":"102031487",
+    "wof:parent_id":102031487,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    139.0303,
+    37.8763,
+    139.0303,
+    37.8763
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[139.03030000000001,37.8763],"type":"Point"}
 }

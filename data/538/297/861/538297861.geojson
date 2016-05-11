@@ -5,34 +5,56 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"135.1762,34.2336,135.1762,34.2336",
+    "geom:latitude":34.2336,
+    "geom:longitude":135.1762,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Wakayamaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Wakayamashi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Nakanotanaminaminochou",
     "gp:parent_id":"28467783",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        102031879,
+        "85632429",
+        85672795
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26291794"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"21cb30e42fa0da8a32762934fa4b15ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102031879,
+            "postalcode_id":538297861,
+            "region_id":85672795
+        }
+    ],
     "wof:id":538297861,
-    "wof:lastmodified":1460070825,
+    "wof:lastmodified":1462979734,
     "wof:name":"640-8026",
-    "wof:parent_id":-1,
+    "wof:parent_id":102031879,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    135.1762,
+    34.2336,
+    135.1762,
+    34.2336
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[135.17619999999999,34.2336],"type":"Point"}
 }

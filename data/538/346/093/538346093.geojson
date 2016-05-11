@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"131.1805,33.0322,131.1805,33.0322",
+    "geom:latitude":33.0322,
+    "geom:longitude":131.1805,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Kumamotoken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Asogun'Ubuyamamura",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Tajiri",
     "gp:parent_id":"28489579",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672703
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26315476"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"76d5ad4d3422b2393de4d6ad6c564fce",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538346093,
+            "region_id":85672703
+        }
+    ],
     "wof:id":538346093,
-    "wof:lastmodified":1460073019,
+    "wof:lastmodified":1462980010,
     "wof:name":"869-2704",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672703,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    131.1805,
+    33.0322,
+    131.1805,
+    33.0322
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[131.18049999999999,33.0322],"type":"Point"}
 }

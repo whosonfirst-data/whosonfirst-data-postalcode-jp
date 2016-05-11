@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"133.6234,34.602,133.6234,34.602",
+    "geom:latitude":34.602,
+    "geom:longitude":133.6234,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Okayamaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Odagunyakagechou",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Yokodani",
     "gp:parent_id":"28473442",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672675
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26297322"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dd6f753d4c590ad704165de97dd922f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538311145,
+            "region_id":85672675
+        }
+    ],
     "wof:id":538311145,
-    "wof:lastmodified":1460071422,
+    "wof:lastmodified":1462979842,
     "wof:name":"714-1212",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672675,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    133.6234,
+    34.602,
+    133.6234,
+    34.602
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[133.6234,34.602],"type":"Point"}
 }

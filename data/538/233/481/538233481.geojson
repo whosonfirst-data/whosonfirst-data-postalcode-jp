@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"137.8988,34.7095,137.8988,34.7095",
+    "geom:latitude":34.7095,
+    "geom:longitude":137.8988,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Shizuokaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Iwatashi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Higashiwaki",
     "gp:parent_id":"28437825",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672753
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26261561"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d07b7bc39b9e7ecb23c8a756491f0ce6",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538233481,
+            "region_id":85672753
+        }
+    ],
     "wof:id":538233481,
-    "wof:lastmodified":1460067918,
+    "wof:lastmodified":1462979518,
     "wof:name":"438-0032",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672753,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    137.8988,
+    34.7095,
+    137.8988,
+    34.7095
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[137.89879999999999,34.7095],"type":"Point"}
 }

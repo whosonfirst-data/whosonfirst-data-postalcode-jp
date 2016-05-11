@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"139.5096,35.9659,139.5096,35.9659",
+    "geom:latitude":35.9659,
+    "geom:longitude":139.5096,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Saitamaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Hikigunkawajimamachi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Nishiya",
     "gp:parent_id":"28410073",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672807
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26230907"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"547b20142595d4fb24d9b198eedd046e",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538173047,
+            "region_id":85672807
+        }
+    ],
     "wof:id":538173047,
-    "wof:lastmodified":1460064996,
+    "wof:lastmodified":1462979442,
     "wof:name":"350-0147",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672807,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    139.5096,
+    35.9659,
+    139.5096,
+    35.9659
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[139.50960000000001,35.9659],"type":"Point"}
 }

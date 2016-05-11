@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"132.9504,35.4935,132.9504,35.4935",
+    "geom:latitude":35.4935,
+    "geom:longitude":132.9504,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Shimaneken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Matsueshi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Aikachou",
     "gp:parent_id":"28494646",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672679
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26294636"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"13737b7b493999f7628e1eb415b7eee3",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538304425,
+            "region_id":85672679
+        }
+    ],
     "wof:id":538304425,
-    "wof:lastmodified":1460071117,
+    "wof:lastmodified":1462979813,
     "wof:name":"690-0261",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672679,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    132.9504,
+    35.4935,
+    132.9504,
+    35.4935
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[132.9504,35.4935],"type":"Point"}
 }

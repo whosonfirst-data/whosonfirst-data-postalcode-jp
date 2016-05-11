@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"138.6556,36.37,138.6556,36.37",
+    "geom:latitude":36.37,
+    "geom:longitude":138.6556,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Naganoken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Kitasakugunkaruizawamachi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Tougemachi",
     "gp:parent_id":"28432355",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672871
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26255882"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8b85dbf3f64c4c4273f01f733f5e163a",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538221703,
+            "region_id":85672871
+        }
+    ],
     "wof:id":538221703,
-    "wof:lastmodified":1460067240,
+    "wof:lastmodified":1462979477,
     "wof:name":"389-0101",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672871,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    138.6556,
+    36.37,
+    138.6556,
+    36.37
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[138.65559999999999,36.37],"type":"Point"}
 }

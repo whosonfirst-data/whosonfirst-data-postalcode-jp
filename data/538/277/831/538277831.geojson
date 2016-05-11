@@ -5,34 +5,56 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"135.6315,34.8624,135.6315,34.8624",
+    "geom:latitude":34.8624,
+    "geom:longitude":135.6315,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Oosakafu",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Takatsukishi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Amakitanochou",
     "gp:parent_id":"28458437",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        102031347,
+        "85632429",
+        85672785
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26282387"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d59376c7e501c271404d4f2ad7b10f5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102031347,
+            "postalcode_id":538277831,
+            "region_id":85672785
+        }
+    ],
     "wof:id":538277831,
-    "wof:lastmodified":1460069983,
+    "wof:lastmodified":1462979653,
     "wof:name":"569-1108",
-    "wof:parent_id":-1,
+    "wof:parent_id":102031347,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    135.6315,
+    34.8624,
+    135.6315,
+    34.8624
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[135.63149999999999,34.8624],"type":"Point"}
 }

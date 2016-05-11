@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"139.6065,35.8143,139.6065,35.8143",
+    "geom:latitude":35.8143,
+    "geom:longitude":139.6065,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Saitamaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Asakashi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Tajima",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
+    "mz:is_approximate":1,
+    "src:geom":"gn",
     "wof:belongsto":[
         "102191569",
         102031865,
@@ -21,7 +30,7 @@
         "gp:id":"26230170"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"2f453ac7876908650b856da1b3634a47",
     "wof:hierarchy":[
         {
             "continent_id":"102191569",
@@ -32,19 +41,19 @@
         }
     ],
     "wof:id":538171541,
-    "wof:lastmodified":1460064936,
+    "wof:lastmodified":1462979445,
     "wof:name":"351-0032",
-    "wof:parent_id":"102031865",
+    "wof:parent_id":102031865,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    139.6065,
+    35.8143,
+    139.6065,
+    35.8143
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[139.60650000000001,35.8143],"type":"Point"}
 }

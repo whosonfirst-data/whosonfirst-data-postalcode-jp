@@ -5,34 +5,56 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"132.7862,33.8535,132.7862,33.8535",
+    "geom:latitude":33.8535,
+    "geom:longitude":132.7862,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Ehimeken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Matsuyamashi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Dougosagidanichou",
     "gp:parent_id":"28479164",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        102031885,
+        "85632429",
+        85672711
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26304693"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3ed6d1f33d7f1b152bcee1e791307a7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102031885,
+            "postalcode_id":538322709,
+            "region_id":85672711
+        }
+    ],
     "wof:id":538322709,
-    "wof:lastmodified":1460071926,
+    "wof:lastmodified":1462979914,
     "wof:name":"790-0836",
-    "wof:parent_id":-1,
+    "wof:parent_id":102031885,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    132.7862,
+    33.8535,
+    132.7862,
+    33.8535
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[132.78620000000001,33.8535],"type":"Point"}
 }

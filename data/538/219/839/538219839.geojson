@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"137.9882,36.2618,137.9882,36.2618",
+    "geom:latitude":36.2618,
+    "geom:longitude":137.9882,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Naganoken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Matsumotoshi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Asamaonsen",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
+    "mz:is_approximate":1,
+    "src:geom":"gn",
     "wof:belongsto":[
         "102191569",
         102031549,
@@ -21,7 +30,7 @@
         "gp:id":"26255102"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"1615ed32eb66ec7840a7fa0c8752d869",
     "wof:hierarchy":[
         {
             "continent_id":"102191569",
@@ -32,19 +41,19 @@
         }
     ],
     "wof:id":538219839,
-    "wof:lastmodified":1460067159,
+    "wof:lastmodified":1462979479,
     "wof:name":"390-0303",
-    "wof:parent_id":"102031549",
+    "wof:parent_id":102031549,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    137.9882,
+    36.2618,
+    137.9882,
+    36.2618
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[137.98820000000001,36.2618],"type":"Point"}
 }

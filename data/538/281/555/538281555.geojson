@@ -5,34 +5,56 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"135.6282,34.7351,135.6282,34.7351",
+    "geom:latitude":34.7351,
+    "geom:longitude":135.6282,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Oosakafu",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Shijounawateshi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Nichoudoorichou",
     "gp:parent_id":"28460295",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        102031679,
+        "85632429",
+        85672785
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26284188"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4711b158bee8f663cf71cc92f10c6ef9",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102031679,
+            "postalcode_id":538281555,
+            "region_id":85672785
+        }
+    ],
     "wof:id":538281555,
-    "wof:lastmodified":1460070149,
+    "wof:lastmodified":1462979656,
     "wof:name":"575-0044",
-    "wof:parent_id":-1,
+    "wof:parent_id":102031679,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    135.6282,
+    34.7351,
+    135.6282,
+    34.7351
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[135.62819999999999,34.7351],"type":"Point"}
 }

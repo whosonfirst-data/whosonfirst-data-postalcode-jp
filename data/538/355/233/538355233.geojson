@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"128.4332,27.0579,128.4332,27.0579",
+    "geom:latitude":27.0579,
+    "geom:longitude":128.4332,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Kagoshimaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Ooshimagunyoronchou",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Nama",
     "gp:parent_id":"28493731",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672867
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26320143"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c6bc696347981b813fa29d27baa6a7df",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538355233,
+            "region_id":85672867
+        }
+    ],
     "wof:id":538355233,
-    "wof:lastmodified":1460073330,
+    "wof:lastmodified":1462980041,
     "wof:name":"891-9308",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672867,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    128.4332,
+    27.0579,
+    128.4332,
+    27.0579
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[128.4332,27.0579],"type":"Point"}
 }

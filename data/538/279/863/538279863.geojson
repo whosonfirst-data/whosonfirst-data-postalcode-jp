@@ -5,34 +5,56 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"135.6429,34.7605,135.6429,34.7605",
+    "geom:latitude":34.7605,
+    "geom:longitude":135.6429,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Oosakafu",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Neyagawashi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Uzumasatakatsukachou",
     "gp:parent_id":"28459551",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        102032083,
+        "85632429",
+        85672785
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26283440"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4050a290ba55e7a9f0e21594efb2b08b",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102032083,
+            "postalcode_id":538279863,
+            "region_id":85672785
+        }
+    ],
     "wof:id":538279863,
-    "wof:lastmodified":1460070071,
+    "wof:lastmodified":1462979655,
     "wof:name":"572-0842",
-    "wof:parent_id":-1,
+    "wof:parent_id":102032083,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    135.6429,
+    34.7605,
+    135.6429,
+    34.7605
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[135.6429,34.7605],"type":"Point"}
 }

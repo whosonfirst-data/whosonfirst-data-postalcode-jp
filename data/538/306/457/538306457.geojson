@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"132.5235,35.0184,132.5235,35.0184",
+    "geom:latitude":35.0184,
+    "geom:longitude":132.5235,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Shimaneken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Oochigun'Oochichou",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Minato",
     "gp:parent_id":"28471403",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672679
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26295525"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fe47abe63f457b593b01e6ad7aa69a11",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538306457,
+            "region_id":85672679
+        }
+    ],
     "wof:id":538306457,
-    "wof:lastmodified":1460071211,
+    "wof:lastmodified":1462979819,
     "wof:name":"696-1145",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672679,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    132.5235,
+    35.0184,
+    132.5235,
+    35.0184
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[132.52350000000001,35.0184],"type":"Point"}
 }

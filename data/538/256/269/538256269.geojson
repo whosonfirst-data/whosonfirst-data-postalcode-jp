@@ -5,34 +5,56 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"135.8992,35.0936,135.8992,35.0936",
+    "geom:latitude":35.0936,
+    "geom:longitude":135.8992,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Shigaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Ootsushi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Ogoto",
     "gp:parent_id":"28447977",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        102031435,
+        "85632429",
+        85672789
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26272446"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4603491e80a179d17b4c421e6c040ab0",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102031435,
+            "postalcode_id":538256269,
+            "region_id":85672789
+        }
+    ],
     "wof:id":538256269,
-    "wof:lastmodified":1460069067,
+    "wof:lastmodified":1462979628,
     "wof:name":"520-0101",
-    "wof:parent_id":-1,
+    "wof:parent_id":102031435,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    135.8992,
+    35.0936,
+    135.8992,
+    35.0936
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[135.89920000000001,35.0936],"type":"Point"}
 }

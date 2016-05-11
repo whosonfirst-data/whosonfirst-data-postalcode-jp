@@ -5,22 +5,31 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"133.2036,34.2423,133.2036,34.2423",
+    "geom:latitude":34.2423,
+    "geom:longitude":133.2036,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Ehimeken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Ochigunyugechou",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Kamada",
     "gp:parent_id":"28480445",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
+    "mz:is_approximate":1,
+    "src:geom":"gn",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26305686"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"e4a670652f7a166849621be6fdc2d601",
     "wof:hierarchy":[],
     "wof:id":538325603,
-    "wof:lastmodified":1460072076,
+    "wof:lastmodified":1462979921,
     "wof:name":"794-2510",
     "wof:parent_id":-1,
     "wof:placetype":"postalcode",
@@ -29,10 +38,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    133.2036,
+    34.2423,
+    133.2036,
+    34.2423
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[133.20359999999999,34.2423],"type":"Point"}
 }

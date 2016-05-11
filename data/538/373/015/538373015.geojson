@@ -5,34 +5,56 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"131.5768,33.2162,131.5768,33.2162",
+    "geom:latitude":33.2162,
+    "geom:longitude":131.5768,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Ooitaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Ooitashi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Fukagawauchi",
     "gp:parent_id":"28489997",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        102031459,
+        "85632429",
+        85672723
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26316305"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8531f23c149f06acdea85151073f83a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102031459,
+            "postalcode_id":538373015,
+            "region_id":85672723
+        }
+    ],
     "wof:id":538373015,
-    "wof:lastmodified":1460073907,
+    "wof:lastmodified":1462980014,
     "wof:name":"870-0881",
-    "wof:parent_id":-1,
+    "wof:parent_id":102031459,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    131.5768,
+    33.2162,
+    131.5768,
+    33.2162
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[131.57679999999999,33.2162],"type":"Point"}
 }

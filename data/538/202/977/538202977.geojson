@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"137.0699,36.649,137.0699,36.649",
+    "geom:latitude":36.649,
+    "geom:longitude":137.0699,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Toyamaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Neigunfuchuumachi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Daira",
     "gp:parent_id":"28423723",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672759
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26248374"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"133a953ee362d636ee351bb96224b323",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538202977,
+            "region_id":85672759
+        }
+    ],
     "wof:id":538202977,
-    "wof:lastmodified":1460066420,
+    "wof:lastmodified":1462980123,
     "wof:name":"939-2639",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672759,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    137.0699,
+    36.649,
+    137.0699,
+    36.649
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[137.06989999999999,36.649],"type":"Point"}
 }

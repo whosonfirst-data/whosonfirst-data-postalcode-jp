@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"131.0536,32.6677,131.0536,32.6677",
+    "geom:latitude":32.6677,
+    "geom:longitude":131.0536,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Kumamotoken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Kamimashikigunseiwason",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Konakadake",
     "gp:parent_id":"28489718",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672703
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26315690"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cae4edd70660fd3dae85528649e4733a",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538346453,
+            "region_id":85672703
+        }
+    ],
     "wof:id":538346453,
-    "wof:lastmodified":1460073040,
+    "wof:lastmodified":1462979997,
     "wof:name":"861-3803",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672703,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    131.0536,
+    32.6677,
+    131.0536,
+    32.6677
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[131.05359999999999,32.6677],"type":"Point"}
 }

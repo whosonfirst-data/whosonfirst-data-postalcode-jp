@@ -5,22 +5,31 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"127.143,26.371,127.143,26.371",
+    "geom:latitude":26.371,
+    "geom:longitude":127.143,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Okinawaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Shimajiriguntonakison",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Tonakison'Ichien",
     "gp:parent_id":"1115815",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
+    "mz:is_approximate":1,
+    "src:geom":"gn",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26320842"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"0229dc57ec2110db2e9b965ae60a5e49",
     "wof:hierarchy":[],
     "wof:id":538356731,
-    "wof:lastmodified":1460073379,
+    "wof:lastmodified":1462980054,
     "wof:name":"901-3601",
     "wof:parent_id":-1,
     "wof:placetype":"postalcode",
@@ -29,10 +38,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    127.143,
+    26.371,
+    127.143,
+    26.371
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[127.143,26.371],"type":"Point"}
 }

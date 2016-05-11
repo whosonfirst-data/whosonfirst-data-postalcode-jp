@@ -5,34 +5,56 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"139.4669,35.7238,139.4669,35.7238",
+    "geom:latitude":35.7238,
+    "geom:longitude":139.4669,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Toukyouto",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Kodairashi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Tsudamachi",
     "gp:parent_id":"28415144",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        102031609,
+        "85632429",
+        85672817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26237867"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e5f2cd36e3fef7a85f528e40ecb81948",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102031609,
+            "postalcode_id":538184561,
+            "region_id":85672817
+        }
+    ],
     "wof:id":538184561,
-    "wof:lastmodified":1460065489,
+    "wof:lastmodified":1462979339,
     "wof:name":"187-0025",
-    "wof:parent_id":-1,
+    "wof:parent_id":102031609,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    139.4669,
+    35.7238,
+    139.4669,
+    35.7238
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[139.46690000000001,35.7238],"type":"Point"}
 }

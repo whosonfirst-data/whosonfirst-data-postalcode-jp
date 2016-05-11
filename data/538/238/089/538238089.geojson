@@ -5,34 +5,56 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"136.8128,35.1428,136.8128,35.1428",
+    "geom:latitude":35.1428,
+    "geom:longitude":136.8128,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Aichiken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Nagoyashinakagawaku",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Tomidachouharuta",
     "gp:parent_id":"28439748",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        102031499,
+        "85632429",
+        85672731
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26263874"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"607eb14c3879367176001c4ff1ad258b",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102031499,
+            "postalcode_id":538238089,
+            "region_id":85672731
+        }
+    ],
     "wof:id":538238089,
-    "wof:lastmodified":1460068211,
+    "wof:lastmodified":1462979539,
     "wof:name":"454-0986",
-    "wof:parent_id":-1,
+    "wof:parent_id":102031499,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    136.8128,
+    35.1428,
+    136.8128,
+    35.1428
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[136.81280000000001,35.1428],"type":"Point"}
 }

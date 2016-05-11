@@ -5,34 +5,56 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"140.4154,37.7641,140.4154,37.7641",
+    "geom:latitude":37.7641,
+    "geom:longitude":140.4154,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Fukushimaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Fukushimashi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Shimonodera",
     "gp:parent_id":"28398106",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        102031989,
+        "85632429",
+        85672835
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26218699"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9554f54053fa917d7f73f4776bcb1983",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102031989,
+            "postalcode_id":538146763,
+            "region_id":85672835
+        }
+    ],
     "wof:id":538146763,
-    "wof:lastmodified":1460063945,
+    "wof:lastmodified":1462980183,
     "wof:name":"960-8075",
-    "wof:parent_id":-1,
+    "wof:parent_id":102031989,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    140.4154,
+    37.7641,
+    140.4154,
+    37.7641
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[140.41540000000001,37.7641],"type":"Point"}
 }

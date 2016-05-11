@@ -5,22 +5,31 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"129.3095,28.1488,129.3095,28.1488",
+    "geom:latitude":28.1488,
+    "geom:longitude":129.3095,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Kagoshimaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Ooshimagunsetouchichou",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Koniya(Oominato)",
     "gp:parent_id":"28493579",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
+    "mz:is_approximate":1,
+    "src:geom":"gn",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26319928"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"a59c349cec4212b955bfac92eff54d30",
     "wof:hierarchy":[],
     "wof:id":538373563,
-    "wof:lastmodified":1460073928,
+    "wof:lastmodified":1462980043,
     "wof:name":"894-1503",
     "wof:parent_id":-1,
     "wof:placetype":"postalcode",
@@ -29,10 +38,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    129.3095,
+    28.1488,
+    129.3095,
+    28.1488
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[129.30950000000001,28.1488],"type":"Point"}
 }

@@ -5,34 +5,56 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"130.682,32.8001,130.682,32.8001",
+    "geom:latitude":32.8001,
+    "geom:longitude":130.682,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Kumamotoken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Kumamotoshi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Tosakamachi",
     "gp:parent_id":"28488250",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        102031581,
+        "85632429",
+        85672703
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26314365"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"831a6d643f19f4549ac947977622b910",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102031581,
+            "postalcode_id":538342903,
+            "region_id":85672703
+        }
+    ],
     "wof:id":538342903,
-    "wof:lastmodified":1460072896,
+    "wof:lastmodified":1462979992,
     "wof:name":"860-0045",
-    "wof:parent_id":-1,
+    "wof:parent_id":102031581,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    130.682,
+    32.8001,
+    130.682,
+    32.8001
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[130.68199999999999,32.8001],"type":"Point"}
 }

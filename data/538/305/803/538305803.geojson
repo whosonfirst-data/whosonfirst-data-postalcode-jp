@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"133.3068,35.3762,133.3068,35.3762",
+    "geom:latitude":35.3762,
+    "geom:longitude":133.3068,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Shimaneken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Nogigunhakutachou",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Yasudaseki",
     "gp:parent_id":"28471115",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26295235"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"139182bb64513cdbb9875cb9311d5b6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538305803,
+            "region_id":85672685
+        }
+    ],
     "wof:id":538305803,
-    "wof:lastmodified":1460071183,
+    "wof:lastmodified":1462979816,
     "wof:name":"692-0202",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672685,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    133.3068,
+    35.3762,
+    133.3068,
+    35.3762
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[133.30680000000001,35.3762],"type":"Point"}
 }

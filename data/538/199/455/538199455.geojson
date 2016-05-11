@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"139.2273,37.7911,139.2273,37.7911",
+    "geom:latitude":37.7911,
+    "geom:longitude":139.2273,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Niigataken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Kitakanbaragunyasudamachi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Jisha",
     "gp:parent_id":"28421759",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672849
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26243049"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cc5a63e31c4b69249d9d0df757eb3b77",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538199455,
+            "region_id":85672849
+        }
+    ],
     "wof:id":538199455,
-    "wof:lastmodified":1460066277,
+    "wof:lastmodified":1462980174,
     "wof:name":"959-2205",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672849,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    139.2273,
+    37.7911,
+    139.2273,
+    37.7911
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[139.22730000000001,37.7911],"type":"Point"}
 }

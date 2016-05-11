@@ -5,34 +5,56 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"136.9185,35.0905,136.9185,35.0905",
+    "geom:latitude":35.0905,
+    "geom:longitude":136.9185,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Aichiken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Nagoyashiminamiku",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Kitagashirachou",
     "gp:parent_id":"28439990",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        102031499,
+        "85632429",
+        85672731
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26264189"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c88abc4612a0f7ac7ee740dfa5c4b84c",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102031499,
+            "postalcode_id":538238575,
+            "region_id":85672731
+        }
+    ],
     "wof:id":538238575,
-    "wof:lastmodified":1460068234,
+    "wof:lastmodified":1462979541,
     "wof:name":"457-0827",
-    "wof:parent_id":-1,
+    "wof:parent_id":102031499,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    136.9185,
+    35.0905,
+    136.9185,
+    35.0905
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[136.91849999999999,35.0905],"type":"Point"}
 }

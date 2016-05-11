@@ -5,22 +5,31 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"139.7102,38.7449,139.7102,38.7449",
+    "geom:latitude":38.7449,
+    "geom:longitude":139.7102,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Yamagataken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Tsuruokashi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Aburato",
     "gp:parent_id":"28396539",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
+    "mz:is_approximate":1,
+    "src:geom":"gn",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26217212"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"08d0f4f1fc6dde2f7b7cc5a501de1c5a",
     "wof:hierarchy":[],
     "wof:id":538143679,
-    "wof:lastmodified":1460063836,
+    "wof:lastmodified":1462980240,
     "wof:name":"997-1205",
     "wof:parent_id":-1,
     "wof:placetype":"postalcode",
@@ -29,10 +38,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    139.7102,
+    38.7449,
+    139.7102,
+    38.7449
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[139.71019999999999,38.7449],"type":"Point"}
 }

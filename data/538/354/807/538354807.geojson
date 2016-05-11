@@ -5,22 +5,31 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"129.2725,28.2605,129.2725,28.2605",
+    "geom:latitude":28.2605,
+    "geom:longitude":129.2725,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Kagoshimaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Ooshimagun'Ukenson",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Buren",
     "gp:parent_id":"28493549",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
+    "mz:is_approximate":1,
+    "src:geom":"gn",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26319885"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"50a6ba7e174d92482c76ca12cbdc1438",
     "wof:hierarchy":[],
     "wof:id":538354807,
-    "wof:lastmodified":1460073317,
+    "wof:lastmodified":1462980044,
     "wof:name":"894-3523",
     "wof:parent_id":-1,
     "wof:placetype":"postalcode",
@@ -29,10 +38,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    129.2725,
+    28.2605,
+    129.2725,
+    28.2605
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[129.27250000000001,28.2605],"type":"Point"}
 }

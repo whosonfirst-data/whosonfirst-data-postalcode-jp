@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"134.4902,33.825,134.4902,33.825",
+    "geom:latitude":33.825,
+    "geom:longitude":134.4902,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Tokushimaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Nakagun'Aioichou",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Yananoue",
     "gp:parent_id":"28478227",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672729
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26302684"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3513c39c25577070a436a71ebbc68fcf",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538320669,
+            "region_id":85672729
+        }
+    ],
     "wof:id":538320669,
-    "wof:lastmodified":1460071839,
+    "wof:lastmodified":1462979894,
     "wof:name":"771-5402",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672729,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    134.4902,
+    33.825,
+    134.4902,
+    33.825
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[134.49019999999999,33.825],"type":"Point"}
 }

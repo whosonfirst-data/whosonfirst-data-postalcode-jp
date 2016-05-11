@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"135.9755,34.5881,135.9755,34.5881",
+    "geom:latitude":34.5881,
+    "geom:longitude":135.9755,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Naraken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Udagunmuroumura",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Muyama",
     "gp:parent_id":"28466974",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672779
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26291071"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b80c45a58ae9b58df7ec403f26584daa",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538296171,
+            "region_id":85672779
+        }
+    ],
     "wof:id":538296171,
-    "wof:lastmodified":1460070748,
+    "wof:lastmodified":1462979720,
     "wof:name":"632-0207",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672779,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    135.9755,
+    34.5881,
+    135.9755,
+    34.5881
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[135.97550000000001,34.5881],"type":"Point"}
 }

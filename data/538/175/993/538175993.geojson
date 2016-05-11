@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"140.3549,35.4685,140.3549,35.4685",
+    "geom:latitude":35.4685,
+    "geom:longitude":140.3549,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Chibaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Mobarashi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Senzawa",
     "gp:parent_id":"28411377",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672797
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26232494"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3bf7aaab3fddfbae01d5c179ec714582",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538175993,
+            "region_id":85672797
+        }
+    ],
     "wof:id":538175993,
-    "wof:lastmodified":1460065126,
+    "wof:lastmodified":1462979390,
     "wof:name":"299-4103",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672797,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    140.3549,
+    35.4685,
+    140.3549,
+    35.4685
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[140.35489999999999,35.4685],"type":"Point"}
 }

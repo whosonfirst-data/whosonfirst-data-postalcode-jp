@@ -5,34 +5,56 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"132.7763,33.9356,132.7763,33.9356",
+    "geom:latitude":33.9356,
+    "geom:longitude":132.7763,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Ehimeken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Houjoushi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Tsunetake",
     "gp:parent_id":"28479345",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        102031885,
+        "85632429",
+        85672711
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26305473"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a29f39cbd51b61a68f9d81131bd7bc55",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102031885,
+            "postalcode_id":538323287,
+            "region_id":85672711
+        }
+    ],
     "wof:id":538323287,
-    "wof:lastmodified":1460071949,
+    "wof:lastmodified":1462979931,
     "wof:name":"799-2455",
-    "wof:parent_id":-1,
+    "wof:parent_id":102031885,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    132.7763,
+    33.9356,
+    132.7763,
+    33.9356
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[132.77629999999999,33.9356],"type":"Point"}
 }

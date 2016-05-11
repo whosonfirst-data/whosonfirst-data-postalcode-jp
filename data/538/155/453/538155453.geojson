@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"140.1469,35.9222,140.1469,35.9222",
+    "geom:latitude":35.9222,
+    "geom:longitude":140.1469,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Ibarakiken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Ryuugasakishi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Minaminakajimamachi",
     "gp:parent_id":"28402267",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672801
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26222969"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"929066435bb0e79be55558c281cbf43f",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538155453,
+            "region_id":85672801
+        }
+    ],
     "wof:id":538155453,
-    "wof:lastmodified":1460064267,
+    "wof:lastmodified":1462979399,
     "wof:name":"301-0047",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672801,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    140.1469,
+    35.9222,
+    140.1469,
+    35.9222
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[140.14689999999999,35.9222],"type":"Point"}
 }

@@ -5,34 +5,56 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"138.8404,37.4459,138.8404,37.4459",
+    "geom:latitude":37.4459,
+    "geom:longitude":138.8404,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Niigataken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Santougunteradomarimachi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Yamada",
     "gp:parent_id":"28419084",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        102032291,
+        "85632429",
+        85672849
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26244209"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"02adac4c450c9942fd69630dab7d8d4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102032291,
+            "postalcode_id":538193027,
+            "region_id":85672849
+        }
+    ],
     "wof:id":538193027,
-    "wof:lastmodified":1460065941,
+    "wof:lastmodified":1462980129,
     "wof:name":"940-2526",
-    "wof:parent_id":-1,
+    "wof:parent_id":102032291,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    138.8404,
+    37.4459,
+    138.8404,
+    37.4459
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[138.84039999999999,37.4459],"type":"Point"}
 }

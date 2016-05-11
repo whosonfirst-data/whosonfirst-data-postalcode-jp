@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"139.8752,36.051,139.8752,36.051",
+    "geom:latitude":36.051,
+    "geom:longitude":139.8752,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Ibarakiken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Iwaishi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Kuguido",
     "gp:parent_id":"28403521",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672801
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26223278"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"78e7b0e15fb6a53461bc66bc4fd6c7ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538158367,
+            "region_id":85672801
+        }
+    ],
     "wof:id":538158367,
-    "wof:lastmodified":1460064373,
+    "wof:lastmodified":1462979403,
     "wof:name":"306-0641",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672801,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    139.8752,
+    36.051,
+    139.8752,
+    36.051
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[139.87520000000001,36.051],"type":"Point"}
 }

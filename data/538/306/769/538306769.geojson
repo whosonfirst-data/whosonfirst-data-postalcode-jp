@@ -5,22 +5,31 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"133.0391,36.0228,133.0391,36.0228",
+    "geom:latitude":36.0228,
+    "geom:longitude":133.0391,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Shimaneken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Okigunchibumura",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Kurii",
     "gp:parent_id":"28471513",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
+    "mz:is_approximate":1,
+    "src:geom":"gn",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26295822"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"fa729026f8aa52b9d4fed117dfe7d677",
     "wof:hierarchy":[],
     "wof:id":538306769,
-    "wof:lastmodified":1460071226,
+    "wof:lastmodified":1462979806,
     "wof:name":"684-0106",
     "wof:parent_id":-1,
     "wof:placetype":"postalcode",
@@ -29,10 +38,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    133.0391,
+    36.0228,
+    133.0391,
+    36.0228
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[133.03909999999999,36.0228],"type":"Point"}
 }

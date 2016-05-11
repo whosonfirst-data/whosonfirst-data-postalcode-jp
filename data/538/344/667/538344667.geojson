@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"130.7083,33.0407,130.7083,33.0407",
+    "geom:latitude":33.0407,
+    "geom:longitude":130.7083,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Kumamotoken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Yamagashi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Kamiyoshida",
     "gp:parent_id":"28488893",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672703
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26314838"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b3a6161f02b05f81b361e0a4b90a902b",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538344667,
+            "region_id":85672703
+        }
+    ],
     "wof:id":538344667,
-    "wof:lastmodified":1460072954,
+    "wof:lastmodified":1462979994,
     "wof:name":"861-0524",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672703,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    130.7083,
+    33.0407,
+    130.7083,
+    33.0407
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[130.70830000000001,33.0407],"type":"Point"}
 }

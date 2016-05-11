@@ -5,22 +5,31 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"129.2799,34.4715,129.2799,34.4715",
+    "geom:latitude":34.4715,
+    "geom:longitude":129.2799,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Nagasakiken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Kamiagatagunminechou",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Oumi",
     "gp:parent_id":"28487549",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
+    "mz:is_approximate":1,
+    "src:geom":"gn",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26314038"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"9a9924cd1ab28f95ca803ea5062857b7",
     "wof:hierarchy":[],
     "wof:id":538341463,
-    "wof:lastmodified":1460072836,
+    "wof:lastmodified":1462979950,
     "wof:name":"817-1304",
     "wof:parent_id":-1,
     "wof:placetype":"postalcode",
@@ -29,10 +38,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    129.2799,
+    34.4715,
+    129.2799,
+    34.4715
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[129.2799,34.4715],"type":"Point"}
 }

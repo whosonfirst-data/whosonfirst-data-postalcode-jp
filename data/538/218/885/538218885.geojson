@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"138.4705,35.4928,138.4705,35.4928",
+    "geom:latitude":35.4928,
+    "geom:longitude":138.4705,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Yamanashiken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Nishiyatsushirogunrokugouchou",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Tsudurasawa",
     "gp:parent_id":"28431092",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672821
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26254396"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0892255775ff68d84de996d6519b306d",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538218885,
+            "region_id":85672821
+        }
+    ],
     "wof:id":538218885,
-    "wof:lastmodified":1460067108,
+    "wof:lastmodified":1462979493,
     "wof:name":"409-3241",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672821,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    138.4705,
+    35.4928,
+    138.4705,
+    35.4928
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[138.47049999999999,35.4928],"type":"Point"}
 }

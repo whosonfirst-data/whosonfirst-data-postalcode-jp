@@ -5,22 +5,31 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"124.6998,24.6689,124.6998,24.6689",
+    "geom:latitude":24.6689,
+    "geom:longitude":124.6998,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Okinawaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Miyakoguntaramason",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Nakasuji",
     "gp:parent_id":"28494467",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
+    "mz:is_approximate":1,
+    "src:geom":"gn",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26320925"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"aec8c3519ff9c7944ff7027f813c755c",
     "wof:hierarchy":[],
     "wof:id":538356889,
-    "wof:lastmodified":1460073383,
+    "wof:lastmodified":1462980059,
     "wof:name":"906-0602",
     "wof:parent_id":-1,
     "wof:placetype":"postalcode",
@@ -29,10 +38,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    124.6998,
+    24.6689,
+    124.6998,
+    24.6689
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[124.6998,24.6689],"type":"Point"}
 }

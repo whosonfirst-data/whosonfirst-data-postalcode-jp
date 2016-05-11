@@ -5,34 +5,56 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"138.6331,36.3527,138.6331,36.3527",
+    "geom:latitude":36.3527,
+    "geom:longitude":138.6331,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Naganoken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Kitasakugunkaruizawamachi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Karuizawa(Sonota)",
     "gp:parent_id":"28432352",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        102032329,
+        "85632429",
+        85672749
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26255885"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"120ea62fff8582decbd5d2d5c8e01ef9",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102032329,
+            "postalcode_id":538221707,
+            "region_id":85672749
+        }
+    ],
     "wof:id":538221707,
-    "wof:lastmodified":1460067241,
+    "wof:lastmodified":1462979477,
     "wof:name":"389-0103",
-    "wof:parent_id":-1,
+    "wof:parent_id":102032329,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    138.6331,
+    36.3527,
+    138.6331,
+    36.3527
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[138.63310000000001,36.3527],"type":"Point"}
 }

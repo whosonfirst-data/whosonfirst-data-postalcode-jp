@@ -5,34 +5,56 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"132.7512,33.8689,132.7512,33.8689",
+    "geom:latitude":33.8689,
+    "geom:longitude":132.7512,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Ehimeken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Matsuyamashi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Higashinagato",
     "gp:parent_id":"28479196",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        102031885,
+        "85632429",
+        85672711
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26304732"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8643ac4568ce3ae311f86727ca1ee860",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102031885,
+            "postalcode_id":538323041,
+            "region_id":85672711
+        }
+    ],
     "wof:id":538323041,
-    "wof:lastmodified":1460071941,
+    "wof:lastmodified":1462979917,
     "wof:name":"791-8005",
-    "wof:parent_id":-1,
+    "wof:parent_id":102031885,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    132.7512,
+    33.8689,
+    132.7512,
+    33.8689
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[132.75120000000001,33.8689],"type":"Point"}
 }

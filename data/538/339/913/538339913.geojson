@@ -5,34 +5,56 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"129.6906,33.1473,129.6906,33.1473",
+    "geom:latitude":33.1473,
+    "geom:longitude":129.6906,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Nagasakiken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Saseboshi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Funakoshichou",
     "gp:parent_id":"28486846",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        102031403,
+        "85632429",
+        85672857
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26312499"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9e8b5fc38c576ce03b520423e787db9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102031403,
+            "postalcode_id":538339913,
+            "region_id":85672857
+        }
+    ],
     "wof:id":538339913,
-    "wof:lastmodified":1460072784,
+    "wof:lastmodified":1462979984,
     "wof:name":"857-1231",
-    "wof:parent_id":-1,
+    "wof:parent_id":102031403,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    129.6906,
+    33.1473,
+    129.6906,
+    33.1473
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[129.69059999999999,33.1473],"type":"Point"}
 }

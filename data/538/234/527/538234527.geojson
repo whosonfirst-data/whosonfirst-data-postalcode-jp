@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"138.9125,35.3236,138.9125,35.3236",
+    "geom:latitude":35.3236,
+    "geom:longitude":138.9125,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Shizuokaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Gotenbashi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Hitosugi",
     "gp:parent_id":"28438270",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672753
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26261887"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6e35754f1fd372cc6d543a69c4022e60",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538234527,
+            "region_id":85672753
+        }
+    ],
     "wof:id":538234527,
-    "wof:lastmodified":1460067960,
+    "wof:lastmodified":1462979498,
     "wof:name":"412-0005",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672753,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    138.9125,
+    35.3236,
+    138.9125,
+    35.3236
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[138.91249999999999,35.3236],"type":"Point"}
 }

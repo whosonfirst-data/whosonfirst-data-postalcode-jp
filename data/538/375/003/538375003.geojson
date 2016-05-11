@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"138.8375,36.5715,138.8375,36.5715",
+    "geom:latitude":36.5715,
+    "geom:longitude":138.8375,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Gunmaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Agatsumagun'Agatsumamachi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Ikanikeisaiganaibaai",
     "gp:parent_id":"28379185",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672871
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26228194"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ba78a09b1f4e0d16e9e7473b8866386d",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538375003,
+            "region_id":85672871
+        }
+    ],
     "wof:id":538375003,
-    "wof:lastmodified":1460073981,
+    "wof:lastmodified":1462979466,
     "wof:name":"377-0800",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672871,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    138.8375,
+    36.5715,
+    138.8375,
+    36.5715
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[138.83750000000001,36.5715],"type":"Point"}
 }

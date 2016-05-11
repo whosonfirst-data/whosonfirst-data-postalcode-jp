@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"130.5686,33.7831,130.5686,33.7831",
+    "geom:latitude":33.7831,
+    "geom:longitude":130.5686,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Fukuokaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Munakatashi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Asano",
     "gp:parent_id":"28484450",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26310039"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5de27f85796436667ba3fce9b06307f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538334543,
+            "region_id":85672697
+        }
+    ],
     "wof:id":538334543,
-    "wof:lastmodified":1460072530,
+    "wof:lastmodified":1462979943,
     "wof:name":"811-3415",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672697,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    130.5686,
+    33.7831,
+    130.5686,
+    33.7831
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[130.5686,33.7831],"type":"Point"}
 }

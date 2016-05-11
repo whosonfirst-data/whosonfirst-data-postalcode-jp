@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"133.8352,34.5879,133.8352,34.5879",
+    "geom:latitude":34.5879,
+    "geom:longitude":133.8352,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Okayamaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Kurashikishi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Chayamachihayaoki",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
+    "mz:is_approximate":1,
+    "src:geom":"gn",
     "wof:belongsto":[
         "102191569",
         102031579,
@@ -21,7 +30,7 @@
         "gp:id":"26296415"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"aacb07a21520d40c361044e6eb7cdd1d",
     "wof:hierarchy":[
         {
             "continent_id":"102191569",
@@ -32,19 +41,19 @@
         }
     ],
     "wof:id":538108699,
-    "wof:lastmodified":1460062546,
+    "wof:lastmodified":1462979836,
     "wof:name":"709-1122",
-    "wof:parent_id":"102031579",
+    "wof:parent_id":102031579,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    133.8352,
+    34.5879,
+    133.8352,
+    34.5879
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[133.83519999999999,34.5879],"type":"Point"}
 }

@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"141.5481,38.7312,141.5481,38.7312",
+    "geom:latitude":38.7312,
+    "geom:longitude":141.5481,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Miyagiken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Motoyoshigun'Utatsuchou",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Minaminosawa",
     "gp:parent_id":"24847906",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672843
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26214617"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"704ee90f24de2f345ea459aec1ccc9f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538138261,
+            "region_id":85672843
+        }
+    ],
     "wof:id":538138261,
-    "wof:lastmodified":1460063638,
+    "wof:lastmodified":1462980224,
     "wof:name":"988-0412",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672843,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    141.5481,
+    38.7312,
+    141.5481,
+    38.7312
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[141.54810000000001,38.7312],"type":"Point"}
 }

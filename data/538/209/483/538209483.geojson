@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"136.3887,36.391,136.3887,36.391",
+    "geom:latitude":36.391,
+    "geom:longitude":136.3887,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Ishikawaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Komatsushi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Kougyoudanchi",
     "gp:parent_id":"28426611",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672741
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26249760"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"36c6087e70a6af6e2ceb7e9941a29e06",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538209483,
+            "region_id":85672741
+        }
+    ],
     "wof:id":538209483,
-    "wof:lastmodified":1460066695,
+    "wof:lastmodified":1462980086,
     "wof:name":"923-0994",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672741,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    136.3887,
+    36.391,
+    136.3887,
+    36.391
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[136.3887,36.391],"type":"Point"}
 }

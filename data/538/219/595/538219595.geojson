@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"138.2431,36.7057,138.2431,36.7057",
+    "geom:latitude":36.7057,
+    "geom:longitude":138.2431,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Naganoken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Naganoshi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Yoshi",
     "gp:parent_id":"28431468",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672749
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26254947"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"81ad2cc0fc41b307fbf15fef36954c2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538219595,
+            "region_id":85672749
+        }
+    ],
     "wof:id":538219595,
-    "wof:lastmodified":1460067142,
+    "wof:lastmodified":1462979470,
     "wof:name":"381-0088",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672749,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    138.2431,
+    36.7057,
+    138.2431,
+    36.7057
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[138.2431,36.7057],"type":"Point"}
 }

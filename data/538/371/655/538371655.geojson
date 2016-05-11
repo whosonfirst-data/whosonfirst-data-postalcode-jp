@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"131.171,34.0062,131.171,34.0062",
+    "geom:latitude":34.0062,
+    "geom:longitude":131.171,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Yamaguchiken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Onodashi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Motoyamachou",
     "gp:parent_id":"28477072",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672689
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26301315"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e563c70bd3ce4b2d05b9c936c0383e1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538371655,
+            "region_id":85672689
+        }
+    ],
     "wof:id":538371655,
-    "wof:lastmodified":1460073869,
+    "wof:lastmodified":1462979883,
     "wof:name":"756-0874",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672689,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    131.171,
+    34.0062,
+    131.171,
+    34.0062
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[131.17099999999999,34.0062],"type":"Point"}
 }

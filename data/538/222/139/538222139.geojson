@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"138.0448,35.5546,138.0448,35.5546",
+    "geom:latitude":35.5546,
+    "geom:longitude":138.0448,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Naganoken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Shimoinagun'Ooshikamura",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Ookawara",
     "gp:parent_id":"28432631",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672749
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26256188"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9aaa28d3fe90e2c91bf55efdcd29ea82",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538222139,
+            "region_id":85672749
+        }
+    ],
     "wof:id":538222139,
-    "wof:lastmodified":1460067256,
+    "wof:lastmodified":1462979484,
     "wof:name":"399-3502",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672749,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    138.0448,
+    35.5546,
+    138.0448,
+    35.5546
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[138.04480000000001,35.5546],"type":"Point"}
 }

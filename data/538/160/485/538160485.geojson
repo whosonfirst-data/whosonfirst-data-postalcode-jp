@@ -5,34 +5,56 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"139.889,36.5584,139.889,36.5584",
+    "geom:latitude":36.5584,
+    "geom:longitude":139.889,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Tochigiken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Utsunomiyashi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Nibanchou",
     "gp:parent_id":"28404560",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        102031261,
+        "85632429",
+        85672813
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26225377"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6396554a2ed883478f2fc2c13811d2a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102031261,
+            "postalcode_id":538160485,
+            "region_id":85672813
+        }
+    ],
     "wof:id":538160485,
-    "wof:lastmodified":1460064468,
+    "wof:lastmodified":1462979416,
     "wof:name":"320-0813",
-    "wof:parent_id":-1,
+    "wof:parent_id":102031261,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    139.889,
+    36.5584,
+    139.889,
+    36.5584
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[139.88900000000001,36.5584],"type":"Point"}
 }

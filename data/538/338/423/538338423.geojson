@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"130.3643,33.2979,130.3643,33.2979",
+    "geom:latitude":33.2979,
+    "geom:longitude":130.3643,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Sagaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Kanzakigunkanzakimachi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Motoorimuta",
     "gp:parent_id":"28486174",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672695
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26311762"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"60fa0fd31bada3b8b7cfef69ba4f1ea1",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538338423,
+            "region_id":85672695
+        }
+    ],
     "wof:id":538338423,
-    "wof:lastmodified":1460072717,
+    "wof:lastmodified":1462979967,
     "wof:name":"842-0013",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672695,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    130.3643,
+    33.2979,
+    130.3643,
+    33.2979
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[130.36429999999999,33.2979],"type":"Point"}
 }

@@ -5,34 +5,56 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"139.5845,35.9678,139.5845,35.9678",
+    "geom:latitude":35.9678,
+    "geom:longitude":139.5845,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Saitamaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Ageoshi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Fujimi",
     "gp:parent_id":"28409127",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        102031851,
+        "85632429",
+        85672807
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26229944"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"23069d2ee9407dcf835a187f91b45b00",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102031851,
+            "postalcode_id":538170989,
+            "region_id":85672807
+        }
+    ],
     "wof:id":538170989,
-    "wof:lastmodified":1460064905,
+    "wof:lastmodified":1462979451,
     "wof:name":"362-0041",
-    "wof:parent_id":-1,
+    "wof:parent_id":102031851,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    139.5845,
+    35.9678,
+    139.5845,
+    35.9678
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[139.58449999999999,35.9678],"type":"Point"}
 }

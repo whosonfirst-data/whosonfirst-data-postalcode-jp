@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"136.8812,37.1589,136.8812,37.1589",
+    "geom:latitude":37.1589,
+    "geom:longitude":136.8812,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Ishikawaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Kashimagunnakajimamachi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Tagishi",
     "gp:parent_id":"28426498",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672741
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26251205"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3216f705d6c5ab0f2247a3e829a9b88a",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538208947,
+            "region_id":85672741
+        }
+    ],
     "wof:id":538208947,
-    "wof:lastmodified":1460066677,
+    "wof:lastmodified":1462980098,
     "wof:name":"929-2212",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672741,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    136.8812,
+    37.1589,
+    136.8812,
+    37.1589
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[136.88120000000001,37.1589],"type":"Point"}
 }

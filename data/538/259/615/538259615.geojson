@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"136.1239,35.0681,136.1239,35.0681",
+    "geom:latitude":35.0681,
+    "geom:longitude":136.1239,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Shigaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Gamougunryuuouchou",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Shima",
     "gp:parent_id":"28449495",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672789
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26273399"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"faf80cc1aad7d116fff6ce7dae52e756",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538259615,
+            "region_id":85672789
+        }
+    ],
     "wof:id":538259615,
-    "wof:lastmodified":1460069212,
+    "wof:lastmodified":1462979632,
     "wof:name":"520-2513",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672789,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    136.1239,
+    35.0681,
+    136.1239,
+    35.0681
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[136.12389999999999,35.0681],"type":"Point"}
 }

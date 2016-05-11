@@ -5,34 +5,56 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"138.1719,34.8349,138.1719,34.8349",
+    "geom:latitude":34.8349,
+    "geom:longitude":138.1719,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Shizuokaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Haibaragunkanayachou",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Shimizu",
     "gp:parent_id":"1117436",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        102032327,
+        "85632429",
+        85672753
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26262542"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f4bf646097d5e8c439894430768dad0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102032327,
+            "postalcode_id":538370053,
+            "region_id":85672753
+        }
+    ],
     "wof:id":538370053,
-    "wof:lastmodified":1460073817,
+    "wof:lastmodified":1462979510,
     "wof:name":"428-0031",
-    "wof:parent_id":-1,
+    "wof:parent_id":102032327,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    138.1719,
+    34.8349,
+    138.1719,
+    34.8349
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[138.17189999999999,34.8349],"type":"Point"}
 }

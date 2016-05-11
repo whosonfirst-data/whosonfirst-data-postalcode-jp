@@ -5,34 +5,56 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"130.9762,31.9921,130.9762,31.9921",
+    "geom:latitude":31.9921,
+    "geom:longitude":130.9762,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Miyazakiken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Kobayashishi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Honmachi",
     "gp:parent_id":"28492133",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        102032293,
+        "85632429",
+        85672707
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26318296"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e7da097ab2e5963cdbecc5a80d46692e",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102032293,
+            "postalcode_id":538351591,
+            "region_id":85672707
+        }
+    ],
     "wof:id":538351591,
-    "wof:lastmodified":1460073223,
+    "wof:lastmodified":1462980034,
     "wof:name":"886-0008",
-    "wof:parent_id":-1,
+    "wof:parent_id":102032293,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    130.9762,
+    31.9921,
+    130.9762,
+    31.9921
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[130.97620000000001,31.9921],"type":"Point"}
 }

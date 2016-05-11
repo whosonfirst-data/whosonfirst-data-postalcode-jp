@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"139.301,37.9352,139.301,37.9352",
+    "geom:latitude":37.9352,
+    "geom:longitude":139.301,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Niigataken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Shibatashi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Kitaminoguchi",
     "gp:parent_id":"28419610",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672849
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26241533"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"426d70417ad4640319b4d1c19d305166",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538194371,
+            "region_id":85672849
+        }
+    ],
     "wof:id":538194371,
-    "wof:lastmodified":1460066021,
+    "wof:lastmodified":1462980164,
     "wof:name":"957-0074",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672849,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    139.301,
+    37.9352,
+    139.301,
+    37.9352
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[139.30099999999999,37.9352],"type":"Point"}
 }

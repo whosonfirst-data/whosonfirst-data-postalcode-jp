@@ -5,22 +5,31 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"130.5798,32.5078,130.5798,32.5078",
+    "geom:latitude":32.5078,
+    "geom:longitude":130.5798,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Kumamotoken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Yatsushiroshi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Shinkaimachi",
     "gp:parent_id":"28488495",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
+    "mz:is_approximate":1,
+    "src:geom":"gn",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26314439"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"12efb73d2c11f59e66b94fad1ad51b18",
     "wof:hierarchy":[],
     "wof:id":538343617,
-    "wof:lastmodified":1460072918,
+    "wof:lastmodified":1462980003,
     "wof:name":"866-0032",
     "wof:parent_id":-1,
     "wof:placetype":"postalcode",
@@ -29,10 +38,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    130.5798,
+    32.5078,
+    130.5798,
+    32.5078
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[130.57980000000001,32.5078],"type":"Point"}
 }

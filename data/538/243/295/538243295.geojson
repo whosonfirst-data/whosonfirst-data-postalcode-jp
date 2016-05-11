@@ -5,34 +5,56 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"137.0025,34.8911,137.0025,34.8911",
+    "geom:latitude":34.8911,
+    "geom:longitude":137.0025,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Aichiken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Hekinanshi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Nakagomachi",
     "gp:parent_id":"28442189",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        102031753,
+        "85632429",
+        85672731
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26266371"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f0866d717c553ecb25a067448dfb3086",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102031753,
+            "postalcode_id":538243295,
+            "region_id":85672731
+        }
+    ],
     "wof:id":538243295,
-    "wof:lastmodified":1460068517,
+    "wof:lastmodified":1462979533,
     "wof:name":"447-0042",
-    "wof:parent_id":-1,
+    "wof:parent_id":102031753,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    137.0025,
+    34.8911,
+    137.0025,
+    34.8911
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[137.0025,34.8911],"type":"Point"}
 }

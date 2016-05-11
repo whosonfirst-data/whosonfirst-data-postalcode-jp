@@ -5,34 +5,56 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"131.5055,33.5643,131.5055,33.5643",
+    "geom:latitude":33.5643,
+    "geom:longitude":131.5055,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Ooitaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Bungotakadashi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Tsuiji",
     "gp:parent_id":"28491005",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        102031357,
+        "85632429",
+        85672723
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26316959"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"88f51b12b52c92ac80299713392f5ced",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102031357,
+            "postalcode_id":538349077,
+            "region_id":85672723
+        }
+    ],
     "wof:id":538349077,
-    "wof:lastmodified":1460073128,
+    "wof:lastmodified":1462980025,
     "wof:name":"879-0734",
-    "wof:parent_id":-1,
+    "wof:parent_id":102031357,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    131.5055,
+    33.5643,
+    131.5055,
+    33.5643
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[131.50550000000001,33.5643],"type":"Point"}
 }

@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"141.4443,38.4531,141.4443,38.4531",
+    "geom:latitude":38.4531,
+    "geom:longitude":141.4443,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Miyagiken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Oshikagun'Onagawachou",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Shimizuchou",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
+    "mz:is_approximate":1,
+    "src:geom":"gn",
     "wof:belongsto":[
         "102191569",
         102031925,
@@ -21,7 +30,7 @@
         "gp:id":"26214343"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"ffb1f0ccbc23f5fcee20a5d108508645",
     "wof:hierarchy":[
         {
             "continent_id":"102191569",
@@ -32,19 +41,19 @@
         }
     ],
     "wof:id":538137897,
-    "wof:lastmodified":1460063623,
+    "wof:lastmodified":1462980218,
     "wof:name":"986-2271",
-    "wof:parent_id":"102031925",
+    "wof:parent_id":102031925,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    141.4443,
+    38.4531,
+    141.4443,
+    38.4531
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[141.4443,38.4531],"type":"Point"}
 }

@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"133.2281,33.5913,133.2281,33.5913",
+    "geom:latitude":33.5913,
+    "geom:longitude":133.2281,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Kouchiken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Takaokagun'Ochichou",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Kamaidaseisuke",
     "gp:parent_id":"28482019",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26307648"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9b7ff84f71e8a0f5b2dcc1a33da1f777",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538329161,
+            "region_id":85672717
+        }
+    ],
     "wof:id":538329161,
-    "wof:lastmodified":1460072342,
+    "wof:lastmodified":1462979901,
     "wof:name":"781-1324",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672717,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    133.2281,
+    33.5913,
+    133.2281,
+    33.5913
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[133.22810000000001,33.5913],"type":"Point"}
 }

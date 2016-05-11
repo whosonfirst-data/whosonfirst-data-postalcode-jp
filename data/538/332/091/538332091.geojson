@@ -5,34 +5,56 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"130.3856,33.5459,130.3856,33.5459",
+    "geom:latitude":33.5459,
+    "geom:longitude":130.3856,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Fukuokaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Fukuokashijounanku",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Hiigawa",
     "gp:parent_id":"28483359",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        102031795,
+        "85632429",
+        85672697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26309028"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b25ef093b6efb21bb9acaeb9de13a491",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102031795,
+            "postalcode_id":538332091,
+            "region_id":85672697
+        }
+    ],
     "wof:id":538332091,
-    "wof:lastmodified":1460072439,
+    "wof:lastmodified":1462979947,
     "wof:name":"814-0153",
-    "wof:parent_id":-1,
+    "wof:parent_id":102031795,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    130.3856,
+    33.5459,
+    130.3856,
+    33.5459
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[130.38560000000001,33.5459],"type":"Point"}
 }

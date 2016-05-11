@@ -5,22 +5,31 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"130.9871,33.987,130.9871,33.987",
+    "geom:latitude":33.987,
+    "geom:longitude":130.9871,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Yamaguchiken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Shimonosekishi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Choufukuromonminamimachi",
     "gp:parent_id":"28475972",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
+    "mz:is_approximate":1,
+    "src:geom":"gn",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26300491"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"c495f8381f2e85d4a520de074b8f155d",
     "wof:hierarchy":[],
     "wof:id":538316899,
-    "wof:lastmodified":1460071650,
+    "wof:lastmodified":1462979879,
     "wof:name":"752-0989",
     "wof:parent_id":-1,
     "wof:placetype":"postalcode",
@@ -29,10 +38,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    130.9871,
+    33.987,
+    130.9871,
+    33.987
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[130.9871,33.987],"type":"Point"}
 }

@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"140.2743,37.8142,140.2743,37.8142",
+    "geom:latitude":37.8142,
+    "geom:longitude":140.2743,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Yamagataken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Yonezawashi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Itaya",
     "gp:parent_id":"28396432",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672835
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26217043"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"78869bdbe54bf03480b8bd0b5203a31d",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538143153,
+            "region_id":85672835
+        }
+    ],
     "wof:id":538143153,
-    "wof:lastmodified":1460063818,
+    "wof:lastmodified":1462980236,
     "wof:name":"992-1331",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672835,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    140.2743,
+    37.8142,
+    140.2743,
+    37.8142
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[140.27430000000001,37.8142],"type":"Point"}
 }

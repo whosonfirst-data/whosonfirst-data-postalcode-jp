@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"129.2526,28.1594,129.2526,28.1594",
+    "geom:latitude":28.1594,
+    "geom:longitude":129.2526,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Kagoshimaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Ooshimagunsetouchichou",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Takena",
     "gp:parent_id":"28493592",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672867
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26319946"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7117d045b517d19c33f69959f3c41206",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538354921,
+            "region_id":85672867
+        }
+    ],
     "wof:id":538354921,
-    "wof:lastmodified":1460073320,
+    "wof:lastmodified":1462980044,
     "wof:name":"894-2416",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672867,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    129.2526,
+    28.1594,
+    129.2526,
+    28.1594
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[129.2526,28.1594],"type":"Point"}
 }

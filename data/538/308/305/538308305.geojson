@@ -5,34 +5,56 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"133.8062,34.5356,133.8062,34.5356",
+    "geom:latitude":34.5356,
+    "geom:longitude":133.8062,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Okayamaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Kurashikishi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Sobara",
     "gp:parent_id":"28472151",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        102031579,
+        "85632429",
+        85672675
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26296509"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"70e4c148197ee4b09439f5a362a2b4e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102031579,
+            "postalcode_id":538308305,
+            "region_id":85672675
+        }
+    ],
     "wof:id":538308305,
-    "wof:lastmodified":1460071295,
+    "wof:lastmodified":1462979840,
     "wof:name":"710-0146",
-    "wof:parent_id":-1,
+    "wof:parent_id":102031579,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    133.8062,
+    34.5356,
+    133.8062,
+    34.5356
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[133.80619999999999,34.5356],"type":"Point"}
 }

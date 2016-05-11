@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"136.0486,34.8672,136.0486,34.8672",
+    "geom:latitude":34.8672,
+    "geom:longitude":136.0486,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Shigaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Koukagunshigarakichou",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Eda",
     "gp:parent_id":"28448788",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672789
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26273275"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"682f62f4669b1d30beb771a005c30d2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538258219,
+            "region_id":85672789
+        }
+    ],
     "wof:id":538258219,
-    "wof:lastmodified":1460069155,
+    "wof:lastmodified":1462979644,
     "wof:name":"529-1811",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672789,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    136.0486,
+    34.8672,
+    136.0486,
+    34.8672
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[136.04859999999999,34.8672],"type":"Point"}
 }

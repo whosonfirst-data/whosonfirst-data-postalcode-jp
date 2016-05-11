@@ -5,34 +5,56 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"132.8212,33.8653,132.8212,33.8653",
+    "geom:latitude":33.8653,
+    "geom:longitude":132.8212,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Ehimeken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Matsuyamashi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Suemachi",
     "gp:parent_id":"28479124",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        102031885,
+        "85632429",
+        85672711
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26304809"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b9a85865f2f51aa0f640d48b286770ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102031885,
+            "postalcode_id":538322893,
+            "region_id":85672711
+        }
+    ],
     "wof:id":538322893,
-    "wof:lastmodified":1460071936,
+    "wof:lastmodified":1462979914,
     "wof:name":"791-0122",
-    "wof:parent_id":-1,
+    "wof:parent_id":102031885,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    132.8212,
+    33.8653,
+    132.8212,
+    33.8653
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[132.8212,33.8653],"type":"Point"}
 }

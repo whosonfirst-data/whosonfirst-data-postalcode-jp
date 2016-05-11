@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"136.8029,37.063,136.8029,37.063",
+    "geom:latitude":37.063,
+    "geom:longitude":136.8029,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Ishikawaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Hakuigunshikamachi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Taniya",
     "gp:parent_id":"28427892",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672741
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26251090"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a5218b1e1780de76037c326dc94fee46",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538211993,
+            "region_id":85672741
+        }
+    ],
     "wof:id":538211993,
-    "wof:lastmodified":1460066820,
+    "wof:lastmodified":1462980089,
     "wof:name":"925-0206",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672741,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    136.8029,
+    37.063,
+    136.8029,
+    37.063
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[136.80289999999999,37.063],"type":"Point"}
 }

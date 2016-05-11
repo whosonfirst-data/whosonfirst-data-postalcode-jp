@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"136.2071,36.2135,136.2071,36.2135",
+    "geom:latitude":36.2135,
+    "geom:longitude":136.2071,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Fukuiken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Sakaigun'Awarachou",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Shigeyoshi",
     "gp:parent_id":"28429410",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672767
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26253015"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3e93317b266354650ac4b55d329eed8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538215139,
+            "region_id":85672767
+        }
+    ],
     "wof:id":538215139,
-    "wof:lastmodified":1460066960,
+    "wof:lastmodified":1462980063,
     "wof:name":"910-4122",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672767,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    136.2071,
+    36.2135,
+    136.2071,
+    36.2135
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[136.2071,36.2135],"type":"Point"}
 }

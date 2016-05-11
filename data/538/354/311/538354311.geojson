@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"130.6088,32.0583,130.6088,32.0583",
+    "geom:latitude":32.0583,
+    "geom:longitude":130.6088,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Kagoshimaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Ookuchishi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Motomachi",
     "gp:parent_id":"90009477",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672861
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26319207"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5605046216199982e7a744c807612d6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538354311,
+            "region_id":85672861
+        }
+    ],
     "wof:id":538354311,
-    "wof:lastmodified":1460073303,
+    "wof:lastmodified":1462980046,
     "wof:name":"895-2512",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672861,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    130.6088,
+    32.0583,
+    130.6088,
+    32.0583
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[130.6088,32.0583],"type":"Point"}
 }

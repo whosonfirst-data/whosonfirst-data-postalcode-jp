@@ -5,34 +5,56 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"136.871,35.1159,136.871,35.1159",
+    "geom:latitude":35.1159,
+    "geom:longitude":136.871,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Aichiken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Nagoyashiminatoku",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Maruikechou",
     "gp:parent_id":"28439946",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        102031499,
+        "85632429",
+        85672731
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26264030"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4dfc85f27cca01f2f1d12c610a14e160",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102031499,
+            "postalcode_id":538238245,
+            "region_id":85672731
+        }
+    ],
     "wof:id":538238245,
-    "wof:lastmodified":1460068222,
+    "wof:lastmodified":1462979540,
     "wof:name":"455-0078",
-    "wof:parent_id":-1,
+    "wof:parent_id":102031499,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    136.871,
+    35.1159,
+    136.871,
+    35.1159
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[136.87100000000001,35.1159],"type":"Point"}
 }

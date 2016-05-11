@@ -5,22 +5,31 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"129.6167,33.3662,129.6167,33.3662",
+    "geom:latitude":33.3662,
+    "geom:longitude":129.6167,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Nagasakiken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Kitamatsuuraguntabirachou",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Fukuzakimen",
     "gp:parent_id":"28487413",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
+    "mz:is_approximate":1,
+    "src:geom":"gn",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26313587"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"e03ea24f60d3c084d5509a0caabc7bb8",
     "wof:hierarchy":[],
     "wof:id":538341027,
-    "wof:lastmodified":1460072823,
+    "wof:lastmodified":1462979989,
     "wof:name":"859-4802",
     "wof:parent_id":-1,
     "wof:placetype":"postalcode",
@@ -29,10 +38,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    129.6167,
+    33.3662,
+    129.6167,
+    33.3662
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[129.61670000000001,33.3662],"type":"Point"}
 }

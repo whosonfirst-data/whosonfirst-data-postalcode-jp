@@ -5,34 +5,56 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"138.4821,35.0078,138.4821,35.0078",
+    "geom:latitude":35.0078,
+    "geom:longitude":138.4821,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Shizuokaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Shizuokashi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Shimizushimoshimizuchou",
     "gp:parent_id":"28436611",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        102031373,
+        "85632429",
+        85672753
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26260133"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d2833bdc3353555918622ddf4821ce3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102031373,
+            "postalcode_id":538230975,
+            "region_id":85672753
+        }
+    ],
     "wof:id":538230975,
-    "wof:lastmodified":1460067797,
+    "wof:lastmodified":1462979508,
     "wof:name":"424-0939",
-    "wof:parent_id":-1,
+    "wof:parent_id":102031373,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    138.4821,
+    35.0078,
+    138.4821,
+    35.0078
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[138.4821,35.0078],"type":"Point"}
 }

@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"139.7806,36.1494,139.7806,36.1494",
+    "geom:latitude":36.1494,
+    "geom:longitude":139.7806,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Ibarakiken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Sashimagunsakaimachi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Yokotsuka",
     "gp:parent_id":"28404397",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672801
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26225154"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"26d1e7d645ed64a9a8c1f5f25fc176e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538160237,
+            "region_id":85672801
+        }
+    ],
     "wof:id":538160237,
-    "wof:lastmodified":1460064460,
+    "wof:lastmodified":1462979402,
     "wof:name":"306-0406",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672801,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    139.7806,
+    36.1494,
+    139.7806,
+    36.1494
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[139.78059999999999,36.1494],"type":"Point"}
 }

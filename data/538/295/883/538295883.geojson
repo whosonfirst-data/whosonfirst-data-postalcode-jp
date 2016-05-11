@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"135.7075,34.7358,135.7075,34.7358",
+    "geom:latitude":34.7358,
+    "geom:longitude":135.7075,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Naraken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Ikomashi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Kitataharachou",
     "gp:parent_id":"28466720",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672779
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26290646"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3be1c5bdeae11e11d38043b2299c3f50",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538295883,
+            "region_id":85672779
+        }
+    ],
     "wof:id":538295883,
-    "wof:lastmodified":1460070739,
+    "wof:lastmodified":1462979715,
     "wof:name":"630-0142",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672779,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    135.7075,
+    34.7358,
+    135.7075,
+    34.7358
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[135.70750000000001,34.7358],"type":"Point"}
 }

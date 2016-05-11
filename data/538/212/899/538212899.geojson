@@ -5,34 +5,56 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"136.2297,36.1002,136.2297,36.1002",
+    "geom:latitude":36.1002,
+    "geom:longitude":136.2297,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Fukuiken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Fukuishi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Funabashi",
     "gp:parent_id":"28428552",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        102031797,
+        "85632429",
+        85672767
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26251696"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1c92d8c9f9d3bda6859d46be8202b91e",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102031797,
+            "postalcode_id":538212899,
+            "region_id":85672767
+        }
+    ],
     "wof:id":538212899,
-    "wof:lastmodified":1460066864,
+    "wof:lastmodified":1462980060,
     "wof:name":"910-0808",
-    "wof:parent_id":-1,
+    "wof:parent_id":102031797,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    136.2297,
+    36.1002,
+    136.2297,
+    36.1002
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[136.22970000000001,36.1002],"type":"Point"}
 }

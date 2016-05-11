@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"127.9831,26.5891,127.9831,26.5891",
+    "geom:latitude":26.5891,
+    "geom:longitude":127.9831,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Okinawaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Nagoshi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Gusuku",
     "gp:parent_id":"28493966",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672867
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26320372"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"27fc3dfa70e0d3338b8f80c696ee0eec",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538355573,
+            "region_id":85672867
+        }
+    ],
     "wof:id":538355573,
-    "wof:lastmodified":1460073346,
+    "wof:lastmodified":1462980056,
     "wof:name":"905-0013",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672867,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    127.9831,
+    26.5891,
+    127.9831,
+    26.5891
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[127.98309999999999,26.5891],"type":"Point"}
 }

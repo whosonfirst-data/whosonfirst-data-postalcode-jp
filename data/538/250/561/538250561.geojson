@@ -5,22 +5,31 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"137.1249,34.7878,137.1249,34.7878",
+    "geom:latitude":34.7878,
+    "geom:longitude":137.1249,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Aichiken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Hazugunhazuchou",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Terabe",
     "gp:parent_id":"28445455",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
+    "mz:is_approximate":1,
+    "src:geom":"gn",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26269322"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"e169ba2ff20e3df7a58e8b9fb9a58e1b",
     "wof:hierarchy":[],
     "wof:id":538250561,
-    "wof:lastmodified":1460068817,
+    "wof:lastmodified":1462979528,
     "wof:name":"444-0702",
     "wof:parent_id":-1,
     "wof:placetype":"postalcode",
@@ -29,10 +38,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    137.1249,
+    34.7878,
+    137.1249,
+    34.7878
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[137.1249,34.7878],"type":"Point"}
 }

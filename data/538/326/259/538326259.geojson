@@ -5,34 +5,56 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"133.5269,33.5799,133.5269,33.5799",
+    "geom:latitude":33.5799,
+    "geom:longitude":133.5269,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Kouchiken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Kouchishi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Kaganoi",
     "gp:parent_id":"28480770",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        102031611,
+        "85632429",
+        85672717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26306432"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bd9f5d81cdae811d9fa4f70573f1797a",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102031611,
+            "postalcode_id":538326259,
+            "region_id":85672717
+        }
+    ],
     "wof:id":538326259,
-    "wof:lastmodified":1460072107,
+    "wof:lastmodified":1462979899,
     "wof:name":"780-0032",
-    "wof:parent_id":-1,
+    "wof:parent_id":102031611,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    133.5269,
+    33.5799,
+    133.5269,
+    33.5799
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[133.52690000000001,33.5799],"type":"Point"}
 }

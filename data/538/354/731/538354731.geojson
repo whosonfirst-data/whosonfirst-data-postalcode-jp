@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"130.5724,30.4241,130.5724,30.4241",
+    "geom:latitude":30.4241,
+    "geom:longitude":130.5724,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Kagoshimaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Kumagegunkamiyakuchou",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Miyanoura",
     "gp:parent_id":"90000243",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672861
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26319859"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5a8acf4f446f4bf553f0eb833db213d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538354731,
+            "region_id":85672861
+        }
+    ],
     "wof:id":538354731,
-    "wof:lastmodified":1460073314,
+    "wof:lastmodified":1462980039,
     "wof:name":"891-4205",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672861,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    130.5724,
+    30.4241,
+    130.5724,
+    30.4241
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[130.57239999999999,30.4241],"type":"Point"}
 }

@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"131.2426,33.9837,131.2426,33.9837",
+    "geom:latitude":33.9837,
+    "geom:longitude":131.2426,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Yamaguchiken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Ubeshi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Nakayama",
     "gp:parent_id":"28476201",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672689
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26300617"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"95a42d2fbb4d7932b78ce7ab5e292e5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538317137,
+            "region_id":85672689
+        }
+    ],
     "wof:id":538317137,
-    "wof:lastmodified":1460071664,
+    "wof:lastmodified":1462979881,
     "wof:name":"755-0058",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672689,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    131.2426,
+    33.9837,
+    131.2426,
+    33.9837
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[131.24260000000001,33.9837],"type":"Point"}
 }

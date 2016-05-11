@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"133.5628,35.519,133.5628,35.519",
+    "geom:latitude":35.519,
+    "geom:longitude":133.5628,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Tottoriken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Saihakugunnakayamachou",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Uwaichi",
     "gp:parent_id":"28470228",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26294494"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"afb898c326daca53613908139eacfbe4",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538303771,
+            "region_id":85672685
+        }
+    ],
     "wof:id":538303771,
-    "wof:lastmodified":1460071092,
+    "wof:lastmodified":1462979811,
     "wof:name":"689-3124",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672685,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    133.5628,
+    35.519,
+    133.5628,
+    35.519
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[133.56280000000001,35.519],"type":"Point"}
 }

@@ -5,22 +5,31 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"134.8617,34.6924,134.8617,34.6924",
+    "geom:latitude":34.6924,
+    "geom:longitude":134.8617,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Hyougoken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Kakogunharimachou",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Higashiniijima",
     "gp:parent_id":"28465257",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
+    "mz:is_approximate":1,
+    "src:geom":"gn",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26288185"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"f22b3e7986757c9835a2711ff3b38262",
     "wof:hierarchy":[],
     "wof:id":538292633,
-    "wof:lastmodified":1460070607,
+    "wof:lastmodified":1462979785,
     "wof:name":"675-0164",
     "wof:parent_id":-1,
     "wof:placetype":"postalcode",
@@ -29,10 +38,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    134.8617,
+    34.6924,
+    134.8617,
+    34.6924
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[134.86170000000001,34.6924],"type":"Point"}
 }

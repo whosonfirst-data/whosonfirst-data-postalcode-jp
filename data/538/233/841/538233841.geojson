@@ -5,34 +5,56 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"138.3155,34.8495,138.3155,34.8495",
+    "geom:latitude":34.8495,
+    "geom:longitude":138.3155,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Shizuokaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Yaidushi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Kogawa",
     "gp:parent_id":"28437959",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        102031255,
+        "85632429",
+        85672753
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26261610"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"164f28c2671216cbc6473d58310761ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102031255,
+            "postalcode_id":538233841,
+            "region_id":85672753
+        }
+    ],
     "wof:id":538233841,
-    "wof:lastmodified":1460067935,
+    "wof:lastmodified":1462979509,
     "wof:name":"425-0033",
-    "wof:parent_id":-1,
+    "wof:parent_id":102031255,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    138.3155,
+    34.8495,
+    138.3155,
+    34.8495
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[138.31549999999999,34.8495],"type":"Point"}
 }

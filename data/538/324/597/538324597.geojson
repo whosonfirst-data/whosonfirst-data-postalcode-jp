@@ -5,34 +5,56 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"133.2996,33.9681,133.2996,33.9681",
+    "geom:latitude":33.9681,
+    "geom:longitude":133.2996,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Ehimeken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Niihamashi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Sakuragichou",
     "gp:parent_id":"28479873",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        102031485,
+        "85632429",
+        85672711
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26305211"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2979153392a9a9fa493dcf7bd53f0236",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102031485,
+            "postalcode_id":538324597,
+            "region_id":85672711
+        }
+    ],
     "wof:id":538324597,
-    "wof:lastmodified":1460072012,
+    "wof:lastmodified":1462979918,
     "wof:name":"792-0865",
-    "wof:parent_id":-1,
+    "wof:parent_id":102031485,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    133.2996,
+    33.9681,
+    133.2996,
+    33.9681
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[133.2996,33.9681],"type":"Point"}
 }

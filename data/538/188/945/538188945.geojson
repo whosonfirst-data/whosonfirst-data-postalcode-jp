@@ -5,34 +5,56 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"139.3653,35.5654,139.3653,35.5654",
+    "geom:latitude":35.5654,
+    "geom:longitude":139.3653,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Kanagawaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Sagamiharashi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Yokoyama",
     "gp:parent_id":"28417051",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        102031421,
+        "85632429",
+        85672805
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26239961"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6f61255aea8ae1314ad520f117221563",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102031421,
+            "postalcode_id":538188945,
+            "region_id":85672805
+        }
+    ],
     "wof:id":538188945,
-    "wof:lastmodified":1460065752,
+    "wof:lastmodified":1462979350,
     "wof:name":"229-1122",
-    "wof:parent_id":-1,
+    "wof:parent_id":102031421,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    139.3653,
+    35.5654,
+    139.3653,
+    35.5654
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[139.36529999999999,35.5654],"type":"Point"}
 }

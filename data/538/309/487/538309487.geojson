@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"133.7426,34.6636,133.7426,34.6636",
+    "geom:latitude":34.6636,
+    "geom:longitude":133.7426,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Okayamaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Soujashi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Miwa",
     "gp:parent_id":"28472694",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672675
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26296824"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"632e6c0c09b6fca6eb058f9e14d91135",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538309487,
+            "region_id":85672675
+        }
+    ],
     "wof:id":538309487,
-    "wof:lastmodified":1460071342,
+    "wof:lastmodified":1462979845,
     "wof:name":"719-1132",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672675,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    133.7426,
+    34.6636,
+    133.7426,
+    34.6636
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[133.74260000000001,34.6636],"type":"Point"}
 }

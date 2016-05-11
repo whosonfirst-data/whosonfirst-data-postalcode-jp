@@ -5,22 +5,31 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"134.6204,34.1827,134.6204,34.1827",
+    "geom:latitude":34.1827,
+    "geom:longitude":134.6204,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Tokushimaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Narutoshi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Muyachouokazaki",
     "gp:parent_id":"28477451",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
+    "mz:is_approximate":1,
+    "src:geom":"gn",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26302381"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"73dd8950624c81bb6a3a2352a6436775",
     "wof:hierarchy":[],
     "wof:id":538319891,
-    "wof:lastmodified":1460071799,
+    "wof:lastmodified":1462979895,
     "wof:name":"772-0013",
     "wof:parent_id":-1,
     "wof:placetype":"postalcode",
@@ -29,10 +38,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    134.6204,
+    34.1827,
+    134.6204,
+    34.1827
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[134.62039999999999,34.1827],"type":"Point"}
 }

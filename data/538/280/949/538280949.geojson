@@ -5,22 +5,31 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"135.3962,34.5301,135.3962,34.5301",
+    "geom:latitude":34.5301,
+    "geom:longitude":135.3962,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Oosakafu",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Takaishishi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Minamitakasago",
     "gp:parent_id":"28460027",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
+    "mz:is_approximate":1,
+    "src:geom":"gn",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26283908"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"3f3452cd1a18b12363ffbce054a06d61",
     "wof:hierarchy":[],
     "wof:id":538280949,
-    "wof:lastmodified":1460070122,
+    "wof:lastmodified":1462979664,
     "wof:name":"595-0081",
     "wof:parent_id":-1,
     "wof:placetype":"postalcode",
@@ -29,10 +38,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    135.3962,
+    34.5301,
+    135.3962,
+    34.5301
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[135.39619999999999,34.5301],"type":"Point"}
 }

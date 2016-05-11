@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"136.2596,36.0131,136.2596,36.0131",
+    "geom:latitude":36.0131,
+    "geom:longitude":136.2596,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Fukuiken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Fukuishi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Kamitougouchou",
     "gp:parent_id":"28428316",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672767
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26251888"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6536eae888db28e07aafc95b56502475",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538213043,
+            "region_id":85672767
+        }
+    ],
     "wof:id":538213043,
-    "wof:lastmodified":1460066869,
+    "wof:lastmodified":1462980061,
     "wof:name":"910-2174",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672767,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    136.2596,
+    36.0131,
+    136.2596,
+    36.0131
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[136.25960000000001,36.0131],"type":"Point"}
 }

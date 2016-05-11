@@ -5,22 +5,31 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"132.9608,34.219,132.9608,34.219",
+    "geom:latitude":34.219,
+    "geom:longitude":132.9608,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Ehimeken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Ochigun'Oomishimachou",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Urado",
     "gp:parent_id":"28479503",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
+    "mz:is_approximate":1,
+    "src:geom":"gn",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26305698"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"311ccc5b3abe8dfb9b346d48f83fcdd2",
     "wof:hierarchy":[],
     "wof:id":538323613,
-    "wof:lastmodified":1460071964,
+    "wof:lastmodified":1462979921,
     "wof:name":"794-1308",
     "wof:parent_id":-1,
     "wof:placetype":"postalcode",
@@ -29,10 +38,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    132.9608,
+    34.219,
+    132.9608,
+    34.219
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[132.96080000000001,34.219],"type":"Point"}
 }

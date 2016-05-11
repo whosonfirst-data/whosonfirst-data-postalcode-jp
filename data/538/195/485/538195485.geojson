@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"138.9292,37.491,138.9292,37.491",
+    "geom:latitude":37.491,
+    "geom:longitude":138.9292,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Niigataken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Mitsukeshi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Tsubakizawamachi",
     "gp:parent_id":"28420201",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672849
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26241959"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"66ee336da4d13b4cb37299f1a13d1a24",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538195485,
+            "region_id":85672849
+        }
+    ],
     "wof:id":538195485,
-    "wof:lastmodified":1460066076,
+    "wof:lastmodified":1462980160,
     "wof:name":"954-0037",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672849,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    138.9292,
+    37.491,
+    138.9292,
+    37.491
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[138.92920000000001,37.491],"type":"Point"}
 }

@@ -5,22 +5,31 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"135.2444,35.6269,135.2444,35.6269",
+    "geom:latitude":35.6269,
+    "geom:longitude":135.2444,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Kyoutofu",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Miyadushi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Satohami",
     "gp:parent_id":"28455408",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
+    "mz:is_approximate":1,
+    "src:geom":"gn",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26279508"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"77050e72175406849751d7aa81dcd26e",
     "wof:hierarchy":[],
     "wof:id":538272127,
-    "wof:lastmodified":1460069748,
+    "wof:lastmodified":1462979712,
     "wof:name":"626-0211",
     "wof:parent_id":-1,
     "wof:placetype":"postalcode",
@@ -29,10 +38,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    135.2444,
+    35.6269,
+    135.2444,
+    35.6269
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[135.24440000000001,35.6269],"type":"Point"}
 }

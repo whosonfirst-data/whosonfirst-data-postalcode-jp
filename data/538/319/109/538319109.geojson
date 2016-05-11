@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"131.1945,34.0301,131.1945,34.0301",
+    "geom:latitude":34.0301,
+    "geom:longitude":131.1945,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Yamaguchiken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Onodashi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Takahata",
     "gp:parent_id":"28477091",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672689
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26301206"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ec157bf51bf758a9d8a9dcdfdd279122",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538319109,
+            "region_id":85672689
+        }
+    ],
     "wof:id":538319109,
-    "wof:lastmodified":1460071758,
+    "wof:lastmodified":1462979882,
     "wof:name":"756-0021",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672689,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    131.1945,
+    34.0301,
+    131.1945,
+    34.0301
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[131.19450000000001,34.0301],"type":"Point"}
 }

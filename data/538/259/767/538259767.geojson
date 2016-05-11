@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"136.2317,35.201,136.2317,35.201",
+    "geom:latitude":35.201,
+    "geom:longitude":136.2317,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Shigaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Inukamiguntoyosatochou",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Ishibatake",
     "gp:parent_id":"28449550",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672789
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26273599"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ffb742801a8893f1ac4183cb19e62d63",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538259767,
+            "region_id":85672789
+        }
+    ],
     "wof:id":538259767,
-    "wof:lastmodified":1460069218,
+    "wof:lastmodified":1462979643,
     "wof:name":"529-1169",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672789,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    136.2317,
+    35.201,
+    136.2317,
+    35.201
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[136.23169999999999,35.201],"type":"Point"}
 }

@@ -5,34 +5,56 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"129.881,32.7328,129.881,32.7328",
+    "geom:latitude":32.7328,
+    "geom:longitude":129.881,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Nagasakiken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Nagasakishi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Takaoka",
     "gp:parent_id":"28486484",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        102031505,
+        "85632429",
+        85672857
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26312208"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"53ba509896be6c1e2219af667989894e",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102031505,
+            "postalcode_id":538339075,
+            "region_id":85672857
+        }
+    ],
     "wof:id":538339075,
-    "wof:lastmodified":1460072747,
+    "wof:lastmodified":1462979974,
     "wof:name":"850-0941",
-    "wof:parent_id":-1,
+    "wof:parent_id":102031505,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    129.881,
+    32.7328,
+    129.881,
+    32.7328
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[129.881,32.7328],"type":"Point"}
 }

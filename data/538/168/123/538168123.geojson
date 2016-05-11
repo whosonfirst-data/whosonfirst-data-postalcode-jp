@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"139.7408,35.8995,139.7408,35.8995",
+    "geom:latitude":35.8995,
+    "geom:longitude":139.7408,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Saitamaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Iwatsukishi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Kagiage",
     "gp:parent_id":"28407858",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672807
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26229612"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"13cf6a61cbfb5b2ee71a780d9a613bff",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538168123,
+            "region_id":85672807
+        }
+    ],
     "wof:id":538168123,
-    "wof:lastmodified":1460064753,
+    "wof:lastmodified":1462979435,
     "wof:name":"339-0024",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672807,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    139.7408,
+    35.8995,
+    139.7408,
+    35.8995
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[139.74080000000001,35.8995],"type":"Point"}
 }

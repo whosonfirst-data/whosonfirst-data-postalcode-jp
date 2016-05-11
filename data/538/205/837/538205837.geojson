@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"136.933,36.5694,136.933,36.5694",
+    "geom:latitude":36.5694,
+    "geom:longitude":136.933,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Toyamaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Higashitonamigunfukunomachi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Amekuguri",
     "gp:parent_id":"28424997",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672759
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26248817"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"888959d00836019c5f4d9f0e60d2a897",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538205837,
+            "region_id":85672759
+        }
+    ],
     "wof:id":538205837,
-    "wof:lastmodified":1460066543,
+    "wof:lastmodified":1462980119,
     "wof:name":"939-1524",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672759,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    136.933,
+    36.5694,
+    136.933,
+    36.5694
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[136.93299999999999,36.5694],"type":"Point"}
 }

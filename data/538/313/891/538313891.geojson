@@ -5,22 +5,31 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"133.3781,34.3868,133.3781,34.3868",
+    "geom:latitude":34.3868,
+    "geom:longitude":133.3781,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Hiroshimaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Fukuyamashi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Tomochouushiroji",
     "gp:parent_id":"28474758",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
+    "mz:is_approximate":1,
+    "src:geom":"gn",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26298941"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"5b2926186304d965b08bdab30e55df16",
     "wof:hierarchy":[],
     "wof:id":538313891,
-    "wof:lastmodified":1460071524,
+    "wof:lastmodified":1462979847,
     "wof:name":"720-0202",
     "wof:parent_id":-1,
     "wof:placetype":"postalcode",
@@ -29,10 +38,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    133.3781,
+    34.3868,
+    133.3781,
+    34.3868
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[133.37809999999999,34.3868],"type":"Point"}
 }

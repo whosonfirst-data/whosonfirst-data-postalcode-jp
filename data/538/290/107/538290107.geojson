@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"135.3172,35.0815,135.3172,35.0815",
+    "geom:latitude":35.0815,
+    "geom:longitude":135.3172,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Hyougoken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Sasayamashi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Tochinashi",
     "gp:parent_id":"28464128",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672769
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26287788"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a75fe52dea9517b67e3fd6aea2fe3b31",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538290107,
+            "region_id":85672769
+        }
+    ],
     "wof:id":538290107,
-    "wof:lastmodified":1460070515,
+    "wof:lastmodified":1462979769,
     "wof:name":"669-2525",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672769,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    135.3172,
+    35.0815,
+    135.3172,
+    35.0815
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[135.31720000000001,35.0815],"type":"Point"}
 }

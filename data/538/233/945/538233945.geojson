@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"138.0735,34.7912,138.0735,34.7912",
+    "geom:latitude":34.7912,
+    "geom:longitude":138.0735,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Shizuokaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Kakegawashi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Yasaka",
     "gp:parent_id":"28438086",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672753
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26261718"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b0372da6a37bf4225e58efa83a440546",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538233945,
+            "region_id":85672753
+        }
+    ],
     "wof:id":538233945,
-    "wof:lastmodified":1460067940,
+    "wof:lastmodified":1462979515,
     "wof:name":"436-0004",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672753,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    138.0735,
+    34.7912,
+    138.0735,
+    34.7912
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[138.0735,34.7912],"type":"Point"}
 }

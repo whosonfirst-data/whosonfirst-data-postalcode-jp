@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"134.9927,35.4885,134.9927,35.4885",
+    "geom:latitude":35.4885,
+    "geom:longitude":134.9927,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Hyougoken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Izushiguntantouchou",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Hatayama",
     "gp:parent_id":"28462960",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672769
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26288944"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ed5f45b2ac0b4d0b8397ba005a7a80e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538287263,
+            "region_id":85672769
+        }
+    ],
     "wof:id":538287263,
-    "wof:lastmodified":1460070401,
+    "wof:lastmodified":1462979765,
     "wof:name":"668-0351",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672769,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    134.9927,
+    35.4885,
+    134.9927,
+    35.4885
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[134.99270000000001,35.4885],"type":"Point"}
 }

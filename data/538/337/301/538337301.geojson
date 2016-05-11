@@ -5,34 +5,56 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"130.286,33.2786,130.286,33.2786",
+    "geom:latitude":33.2786,
+    "geom:longitude":130.286,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Sagaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Sagashi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Wakakusu",
     "gp:parent_id":"28485634",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        102031423,
+        "85632429",
+        85672695
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26311337"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e4a7325a3e27d3e47220ef7214314b0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102031423,
+            "postalcode_id":538337301,
+            "region_id":85672695
+        }
+    ],
     "wof:id":538337301,
-    "wof:lastmodified":1460072675,
+    "wof:lastmodified":1462979971,
     "wof:name":"849-0928",
-    "wof:parent_id":-1,
+    "wof:parent_id":102031423,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    130.286,
+    33.2786,
+    130.286,
+    33.2786
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[130.286,33.2786],"type":"Point"}
 }

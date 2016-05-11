@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"140.5781,36.3499,140.5781,36.3499",
+    "geom:latitude":36.3499,
+    "geom:longitude":140.5781,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Ibarakiken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Hitachinakashi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Horikawa",
     "gp:parent_id":"28403076",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672801
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26223647"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"299f5c9fb2dd6813b722d474d445f11f",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538157211,
+            "region_id":85672801
+        }
+    ],
     "wof:id":538157211,
-    "wof:lastmodified":1460064333,
+    "wof:lastmodified":1462979407,
     "wof:name":"311-1233",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672801,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    140.5781,
+    36.3499,
+    140.5781,
+    36.3499
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[140.57810000000001,36.3499],"type":"Point"}
 }

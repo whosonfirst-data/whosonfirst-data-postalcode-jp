@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"139.9348,37.5081,139.9348,37.5081",
+    "geom:latitude":37.5081,
+    "geom:longitude":139.9348,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Fukushimaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Aiduwakamatsushi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Byakkomachi",
     "gp:parent_id":"28398274",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672835
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26218887"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1f5c9f6fd0177b8ce8a9c7a05fd4e716",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538146979,
+            "region_id":85672835
+        }
+    ],
     "wof:id":538146979,
-    "wof:lastmodified":1460063952,
+    "wof:lastmodified":1462980195,
     "wof:name":"965-0024",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672835,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    139.9348,
+    37.5081,
+    139.9348,
+    37.5081
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[139.9348,37.5081],"type":"Point"}
 }

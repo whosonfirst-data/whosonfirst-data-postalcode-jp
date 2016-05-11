@@ -5,34 +5,56 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"140.2696,36.0838,140.2696,36.0838",
+    "geom:latitude":36.0838,
+    "geom:longitude":140.2696,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Ibarakiken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Niiharigunkasumigauramachi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Tozaki",
     "gp:parent_id":"28403682",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        102032097,
+        "85632429",
+        85672801
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26224659"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"88a46ffd0d5f00f35348571436333969",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102032097,
+            "postalcode_id":538158625,
+            "region_id":85672801
+        }
+    ],
     "wof:id":538158625,
-    "wof:lastmodified":1460064383,
+    "wof:lastmodified":1462979392,
     "wof:name":"300-0136",
-    "wof:parent_id":-1,
+    "wof:parent_id":102032097,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    140.2696,
+    36.0838,
+    140.2696,
+    36.0838
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[140.2696,36.0838],"type":"Point"}
 }

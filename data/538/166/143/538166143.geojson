@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"139.1406,36.6641,139.1406,36.6641",
+    "geom:latitude":36.6641,
+    "geom:longitude":139.1406,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Gunmaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Tonegunshirasawamura",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Takahira",
     "gp:parent_id":"28406916",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672871
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26228257"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c945f00e55bb08d142a589f582ad05f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538166143,
+            "region_id":85672871
+        }
+    ],
     "wof:id":538166143,
-    "wof:lastmodified":1460064681,
+    "wof:lastmodified":1462979467,
     "wof:name":"378-0121",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672871,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    139.1406,
+    36.6641,
+    139.1406,
+    36.6641
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[139.14060000000001,36.6641],"type":"Point"}
 }

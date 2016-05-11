@@ -5,34 +5,56 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"139.5851,35.4863,139.5851,35.4863",
+    "geom:latitude":35.4863,
+    "geom:longitude":139.5851,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Kanagawaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Yokohamashikanagawaku",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Hazawachou",
     "gp:parent_id":"28415636",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        102031239,
+        "85632429",
+        85672805
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26238343"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"66e4b303f4147fac7497384da2a5e5a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102031239,
+            "postalcode_id":538185639,
+            "region_id":85672805
+        }
+    ],
     "wof:id":538185639,
-    "wof:lastmodified":1460065528,
+    "wof:lastmodified":1462979348,
     "wof:name":"221-0863",
-    "wof:parent_id":-1,
+    "wof:parent_id":102031239,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    139.5851,
+    35.4863,
+    139.5851,
+    35.4863
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[139.58510000000001,35.4863],"type":"Point"}
 }

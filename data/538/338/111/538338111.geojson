@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"129.9092,33.3447,129.9092,33.3447",
+    "geom:latitude":33.3447,
+    "geom:longitude":129.9092,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Sagaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Imarishi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Kurogawachoumateno",
     "gp:parent_id":"28486017",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672695
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26311575"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"daf7407c89496d60cdcd4d1cc20dd4cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538338111,
+            "region_id":85672695
+        }
+    ],
     "wof:id":538338111,
-    "wof:lastmodified":1460072698,
+    "wof:lastmodified":1462979970,
     "wof:name":"848-0133",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672695,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    129.9092,
+    33.3447,
+    129.9092,
+    33.3447
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[129.9092,33.3447],"type":"Point"}
 }

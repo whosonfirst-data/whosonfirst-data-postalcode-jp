@@ -5,22 +5,31 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"130.6276,31.5586,130.6276,31.5586",
+    "geom:latitude":31.5586,
+    "geom:longitude":130.6276,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Kagoshimaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Kagoshimashi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Mochikichou",
     "gp:parent_id":"28492547",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
+    "mz:is_approximate":1,
+    "src:geom":"gn",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26318809"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"884ec2a1d961f617cb9861d806c78413",
     "wof:hierarchy":[],
     "wof:id":538352529,
-    "wof:lastmodified":1460073251,
+    "wof:lastmodified":1462980039,
     "wof:name":"891-1542",
     "wof:parent_id":-1,
     "wof:placetype":"postalcode",
@@ -29,10 +38,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    130.6276,
+    31.5586,
+    130.6276,
+    31.5586
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[130.6276,31.5586],"type":"Point"}
 }

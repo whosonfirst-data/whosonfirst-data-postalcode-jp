@@ -5,34 +5,56 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"136.8476,35.1465,136.8476,35.1465",
+    "geom:latitude":35.1465,
+    "geom:longitude":136.8476,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Aichiken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Nagoyashinakagawaku",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Hattahonmachi",
     "gp:parent_id":"28439773",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        102031499,
+        "85632429",
+        85672731
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26263908"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b3470ce17c584c4cd79a2a2a50beb4d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102031499,
+            "postalcode_id":538237955,
+            "region_id":85672731
+        }
+    ],
     "wof:id":538237955,
-    "wof:lastmodified":1460068200,
+    "wof:lastmodified":1462979538,
     "wof:name":"454-0904",
-    "wof:parent_id":-1,
+    "wof:parent_id":102031499,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    136.8476,
+    35.1465,
+    136.8476,
+    35.1465
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[136.8476,35.1465],"type":"Point"}
 }

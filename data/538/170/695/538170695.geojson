@@ -5,34 +5,56 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"139.5106,36.0628,139.5106,36.0628",
+    "geom:latitude":36.0628,
+    "geom:longitude":139.5106,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Saitamaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Kitaadachigunfukiagemachi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Koya",
     "gp:parent_id":"28408974",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        102031595,
+        "85632429",
+        85672807
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26230712"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1dc0d6dbad4433164bd5c0ba133228d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102031595,
+            "postalcode_id":538170695,
+            "region_id":85672807
+        }
+    ],
     "wof:id":538170695,
-    "wof:lastmodified":1460064893,
+    "wof:lastmodified":1462979455,
     "wof:name":"369-0133",
-    "wof:parent_id":-1,
+    "wof:parent_id":102031595,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    139.5106,
+    36.0628,
+    139.5106,
+    36.0628
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[139.51060000000001,36.0628],"type":"Point"}
 }

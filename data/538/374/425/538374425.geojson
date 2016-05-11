@@ -5,34 +5,50 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"139.6292,35.149,139.6292,35.149",
+    "geom:latitude":35.149,
+    "geom:longitude":139.6292,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Kanagawaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Miurashi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Ikanikeisaiganaibaai",
     "gp:parent_id":"1117749",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        102031883
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26239969"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"869b72bf0ef5799aeaaed0dd482a375e",
+    "wof:hierarchy":[
+        {
+            "locality_id":102031883,
+            "postalcode_id":538374425
+        }
+    ],
     "wof:id":538374425,
-    "wof:lastmodified":1460073959,
+    "wof:lastmodified":1462979353,
     "wof:name":"238-0200",
-    "wof:parent_id":-1,
+    "wof:parent_id":102031883,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    139.6292,
+    35.149,
+    139.6292,
+    35.149
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[139.6292,35.149],"type":"Point"}
 }

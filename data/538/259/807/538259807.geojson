@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"136.2656,35.203,136.2656,35.203",
+    "geom:latitude":35.203,
+    "geom:longitude":136.2656,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Shigaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Inukamigunkourachou",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Yokozeki",
     "gp:parent_id":"28449574",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672789
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26273610"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ecb36b0106a9b31c917be24cef652869",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538259807,
+            "region_id":85672789
+        }
+    ],
     "wof:id":538259807,
-    "wof:lastmodified":1460069219,
+    "wof:lastmodified":1462979635,
     "wof:name":"522-0262",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672789,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    136.2656,
+    35.203,
+    136.2656,
+    35.203
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[136.26560000000001,35.203],"type":"Point"}
 }

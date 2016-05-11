@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"133.0002,34.8236,133.0002,34.8236",
+    "geom:latitude":34.8236,
+    "geom:longitude":133.0002,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Hiroshimaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Shoubarashi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Hitotsugichou",
     "gp:parent_id":"28475046",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672671
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26299156"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f88ca4ff9210f2492fc22f0cca1cf2d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538314655,
+            "region_id":85672671
+        }
+    ],
     "wof:id":538314655,
-    "wof:lastmodified":1460071558,
+    "wof:lastmodified":1462979853,
     "wof:name":"727-0016",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672671,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    133.0002,
+    34.8236,
+    133.0002,
+    34.8236
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[133.00020000000001,34.8236],"type":"Point"}
 }

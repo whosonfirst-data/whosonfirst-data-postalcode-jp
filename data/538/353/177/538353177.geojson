@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"130.5935,31.2772,130.5935,31.2772",
+    "geom:latitude":31.2772,
+    "geom:longitude":130.5935,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Kagoshimaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Ibusukishi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Shinnishikata",
     "gp:parent_id":"28492857",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672861
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26319228"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c6f9dbb15811824594be2e13cb2871db",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538353177,
+            "region_id":85672861
+        }
+    ],
     "wof:id":538353177,
-    "wof:lastmodified":1460073270,
+    "wof:lastmodified":1462980038,
     "wof:name":"891-0313",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672861,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    130.5935,
+    31.2772,
+    130.5935,
+    31.2772
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[130.59350000000001,31.2772],"type":"Point"}
 }

@@ -5,34 +5,56 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"134.1994,35.5216,134.1994,35.5216",
+    "geom:latitude":35.5216,
+    "geom:longitude":134.1994,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Tottoriken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Tottorishi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Minamigakuma",
     "gp:parent_id":"28469245",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        102031297,
+        "85632429",
+        85672685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26293303"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"55ea45612bfd2f4f2879e682490853bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102031297,
+            "postalcode_id":538301513,
+            "region_id":85672685
+        }
+    ],
     "wof:id":538301513,
-    "wof:lastmodified":1460070977,
+    "wof:lastmodified":1462979800,
     "wof:name":"680-0903",
-    "wof:parent_id":-1,
+    "wof:parent_id":102031297,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    134.1994,
+    35.5216,
+    134.1994,
+    35.5216
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[134.1994,35.5216],"type":"Point"}
 }

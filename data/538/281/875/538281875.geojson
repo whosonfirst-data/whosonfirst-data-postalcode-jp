@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"135.3817,34.9697,135.3817,34.9697",
+    "geom:latitude":34.9697,
+    "geom:longitude":135.3817,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Oosakafu",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Toyonogunnosechou",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Tarumi",
     "gp:parent_id":"28460430",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672785
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26284325"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"90b673446895b68b5df63ece770acf12",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538281875,
+            "region_id":85672785
+        }
+    ],
     "wof:id":538281875,
-    "wof:lastmodified":1460070161,
+    "wof:lastmodified":1462979650,
     "wof:name":"563-0366",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672785,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    135.3817,
+    34.9697,
+    135.3817,
+    34.9697
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[135.3817,34.9697],"type":"Point"}
 }

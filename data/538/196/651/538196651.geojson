@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"137.8727,36.9666,137.8727,36.9666",
+    "geom:latitude":36.9666,
+    "geom:longitude":137.8727,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Niigataken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Itoigawashi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Negoya",
     "gp:parent_id":"28420543",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672849
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26242290"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fe965e5e2bfeaa1b227dc54eea43917b",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538196651,
+            "region_id":85672849
+        }
+    ],
     "wof:id":538196651,
-    "wof:lastmodified":1460066127,
+    "wof:lastmodified":1462980141,
     "wof:name":"949-0536",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672849,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    137.8727,
+    36.9666,
+    137.8727,
+    36.9666
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[137.87270000000001,36.9666],"type":"Point"}
 }

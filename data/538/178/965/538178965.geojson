@@ -5,34 +5,56 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"139.9015,35.6461,139.9015,35.6461",
+    "geom:latitude":35.6461,
+    "geom:longitude":139.9015,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Chibaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Urayasushi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Tomioka",
     "gp:parent_id":"28412749",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        102031269,
+        "85632429",
+        85672797
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26233784"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"da734d4cd341b205cf4bc4015c8525a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102031269,
+            "postalcode_id":538178965,
+            "region_id":85672797
+        }
+    ],
     "wof:id":538178965,
-    "wof:lastmodified":1460065245,
+    "wof:lastmodified":1462979371,
     "wof:name":"279-0021",
-    "wof:parent_id":-1,
+    "wof:parent_id":102031269,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    139.9015,
+    35.6461,
+    139.9015,
+    35.6461
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[139.9015,35.6461],"type":"Point"}
 }

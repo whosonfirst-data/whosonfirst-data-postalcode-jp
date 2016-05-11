@@ -5,34 +5,56 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"135.4903,34.6183,135.4903,34.6183",
+    "geom:latitude":34.6183,
+    "geom:longitude":135.4903,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Oosakafu",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Oosakashisuminoeku",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Kohama",
     "gp:parent_id":"28457504",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        102031439,
+        "85632429",
+        85672785
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26281188"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bdf2e0db1d23b370a14a5ceff00190c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102031439,
+            "postalcode_id":538275363,
+            "region_id":85672785
+        }
+    ],
     "wof:id":538275363,
-    "wof:lastmodified":1460069877,
+    "wof:lastmodified":1462979649,
     "wof:name":"559-0001",
-    "wof:parent_id":-1,
+    "wof:parent_id":102031439,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    135.4903,
+    34.6183,
+    135.4903,
+    34.6183
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[135.49029999999999,34.6183],"type":"Point"}
 }

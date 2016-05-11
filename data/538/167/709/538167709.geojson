@@ -5,34 +5,56 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"139.6301,35.9136,139.6301,35.9136",
+    "geom:latitude":35.9136,
+    "geom:longitude":139.6301,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Saitamaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Saitamashioomiyaku",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Takahanachou",
     "gp:parent_id":"28407671",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        102032221,
+        "85632429",
+        85672807
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26228656"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"084208efaeb02845ad24c83aacda70e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102032221,
+            "postalcode_id":538167709,
+            "region_id":85672807
+        }
+    ],
     "wof:id":538167709,
-    "wof:lastmodified":1460064730,
+    "wof:lastmodified":1462979433,
     "wof:name":"330-0803",
-    "wof:parent_id":-1,
+    "wof:parent_id":102032221,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    139.6301,
+    35.9136,
+    139.6301,
+    35.9136
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[139.6301,35.9136],"type":"Point"}
 }

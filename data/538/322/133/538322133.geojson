@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"133.7947,34.1218,133.7947,34.1218",
+    "geom:latitude":34.1218,
+    "geom:longitude":133.7947,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Kagawaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Mitoyogunsaitachou",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Saitakami",
     "gp:parent_id":"28478802",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672715
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26304553"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b4af5fcdf1a5af1c509ca929566f38e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538322133,
+            "region_id":85672715
+        }
+    ],
     "wof:id":538322133,
-    "wof:lastmodified":1460071898,
+    "wof:lastmodified":1462979890,
     "wof:name":"769-0401",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672715,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    133.7947,
+    34.1218,
+    133.7947,
+    34.1218
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[133.79470000000001,34.1218],"type":"Point"}
 }

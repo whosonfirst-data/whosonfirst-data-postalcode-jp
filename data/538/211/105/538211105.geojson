@@ -5,34 +5,56 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"136.56,36.5161,136.56,36.5161",
+    "geom:latitude":36.5161,
+    "geom:longitude":136.56,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Ishikawaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Mattoushi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Muraihigashi",
     "gp:parent_id":"28427614",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        102031375,
+        "85632429",
+        85672741
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26250506"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d99e0c72e0b722d63f3ad8ee042d5d88",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102031375,
+            "postalcode_id":538211105,
+            "region_id":85672741
+        }
+    ],
     "wof:id":538211105,
-    "wof:lastmodified":1460066774,
+    "wof:lastmodified":1462980087,
     "wof:name":"924-0031",
-    "wof:parent_id":-1,
+    "wof:parent_id":102031375,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    136.56,
+    36.5161,
+    136.56,
+    36.5161
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[136.56,36.5161],"type":"Point"}
 }

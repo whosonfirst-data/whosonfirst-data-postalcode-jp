@@ -5,22 +5,31 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"129.5805,28.3679,129.5805,28.3679",
+    "geom:latitude":28.3679,
+    "geom:longitude":129.5805,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Kagoshimaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Ooshimaguntatsugouchou",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Toguchi",
     "gp:parent_id":"28493613",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
+    "mz:is_approximate":1,
+    "src:geom":"gn",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26319974"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"582c43e2390a2a45052597b19086effa",
     "wof:hierarchy":[],
     "wof:id":538354943,
-    "wof:lastmodified":1460073321,
+    "wof:lastmodified":1462980043,
     "wof:name":"894-0107",
     "wof:parent_id":-1,
     "wof:placetype":"postalcode",
@@ -29,10 +38,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    129.5805,
+    28.3679,
+    129.5805,
+    28.3679
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[129.5805,28.3679],"type":"Point"}
 }

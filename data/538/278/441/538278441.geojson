@@ -5,34 +5,56 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"135.7048,34.823,135.7048,34.823",
+    "geom:latitude":34.823,
+    "geom:longitude":135.7048,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Oosakafu",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Hirakatashi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Fujisakakitamachi",
     "gp:parent_id":"28458937",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        102031739,
+        "85632429",
+        85672785
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26282840"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2b4cca93e60f6badc98886af78636821",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102031739,
+            "postalcode_id":538278441,
+            "region_id":85672785
+        }
+    ],
     "wof:id":538278441,
-    "wof:lastmodified":1460070008,
+    "wof:lastmodified":1462979655,
     "wof:name":"573-0151",
-    "wof:parent_id":-1,
+    "wof:parent_id":102031739,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    135.7048,
+    34.823,
+    135.7048,
+    34.823
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[135.70480000000001,34.823],"type":"Point"}
 }

@@ -5,34 +5,52 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"132.3294,34.3516,132.3294,34.3516",
+    "geom:latitude":34.3516,
+    "geom:longitude":132.3294,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Hiroshimaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Hatsukaichishi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Shinguu",
     "gp:parent_id":"28475312",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        102031757,
+        85632429
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26299316"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"594601e5de4e8f00c0388c5da17af15c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632429,
+            "locality_id":102031757,
+            "postalcode_id":538315275
+        }
+    ],
     "wof:id":538315275,
-    "wof:lastmodified":1460071588,
+    "wof:lastmodified":1462979864,
     "wof:name":"738-0024",
-    "wof:parent_id":-1,
+    "wof:parent_id":102031757,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    132.3294,
+    34.3516,
+    132.3294,
+    34.3516
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[132.32939999999999,34.3516],"type":"Point"}
 }

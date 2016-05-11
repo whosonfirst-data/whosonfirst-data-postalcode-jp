@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"135.4251,34.8484,135.4251,34.8484",
+    "geom:latitude":34.8484,
+    "geom:longitude":135.4251,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Oosakafu",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Ikedashi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Furuechou",
     "gp:parent_id":"28458270",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672769
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26282202"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"79abbf65c1802b5d85c488cc1ba90fe8",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538277043,
+            "region_id":85672769
+        }
+    ],
     "wof:id":538277043,
-    "wof:lastmodified":1460069942,
+    "wof:lastmodified":1462979650,
     "wof:name":"563-0015",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672769,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    135.4251,
+    34.8484,
+    135.4251,
+    34.8484
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[135.42509999999999,34.8484],"type":"Point"}
 }

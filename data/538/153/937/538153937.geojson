@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"140.9933,37.3937,140.9933,37.3937",
+    "geom:latitude":37.3937,
+    "geom:longitude":140.9933,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Fukushimaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Futabagun'Ookumamachi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Kuma",
     "gp:parent_id":"28401587",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672835
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26222222"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c57fc5bae895481a5d1de00e34c912b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538153937,
+            "region_id":85672835
+        }
+    ],
     "wof:id":538153937,
-    "wof:lastmodified":1460064214,
+    "wof:lastmodified":1462980208,
     "wof:name":"979-1305",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672835,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    140.9933,
+    37.3937,
+    140.9933,
+    37.3937
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[140.9933,37.3937],"type":"Point"}
 }

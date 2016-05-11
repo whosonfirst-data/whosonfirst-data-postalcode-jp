@@ -5,34 +5,56 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"133.2292,34.4334,133.2292,34.4334",
+    "geom:latitude":34.4334,
+    "geom:longitude":133.2292,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Hiroshimaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Onomichishi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Takasuchou",
     "gp:parent_id":"28474566",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        102031441,
+        "85632429",
+        85672671
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26298781"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"df5de180b71cb7ef9b62868123688b34",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102031441,
+            "postalcode_id":538313773,
+            "region_id":85672671
+        }
+    ],
     "wof:id":538313773,
-    "wof:lastmodified":1460071520,
+    "wof:lastmodified":1462979854,
     "wof:name":"729-0141",
-    "wof:parent_id":-1,
+    "wof:parent_id":102031441,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    133.2292,
+    34.4334,
+    133.2292,
+    34.4334
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[133.22919999999999,34.4334],"type":"Point"}
 }

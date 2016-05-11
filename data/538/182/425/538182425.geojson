@@ -5,34 +5,56 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"139.7392,35.6036,139.7392,35.6036",
+    "geom:latitude":35.6036,
+    "geom:longitude":139.7392,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Toukyouto",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Shinagawaku",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Higashiooi",
     "gp:parent_id":"28414239",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        102031379,
+        "85632429",
+        85672817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26236800"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"addad40a0d1d5f5dcd7e0b1f14f8d8d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102031379,
+            "postalcode_id":538182425,
+            "region_id":85672817
+        }
+    ],
     "wof:id":538182425,
-    "wof:lastmodified":1460065410,
+    "wof:lastmodified":1462979333,
     "wof:name":"140-0011",
-    "wof:parent_id":-1,
+    "wof:parent_id":102031379,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    139.7392,
+    35.6036,
+    139.7392,
+    35.6036
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[139.73920000000001,35.6036],"type":"Point"}
 }

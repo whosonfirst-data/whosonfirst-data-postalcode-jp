@@ -5,22 +5,31 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"130.5679,32.5285,130.5679,32.5285",
+    "geom:latitude":32.5285,
+    "geom:longitude":130.5679,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Kumamotoken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Yatsushiroshi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Gunchiku4banchou",
     "gp:parent_id":"28488467",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
+    "mz:is_approximate":1,
+    "src:geom":"gn",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26314413"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"29ab134faf5feb85d82bc22e482e8d7c",
     "wof:hierarchy":[],
     "wof:id":538343605,
-    "wof:lastmodified":1460072918,
+    "wof:lastmodified":1462980003,
     "wof:name":"866-0021",
     "wof:parent_id":-1,
     "wof:placetype":"postalcode",
@@ -29,10 +38,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    130.5679,
+    32.5285,
+    130.5679,
+    32.5285
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[130.56790000000001,32.5285],"type":"Point"}
 }

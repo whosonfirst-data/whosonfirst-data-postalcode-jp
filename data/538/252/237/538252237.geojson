@@ -5,22 +5,31 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"136.7701,34.5072,136.7701,34.5072",
+    "geom:latitude":34.5072,
+    "geom:longitude":136.7701,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Mieken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Wataraigunfutamichou",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Shou",
     "gp:parent_id":"28446201",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
+    "mz:is_approximate":1,
+    "src:geom":"gn",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26271933"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"b8aff2ac2730495412278da2d21a0f61",
     "wof:hierarchy":[],
     "wof:id":538252237,
-    "wof:lastmodified":1460068899,
+    "wof:lastmodified":1462979624,
     "wof:name":"519-0606",
     "wof:parent_id":-1,
     "wof:placetype":"postalcode",
@@ -29,10 +38,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    136.7701,
+    34.5072,
+    136.7701,
+    34.5072
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[136.77010000000001,34.5072],"type":"Point"}
 }

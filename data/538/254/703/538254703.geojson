@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"136.5411,35.1487,136.5411,35.1487",
+    "geom:latitude":35.1487,
+    "geom:longitude":136.5411,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Mieken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Inabeshi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Hokuseichouootsujishinden",
     "gp:parent_id":"28447300",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672745
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26271346"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"154b074774fa240033cf71b44c99f860",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538254703,
+            "region_id":85672745
+        }
+    ],
     "wof:id":538254703,
-    "wof:lastmodified":1460069000,
+    "wof:lastmodified":1462979610,
     "wof:name":"511-0425",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672745,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    136.5411,
+    35.1487,
+    136.5411,
+    35.1487
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[136.5411,35.1487],"type":"Point"}
 }

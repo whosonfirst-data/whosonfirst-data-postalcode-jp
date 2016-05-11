@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"139.3563,36.3131,139.3563,36.3131",
+    "geom:latitude":36.3131,
+    "geom:longitude":139.3563,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Gunmaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Ootashi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Toriyamachou",
     "gp:parent_id":"28406777",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672871
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26227498"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"18d92228f55eab411eac6c6876917372",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538165885,
+            "region_id":85672871
+        }
+    ],
     "wof:id":538165885,
-    "wof:lastmodified":1460064673,
+    "wof:lastmodified":1462979463,
     "wof:name":"373-0053",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672871,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    139.3563,
+    36.3131,
+    139.3563,
+    36.3131
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[139.3563,36.3131],"type":"Point"}
 }

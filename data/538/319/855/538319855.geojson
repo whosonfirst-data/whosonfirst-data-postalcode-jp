@@ -5,22 +5,31 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"134.6159,34.2417,134.6159,34.2417",
+    "geom:latitude":34.2417,
+    "geom:longitude":134.6159,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Tokushimaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Narutoshi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Setochoumuro",
     "gp:parent_id":"28477446",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
+    "mz:is_approximate":1,
+    "src:geom":"gn",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26302413"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"cc9e7307138171774198e3f6d0ed2aaf",
     "wof:hierarchy":[],
     "wof:id":538319855,
-    "wof:lastmodified":1460071796,
+    "wof:lastmodified":1462979893,
     "wof:name":"771-0368",
     "wof:parent_id":-1,
     "wof:placetype":"postalcode",
@@ -29,10 +38,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    134.6159,
+    34.2417,
+    134.6159,
+    34.2417
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[134.61590000000001,34.2417],"type":"Point"}
 }

@@ -5,34 +5,56 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"138.2,34.8402,138.2,34.8402",
+    "geom:latitude":34.8402,
+    "geom:longitude":138.2,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Shizuokaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Shimadashi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Achigaya",
     "gp:parent_id":"28437548",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        102031807,
+        "85632429",
+        85672753
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26261261"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"93d9a44d59b3e8e4ee47e73fc3db7e00",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102031807,
+            "postalcode_id":538232843,
+            "region_id":85672753
+        }
+    ],
     "wof:id":538232843,
-    "wof:lastmodified":1460067885,
+    "wof:lastmodified":1462979510,
     "wof:name":"427-0006",
-    "wof:parent_id":-1,
+    "wof:parent_id":102031807,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    138.2,
+    34.8402,
+    138.2,
+    34.8402
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[138.19999999999999,34.8402],"type":"Point"}
 }

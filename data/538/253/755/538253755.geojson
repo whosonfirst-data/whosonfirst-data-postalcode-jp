@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"136.1318,34.6157,136.1318,34.6157",
+    "geom:latitude":34.6157,
+    "geom:longitude":136.1318,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Mieken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Nabarishi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Tsutsujigaokakita9banchou",
     "gp:parent_id":"28446912",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672745
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26270921"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"334ae36e1f589ca97e55f594786a4b9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538253755,
+            "region_id":85672745
+        }
+    ],
     "wof:id":538253755,
-    "wof:lastmodified":1460068962,
+    "wof:lastmodified":1462979621,
     "wof:name":"518-0439",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672745,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    136.1318,
+    34.6157,
+    136.1318,
+    34.6157
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[136.1318,34.6157],"type":"Point"}
 }

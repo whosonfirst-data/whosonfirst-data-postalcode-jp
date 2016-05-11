@@ -5,22 +5,31 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"139.5942,33.8962,139.5942,33.8962",
+    "geom:latitude":33.8962,
+    "geom:longitude":139.5942,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Toukyouto",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Mikurajimamikurajimamura",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Mikurajimamuraichien",
     "gp:parent_id":"15015578",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
+    "mz:is_approximate":1,
+    "src:geom":"gn",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26238226"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"9b16868330568f11976e2ace69937fa3",
     "wof:hierarchy":[],
     "wof:id":538185337,
-    "wof:lastmodified":1460065516,
+    "wof:lastmodified":1462979329,
     "wof:name":"100-1301",
     "wof:parent_id":-1,
     "wof:placetype":"postalcode",
@@ -29,10 +38,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    139.5942,
+    33.8962,
+    139.5942,
+    33.8962
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[139.5942,33.8962],"type":"Point"}
 }

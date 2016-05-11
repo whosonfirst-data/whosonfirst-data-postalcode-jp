@@ -5,22 +5,31 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"132.2124,34.0333,132.2124,34.0333",
+    "geom:latitude":34.0333,
+    "geom:longitude":132.2124,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Yamaguchiken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Kugagunyuuchou",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Chidorigaoka",
     "gp:parent_id":"28476752",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
+    "mz:is_approximate":1,
+    "src:geom":"gn",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26301712"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"b704199e3a08c65e7a0f0bb13f085ea2",
     "wof:hierarchy":[],
     "wof:id":538318293,
-    "wof:lastmodified":1460071722,
+    "wof:lastmodified":1462979868,
     "wof:name":"740-1441",
     "wof:parent_id":-1,
     "wof:placetype":"postalcode",
@@ -29,10 +38,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    132.2124,
+    34.0333,
+    132.2124,
+    34.0333
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[132.2124,34.0333],"type":"Point"}
 }

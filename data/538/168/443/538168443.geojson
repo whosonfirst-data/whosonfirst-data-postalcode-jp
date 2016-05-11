@@ -5,34 +5,56 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"139.4699,35.9222,139.4699,35.9222",
+    "geom:latitude":35.9222,
+    "geom:longitude":139.4699,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Saitamaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Kawagoeshi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Imanari",
     "gp:parent_id":"28408062",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        102031633,
+        "85632429",
+        85672807
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26228990"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d9505ca7924101bda3bec9d4b8850e9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102031633,
+            "postalcode_id":538168443,
+            "region_id":85672807
+        }
+    ],
     "wof:id":538168443,
-    "wof:lastmodified":1460064793,
+    "wof:lastmodified":1462979444,
     "wof:name":"350-1105",
-    "wof:parent_id":-1,
+    "wof:parent_id":102031633,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    139.4699,
+    35.9222,
+    139.4699,
+    35.9222
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[139.4699,35.9222],"type":"Point"}
 }

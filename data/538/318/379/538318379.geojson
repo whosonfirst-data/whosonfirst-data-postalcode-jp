@@ -5,22 +5,31 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"132.0077,33.8588,132.0077,33.8588",
+    "geom:latitude":33.8588,
+    "geom:longitude":132.0077,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Yamaguchiken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Hikarishi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Ushima",
     "gp:parent_id":"28476760",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
+    "mz:is_approximate":1,
+    "src:geom":"gn",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26301341"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"ca80d3782eb00a959c9abbfe3bc5a89f",
     "wof:hierarchy":[],
     "wof:id":538318379,
-    "wof:lastmodified":1460071724,
+    "wof:lastmodified":1462979871,
     "wof:name":"743-0003",
     "wof:parent_id":-1,
     "wof:placetype":"postalcode",
@@ -29,10 +38,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    132.0077,
+    33.8588,
+    132.0077,
+    33.8588
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[132.0077,33.8588],"type":"Point"}
 }

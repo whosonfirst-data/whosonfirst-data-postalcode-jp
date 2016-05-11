@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"131.099,32.813,131.099,32.813",
+    "geom:latitude":32.813,
+    "geom:longitude":131.099,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Kumamotoken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Asogunhakusuimura",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Ryouhei",
     "gp:parent_id":"28489610",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672703
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26315532"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1df110dfbe83d3c2ba3a5ac1e2b9e4b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538346157,
+            "region_id":85672703
+        }
+    ],
     "wof:id":538346157,
-    "wof:lastmodified":1460073021,
+    "wof:lastmodified":1462980009,
     "wof:name":"869-1501",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672703,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    131.099,
+    32.813,
+    131.099,
+    32.813
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[131.09899999999999,32.813],"type":"Point"}
 }

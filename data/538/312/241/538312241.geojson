@@ -5,34 +5,56 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"132.438,34.4207,132.438,34.4207",
+    "geom:latitude":34.4207,
+    "geom:longitude":132.438,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Hiroshimaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Hiroshimashinishiku",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Mitakiyama",
     "gp:parent_id":"28473954",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        102031735,
+        "85632429",
+        85672671
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26298315"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"975a8fab8040504c22cb583a6f5d6efc",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102031735,
+            "postalcode_id":538312241,
+            "region_id":85672671
+        }
+    ],
     "wof:id":538312241,
-    "wof:lastmodified":1460071456,
+    "wof:lastmodified":1462979861,
     "wof:name":"733-0805",
-    "wof:parent_id":-1,
+    "wof:parent_id":102031735,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    132.438,
+    34.4207,
+    132.438,
+    34.4207
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[132.43799999999999,34.4207],"type":"Point"}
 }

@@ -5,14 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"136.1176,34.6447,136.1176,34.6447",
+    "geom:latitude":34.6447,
+    "geom:longitude":136.1176,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Mieken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Nabarishi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Ikanikeisaiganaibaai",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
+    "mz:is_approximate":1,
+    "src:geom":"gn",
     "wof:belongsto":[
         "102191569",
-        102031721,
+        102031517,
         "85632429",
         85672745
     ],
@@ -21,30 +30,30 @@
         "gp:id":"26271001"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"811300fae4108f8fdb0f208c26a2edd2",
     "wof:hierarchy":[
         {
             "continent_id":"102191569",
             "country_id":"85632429",
-            "locality_id":102031721,
+            "locality_id":102031517,
             "postalcode_id":538375591,
             "region_id":85672745
         }
     ],
     "wof:id":538375591,
-    "wof:lastmodified":1460073999,
+    "wof:lastmodified":1462979621,
     "wof:name":"518-0400",
-    "wof:parent_id":"102031721",
+    "wof:parent_id":102031517,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    136.1176,
+    34.6447,
+    136.1176,
+    34.6447
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[136.11760000000001,34.6447],"type":"Point"}
 }

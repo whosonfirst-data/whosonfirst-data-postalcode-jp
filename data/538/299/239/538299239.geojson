@@ -5,22 +5,31 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"135.3547,33.7338,135.3547,33.7338",
+    "geom:latitude":33.7338,
+    "geom:longitude":135.3547,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Wakayamaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Tanabeshi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Mera",
     "gp:parent_id":"28468195",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
+    "mz:is_approximate":1,
+    "src:geom":"gn",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26292216"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"5d0c9e9832c14a05bdfd5b230687eb4d",
     "wof:hierarchy":[],
     "wof:id":538299239,
-    "wof:lastmodified":1460070872,
+    "wof:lastmodified":1462979739,
     "wof:name":"646-0058",
     "wof:parent_id":-1,
     "wof:placetype":"postalcode",
@@ -29,10 +38,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    135.3547,
+    33.7338,
+    135.3547,
+    33.7338
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[135.35470000000001,33.7338],"type":"Point"}
 }

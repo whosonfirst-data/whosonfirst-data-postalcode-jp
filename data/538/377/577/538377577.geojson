@@ -5,14 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"141.4492,38.4482,141.4492,38.4482",
+    "geom:latitude":38.4482,
+    "geom:longitude":141.4492,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Miyagiken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Oshikagun'Onagawachou",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Ikanikeisaiganaibaai",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
+    "mz:is_approximate":1,
+    "src:geom":"gn",
     "wof:belongsto":[
         "102191569",
-        102031977,
+        102031925,
         "85632429",
         85672843
     ],
@@ -21,30 +30,30 @@
         "gp:id":"26214324"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"5f2190ff77263814352437bb29e9939e",
     "wof:hierarchy":[
         {
             "continent_id":"102191569",
             "country_id":"85632429",
-            "locality_id":102031977,
+            "locality_id":102031925,
             "postalcode_id":538377577,
             "region_id":85672843
         }
     ],
     "wof:id":538377577,
-    "wof:lastmodified":1460074069,
+    "wof:lastmodified":1462980218,
     "wof:name":"986-2200",
-    "wof:parent_id":"102031977",
+    "wof:parent_id":102031925,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    141.4492,
+    38.4482,
+    141.4492,
+    38.4482
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[141.44919999999999,38.4482],"type":"Point"}
 }

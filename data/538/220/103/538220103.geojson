@@ -5,34 +5,56 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"138.2623,36.4047,138.2623,36.4047",
+    "geom:latitude":36.4047,
+    "geom:longitude":138.2623,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Naganoken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Uedashi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Chuuouhigashi",
     "gp:parent_id":"28431671",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        102031275,
+        "85632429",
+        85672749
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26255193"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9a9babbf146ed960d0cea0aa2eea9a85",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102031275,
+            "postalcode_id":538220103,
+            "region_id":85672749
+        }
+    ],
     "wof:id":538220103,
-    "wof:lastmodified":1460067179,
+    "wof:lastmodified":1462979476,
     "wof:name":"386-0013",
-    "wof:parent_id":-1,
+    "wof:parent_id":102031275,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    138.2623,
+    36.4047,
+    138.2623,
+    36.4047
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[138.26230000000001,36.4047],"type":"Point"}
 }

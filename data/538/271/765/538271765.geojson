@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"135.3055,35.3623,135.3055,35.3623",
+    "geom:latitude":35.3623,
+    "geom:longitude":135.3055,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Kyoutofu",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Ayabeshi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Takatsukichou",
     "gp:parent_id":"28455291",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672777
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26279426"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d3cfda0992507943ba4b11b95871f4bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538271765,
+            "region_id":85672777
+        }
+    ],
     "wof:id":538271765,
-    "wof:lastmodified":1460069736,
+    "wof:lastmodified":1462979710,
     "wof:name":"623-0106",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672777,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    135.3055,
+    35.3623,
+    135.3055,
+    35.3623
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[135.30549999999999,35.3623],"type":"Point"}
 }

@@ -5,22 +5,31 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"129.3284,29.2234,129.3284,29.2234",
+    "geom:latitude":29.2234,
+    "geom:longitude":129.3284,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Kagoshimaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Kagoshimaguntoshimamura",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Kodakarajima",
     "gp:parent_id":"28493330",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
+    "mz:is_approximate":1,
+    "src:geom":"gn",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"28361935"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"07496c4618f8887261c9d197c8a59df8",
     "wof:hierarchy":[],
     "wof:id":538354389,
-    "wof:lastmodified":1460073305,
+    "wof:lastmodified":1462980040,
     "wof:name":"891-5205",
     "wof:parent_id":-1,
     "wof:placetype":"postalcode",
@@ -29,10 +38,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    129.3284,
+    29.2234,
+    129.3284,
+    29.2234
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[129.32839999999999,29.2234],"type":"Point"}
 }

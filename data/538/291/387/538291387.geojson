@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"134.9171,34.4923,134.9171,34.4923",
+    "geom:latitude":34.4923,
+    "geom:longitude":134.9171,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Hyougoken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Tsunagun'Ichinomiyachou",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Takayama",
     "gp:parent_id":"28464760",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672769
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26289540"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"80addb70ac3ba9a014882c8bd1f46b15",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538291387,
+            "region_id":85672769
+        }
+    ],
     "wof:id":538291387,
-    "wof:lastmodified":1460070559,
+    "wof:lastmodified":1462979755,
     "wof:name":"656-1551",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672769,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    134.9171,
+    34.4923,
+    134.9171,
+    34.4923
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[134.9171,34.4923],"type":"Point"}
 }

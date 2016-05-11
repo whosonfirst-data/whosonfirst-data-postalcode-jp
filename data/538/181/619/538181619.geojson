@@ -5,22 +5,31 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"139.8314,35.1151,139.8314,35.1151",
+    "geom:latitude":35.1151,
+    "geom:longitude":139.8314,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Chibaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Awagunkyonanmachi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Ryuushima",
     "gp:parent_id":"28413911",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
+    "mz:is_approximate":1,
+    "src:geom":"gn",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26234905"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"b5f958ffc1f4f4ff29b7a5660d6cd8b4",
     "wof:hierarchy":[],
     "wof:id":538181619,
-    "wof:lastmodified":1460065368,
+    "wof:lastmodified":1462979389,
     "wof:name":"299-2118",
     "wof:parent_id":-1,
     "wof:placetype":"postalcode",
@@ -29,10 +38,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    139.8314,
+    35.1151,
+    139.8314,
+    35.1151
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[139.8314,35.1151],"type":"Point"}
 }

@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"138.5769,35.3269,138.5769,35.3269",
+    "geom:latitude":35.3269,
+    "geom:longitude":138.5769,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Shizuokaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Fujinomiyashi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Utsuno",
     "gp:parent_id":"28437433",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672753
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26261193"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c5c11b1d5f3a9387850dd4d28a03faf5",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538232695,
+            "region_id":85672753
+        }
+    ],
     "wof:id":538232695,
-    "wof:lastmodified":1460067881,
+    "wof:lastmodified":1462979502,
     "wof:name":"418-0104",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672753,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    138.5769,
+    35.3269,
+    138.5769,
+    35.3269
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[138.57689999999999,35.3269],"type":"Point"}
 }

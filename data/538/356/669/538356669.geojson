@@ -5,34 +5,56 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"127.7542,26.2504,127.7542,26.2504",
+    "geom:latitude":26.2504,
+    "geom:longitude":127.7542,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Okinawaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Nakagamigunnishiharachou",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Morikawa",
     "gp:parent_id":"28494364",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        102031783,
+        "85632429",
+        85672867
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26320716"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5751f2f3ec2fd72d206e6dbf6dc0a563",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102031783,
+            "postalcode_id":538356669,
+            "region_id":85672867
+        }
+    ],
     "wof:id":538356669,
-    "wof:lastmodified":1460073377,
+    "wof:lastmodified":1462980054,
     "wof:name":"903-0128",
-    "wof:parent_id":-1,
+    "wof:parent_id":102031783,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    127.7542,
+    26.2504,
+    127.7542,
+    26.2504
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[127.7542,26.2504],"type":"Point"}
 }

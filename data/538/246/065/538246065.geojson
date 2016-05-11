@@ -5,34 +5,56 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"136.848,34.8915,136.848,34.8915",
+    "geom:latitude":34.8915,
+    "geom:longitude":136.848,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Aichiken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Tokonameshi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Orido",
     "gp:parent_id":"28443312",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        102031313,
+        "85632429",
+        85672731
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26267296"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2faaf5d2a8a223ba16d7fc177e6cc57e",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102031313,
+            "postalcode_id":538246065,
+            "region_id":85672731
+        }
+    ],
     "wof:id":538246065,
-    "wof:lastmodified":1460068628,
+    "wof:lastmodified":1462979556,
     "wof:name":"479-0069",
-    "wof:parent_id":-1,
+    "wof:parent_id":102031313,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    136.848,
+    34.8915,
+    136.848,
+    34.8915
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[136.84800000000001,34.8915],"type":"Point"}
 }

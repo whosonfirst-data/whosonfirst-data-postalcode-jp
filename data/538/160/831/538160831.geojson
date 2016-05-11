@@ -5,34 +5,56 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"139.8943,36.5556,139.8943,36.5556",
+    "geom:latitude":36.5556,
+    "geom:longitude":139.8943,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Tochigiken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Utsunomiyashi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Minamioodoori",
     "gp:parent_id":"28404609",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        102031261,
+        "85632429",
+        85672813
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26225383"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8c5c8bbfd72a3b8db513e222f6b26656",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102031261,
+            "postalcode_id":538160831,
+            "region_id":85672813
+        }
+    ],
     "wof:id":538160831,
-    "wof:lastmodified":1460064480,
+    "wof:lastmodified":1462979418,
     "wof:name":"321-0963",
-    "wof:parent_id":-1,
+    "wof:parent_id":102031261,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    139.8943,
+    36.5556,
+    139.8943,
+    36.5556
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[139.89429999999999,36.5556],"type":"Point"}
 }

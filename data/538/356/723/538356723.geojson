@@ -5,22 +5,31 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"127.2944,26.2274,127.2944,26.2274",
+    "geom:latitude":26.2274,
+    "geom:longitude":127.2944,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Okinawaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Shimajirigunzamamison",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Ama",
     "gp:parent_id":"28494390",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
+    "mz:is_approximate":1,
+    "src:geom":"gn",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26320833"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"29f05477992628761542db0a1f3b40a0",
     "wof:hierarchy":[],
     "wof:id":538356723,
-    "wof:lastmodified":1460073379,
+    "wof:lastmodified":1462980054,
     "wof:name":"901-3403",
     "wof:parent_id":-1,
     "wof:placetype":"postalcode",
@@ -29,10 +38,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    127.2944,
+    26.2274,
+    127.2944,
+    26.2274
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[127.2944,26.2274],"type":"Point"}
 }

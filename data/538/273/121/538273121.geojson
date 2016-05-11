@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"135.6892,34.8841,135.6892,34.8841",
+    "geom:latitude":34.8841,
+    "geom:longitude":135.6892,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Kyoutofu",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Yawatashi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Hashimotohigashiyamamoto",
     "gp:parent_id":"28455859",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672777
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26279873"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fcbf28c0032cce1d5dfe342e4d60e730",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538273121,
+            "region_id":85672777
+        }
+    ],
     "wof:id":538273121,
-    "wof:lastmodified":1460069790,
+    "wof:lastmodified":1462979698,
     "wof:name":"614-8313",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672777,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    135.6892,
+    34.8841,
+    135.6892,
+    34.8841
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[135.6892,34.8841],"type":"Point"}
 }

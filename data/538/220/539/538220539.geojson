@@ -5,34 +5,56 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"137.8338,35.5056,137.8338,35.5056",
+    "geom:latitude":35.5056,
+    "geom:longitude":137.8338,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Naganoken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Iidashi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Kanaeshimoyama",
     "gp:parent_id":"28431839",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        102032295,
+        "85632429",
+        85672749
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26255305"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9583452467f5c4fb6ce701a217736745",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102032295,
+            "postalcode_id":538220539,
+            "region_id":85672749
+        }
+    ],
     "wof:id":538220539,
-    "wof:lastmodified":1460067200,
+    "wof:lastmodified":1462979482,
     "wof:name":"395-0803",
-    "wof:parent_id":-1,
+    "wof:parent_id":102032295,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    137.8338,
+    35.5056,
+    137.8338,
+    35.5056
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[137.8338,35.5056],"type":"Point"}
 }

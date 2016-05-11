@@ -5,22 +5,31 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"133.8108,34.4066,133.8108,34.4066",
+    "geom:latitude":34.4066,
+    "geom:longitude":133.8108,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Kagawaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Sakaideshi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Iwakuro",
     "gp:parent_id":"28478632",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
+    "mz:is_approximate":1,
+    "src:geom":"gn",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26304079"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"ab25ceccf5e49b39ee284aacb71b0fe5",
     "wof:hierarchy":[],
     "wof:id":538321803,
-    "wof:lastmodified":1460071879,
+    "wof:lastmodified":1462979888,
     "wof:name":"762-0072",
     "wof:parent_id":-1,
     "wof:placetype":"postalcode",
@@ -29,10 +38,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    133.8108,
+    34.4066,
+    133.8108,
+    34.4066
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[133.8108,34.4066],"type":"Point"}
 }

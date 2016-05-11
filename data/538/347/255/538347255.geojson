@@ -5,34 +5,56 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"131.5809,33.2287,131.5809,33.2287",
+    "geom:latitude":33.2287,
+    "geom:longitude":131.5809,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Ooitaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Ooitashi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Nijigaoka",
     "gp:parent_id":"28490198",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        102031459,
+        "85632429",
+        85672723
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26316131"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6d182d1254c9e2ab6113eb05ac28d2c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102031459,
+            "postalcode_id":538347255,
+            "region_id":85672723
+        }
+    ],
     "wof:id":538347255,
-    "wof:lastmodified":1460073069,
+    "wof:lastmodified":1462980014,
     "wof:name":"870-0874",
-    "wof:parent_id":-1,
+    "wof:parent_id":102031459,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    131.5809,
+    33.2287,
+    131.5809,
+    33.2287
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[131.58090000000001,33.2287],"type":"Point"}
 }

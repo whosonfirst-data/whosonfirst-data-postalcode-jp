@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"137.0585,35.4389,137.0585,35.4389",
+    "geom:latitude":35.4389,
+    "geom:longitude":137.0585,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Gifuken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Kanishi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Kawai",
     "gp:parent_id":"28435122",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26258432"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"53820e69eeae0cbe5e6e84bedc92ed21",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538227321,
+            "region_id":85672735
+        }
+    ],
     "wof:id":538227321,
-    "wof:lastmodified":1460067611,
+    "wof:lastmodified":1462979601,
     "wof:name":"509-0201",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672735,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    137.0585,
+    35.4389,
+    137.0585,
+    35.4389
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[137.05850000000001,35.4389],"type":"Point"}
 }

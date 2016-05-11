@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"127.7559,26.2896,127.7559,26.2896",
+    "geom:latitude":26.2896,
+    "geom:longitude":127.7559,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Okinawaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Ginowanshi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Isa",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
+    "mz:is_approximate":1,
+    "src:geom":"gn",
     "wof:belongsto":[
         "102191569",
         102031783,
@@ -21,7 +30,7 @@
         "gp:id":"26320273"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"48461118d633e4b145876d98bbc25284",
     "wof:hierarchy":[
         {
             "continent_id":"102191569",
@@ -32,19 +41,19 @@
         }
     ],
     "wof:id":538355443,
-    "wof:lastmodified":1460073342,
+    "wof:lastmodified":1462980053,
     "wof:name":"901-2221",
-    "wof:parent_id":"102031783",
+    "wof:parent_id":102031783,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    127.7559,
+    26.2896,
+    127.7559,
+    26.2896
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[127.7559,26.2896],"type":"Point"}
 }

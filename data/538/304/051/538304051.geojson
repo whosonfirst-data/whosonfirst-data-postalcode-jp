@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"133.428,35.3901,133.428,35.3901",
+    "geom:latitude":35.3901,
+    "geom:longitude":133.428,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Tottoriken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Saihakugunkishimotochou",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Fukuoka",
     "gp:parent_id":"28470353",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26294404"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1a72d51d8d264462a49a12daf43c06e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538304051,
+            "region_id":85672685
+        }
+    ],
     "wof:id":538304051,
-    "wof:lastmodified":1460071101,
+    "wof:lastmodified":1462979812,
     "wof:name":"689-4136",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672685,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    133.428,
+    35.3901,
+    133.428,
+    35.3901
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[133.428,35.3901],"type":"Point"}
 }

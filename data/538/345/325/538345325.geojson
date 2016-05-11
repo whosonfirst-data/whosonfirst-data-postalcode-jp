@@ -5,22 +5,31 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"130.2849,32.4066,130.2849,32.4066",
+    "geom:latitude":32.4066,
+    "geom:longitude":130.2849,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Kumamotoken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Amakusagunsumotomachi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Furue",
     "gp:parent_id":"28489284",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
+    "mz:is_approximate":1,
+    "src:geom":"gn",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26315947"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"3407197daa005fdd70474815ab53ec24",
     "wof:hierarchy":[],
     "wof:id":538345325,
-    "wof:lastmodified":1460072984,
+    "wof:lastmodified":1462980001,
     "wof:name":"861-6304",
     "wof:parent_id":-1,
     "wof:placetype":"postalcode",
@@ -29,10 +38,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    130.2849,
+    32.4066,
+    130.2849,
+    32.4066
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[130.28489999999999,32.4066],"type":"Point"}
 }

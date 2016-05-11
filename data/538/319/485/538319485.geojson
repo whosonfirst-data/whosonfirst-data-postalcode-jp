@@ -5,34 +5,56 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"134.4989,34.0935,134.4989,34.0935",
+    "geom:latitude":34.0935,
+    "geom:longitude":134.4989,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Tokushimaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Tokushimashi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Fudounishimachi",
     "gp:parent_id":"28477359",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        102031309,
+        "85632429",
+        85672729
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26302267"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7656b1803eb5559030918a04ab6806a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102031309,
+            "postalcode_id":538319485,
+            "region_id":85672729
+        }
+    ],
     "wof:id":538319485,
-    "wof:lastmodified":1460071774,
+    "wof:lastmodified":1462979891,
     "wof:name":"770-0064",
-    "wof:parent_id":-1,
+    "wof:parent_id":102031309,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    134.4989,
+    34.0935,
+    134.4989,
+    34.0935
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[134.49889999999999,34.0935],"type":"Point"}
 }

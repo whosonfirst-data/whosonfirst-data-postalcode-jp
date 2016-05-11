@@ -5,34 +5,56 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"133.5535,33.559,133.5535,33.559",
+    "geom:latitude":33.559,
+    "geom:longitude":133.5535,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Kouchiken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Kouchishi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Nakahoueichou",
     "gp:parent_id":"28480854",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        102031611,
+        "85632429",
+        85672717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26306560"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e8119b745605736818a83f9c2f391ce6",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102031611,
+            "postalcode_id":538326365,
+            "region_id":85672717
+        }
+    ],
     "wof:id":538326365,
-    "wof:lastmodified":1460072110,
+    "wof:lastmodified":1462979899,
     "wof:name":"780-0817",
-    "wof:parent_id":-1,
+    "wof:parent_id":102031611,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    133.5535,
+    33.559,
+    133.5535,
+    33.559
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[133.55350000000001,33.559],"type":"Point"}
 }

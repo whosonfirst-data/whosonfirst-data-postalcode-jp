@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"136.0651,34.6894,136.0651,34.6894",
+    "geom:latitude":34.6894,
+    "geom:longitude":136.0651,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Naraken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Yamabegunyamazoemura",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Chuumuzan",
     "gp:parent_id":"28466992",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672745
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26290783"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f6739ee596fcfb0585c76e274151e3cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538296511,
+            "region_id":85672745
+        }
+    ],
     "wof:id":538296511,
-    "wof:lastmodified":1460070769,
+    "wof:lastmodified":1462979716,
     "wof:name":"630-2351",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672745,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    136.0651,
+    34.6894,
+    136.0651,
+    34.6894
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[136.0651,34.6894],"type":"Point"}
 }

@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"139.8051,36.4248,139.8051,36.4248",
+    "geom:latitude":36.4248,
+    "geom:longitude":139.8051,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Tochigiken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Shimotsugagunmibumachi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Ikanikeisaiganaibaai",
     "gp:parent_id":"1117699",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672813
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26226538"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"321944aec5dd7b4c31c1a456b619b2da",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538374729,
+            "region_id":85672813
+        }
+    ],
     "wof:id":538374729,
-    "wof:lastmodified":1460073973,
+    "wof:lastmodified":1462979417,
     "wof:name":"321-0200",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672813,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    139.8051,
+    36.4248,
+    139.8051,
+    36.4248
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[139.80510000000001,36.4248],"type":"Point"}
 }

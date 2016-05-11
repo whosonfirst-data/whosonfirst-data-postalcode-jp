@@ -5,22 +5,31 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"138.8773,35.0205,138.8773,35.0205",
+    "geom:latitude":35.0205,
+    "geom:longitude":138.8773,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Shizuokaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Numadushi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Nishiurakishou",
     "gp:parent_id":"28437227",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
+    "mz:is_approximate":1,
+    "src:geom":"gn",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26260872"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"74b9461917b79ebd0f72eb156f8ba1e0",
     "wof:hierarchy":[],
     "wof:id":538232077,
-    "wof:lastmodified":1460067859,
+    "wof:lastmodified":1462979494,
     "wof:name":"410-0231",
     "wof:parent_id":-1,
     "wof:placetype":"postalcode",
@@ -29,10 +38,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    138.8773,
+    35.0205,
+    138.8773,
+    35.0205
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[138.87729999999999,35.0205],"type":"Point"}
 }

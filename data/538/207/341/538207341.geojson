@@ -5,22 +5,31 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"137.5911,36.9731,137.5911,36.9731",
+    "geom:latitude":36.9731,
+    "geom:longitude":137.5911,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Toyamaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Shimoniikawagun'Asahimachi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Miyazaki",
     "gp:parent_id":"28425807",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
+    "mz:is_approximate":1,
+    "src:geom":"gn",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26248169"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"5a283e0b787589c4e66b3e40a46e4ee1",
     "wof:hierarchy":[],
     "wof:id":538207341,
-    "wof:lastmodified":1460066610,
+    "wof:lastmodified":1462980117,
     "wof:name":"939-0703",
     "wof:parent_id":-1,
     "wof:placetype":"postalcode",
@@ -29,10 +38,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    137.5911,
+    36.9731,
+    137.5911,
+    36.9731
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[137.59110000000001,36.9731],"type":"Point"}
 }

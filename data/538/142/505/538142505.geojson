@@ -5,34 +5,56 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"140.3286,38.2551,140.3286,38.2551",
+    "geom:latitude":38.2551,
+    "geom:longitude":140.3286,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Yamagataken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Yamagatashi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Kajoumachi",
     "gp:parent_id":"28396144",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        102031897,
+        "85632429",
+        85672853
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26216867"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6c822c320c7b020b624db3953e6b9cf9",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102031897,
+            "postalcode_id":538142505,
+            "region_id":85672853
+        }
+    ],
     "wof:id":538142505,
-    "wof:lastmodified":1460063792,
+    "wof:lastmodified":1462980232,
     "wof:name":"990-0826",
-    "wof:parent_id":-1,
+    "wof:parent_id":102031897,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    140.3286,
+    38.2551,
+    140.3286,
+    38.2551
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[140.32859999999999,38.2551],"type":"Point"}
 }

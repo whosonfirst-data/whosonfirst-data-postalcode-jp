@@ -5,22 +5,31 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"132.4941,34.3392,132.4941,34.3392",
+    "geom:latitude":34.3392,
+    "geom:longitude":132.4941,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Hiroshimaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Akigunsakachou",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Taibi",
     "gp:parent_id":"28475610",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
+    "mz:is_approximate":1,
+    "src:geom":"gn",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26299421"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"40ebd4e3b905fc65cb4ba1889cc86eb8",
     "wof:hierarchy":[],
     "wof:id":538315781,
-    "wof:lastmodified":1460071607,
+    "wof:lastmodified":1462979859,
     "wof:name":"731-4325",
     "wof:parent_id":-1,
     "wof:placetype":"postalcode",
@@ -29,10 +38,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    132.4941,
+    34.3392,
+    132.4941,
+    34.3392
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[132.4941,34.3392],"type":"Point"}
 }

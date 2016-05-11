@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"136.9849,36.8529,136.9849,36.8529",
+    "geom:latitude":36.8529,
+    "geom:longitude":136.9849,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Toyamaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Himishi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Asahihonmachi",
     "gp:parent_id":"28424387",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672759
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26247066"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"07a1e66b731f4d98b4502c83986e9b9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538204457,
+            "region_id":85672759
+        }
+    ],
     "wof:id":538204457,
-    "wof:lastmodified":1460066477,
+    "wof:lastmodified":1462980110,
     "wof:name":"935-0022",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672759,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    136.9849,
+    36.8529,
+    136.9849,
+    36.8529
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[136.98490000000001,36.8529],"type":"Point"}
 }

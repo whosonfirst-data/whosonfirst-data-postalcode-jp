@@ -5,34 +5,56 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"137.7524,34.6969,137.7524,34.6969",
+    "geom:latitude":34.6969,
+    "geom:longitude":137.7524,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Shizuokaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Hamamatsushi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Ryouke",
     "gp:parent_id":"55808760",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        102031761,
+        "85632429",
+        85672753
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26260852"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4db4b93807af29413d5813357d2f0773",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102031761,
+            "postalcode_id":538231013,
+            "region_id":85672753
+        }
+    ],
     "wof:id":538231013,
-    "wof:lastmodified":1460067799,
+    "wof:lastmodified":1462979511,
     "wof:name":"430-0852",
-    "wof:parent_id":-1,
+    "wof:parent_id":102031761,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    137.7524,
+    34.6969,
+    137.7524,
+    34.6969
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[137.75239999999999,34.6969],"type":"Point"}
 }

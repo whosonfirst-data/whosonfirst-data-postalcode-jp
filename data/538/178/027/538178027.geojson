@@ -5,34 +5,56 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"140.138,35.7483,140.138,35.7483",
+    "geom:latitude":35.7483,
+    "geom:longitude":140.138,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Chibaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Yachiyoshi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Shimokouya",
     "gp:parent_id":"28412334",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        102031307,
+        "85632429",
+        85672817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26233363"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f91799abb8e6e1c6e96d7cecc6773142",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102031307,
+            "postalcode_id":538178027,
+            "region_id":85672817
+        }
+    ],
     "wof:id":538178027,
-    "wof:lastmodified":1460065214,
+    "wof:lastmodified":1462979370,
     "wof:name":"276-0021",
-    "wof:parent_id":-1,
+    "wof:parent_id":102031307,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    140.138,
+    35.7483,
+    140.138,
+    35.7483
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[140.13800000000001,35.7483],"type":"Point"}
 }

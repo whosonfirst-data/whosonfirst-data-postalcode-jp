@@ -5,34 +5,56 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"139.9165,35.8817,139.9165,35.8817",
+    "geom:latitude":35.8817,
+    "geom:longitude":139.9165,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Chibaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Nagareyamashi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Nishihatsuishi",
     "gp:parent_id":"28412291",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        102031507,
+        "85632429",
+        85672797
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26233324"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3855df69ab0691f0b5e1889bd9a7420b",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102031507,
+            "postalcode_id":538177913,
+            "region_id":85672797
+        }
+    ],
     "wof:id":538177913,
-    "wof:lastmodified":1460065209,
+    "wof:lastmodified":1462979365,
     "wof:name":"270-0121",
-    "wof:parent_id":-1,
+    "wof:parent_id":102031507,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    139.9165,
+    35.8817,
+    139.9165,
+    35.8817
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[139.91650000000001,35.8817],"type":"Point"}
 }

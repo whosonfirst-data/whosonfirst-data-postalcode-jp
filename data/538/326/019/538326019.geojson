@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"132.7361,33.3042,132.7361,33.3042",
+    "geom:latitude":33.3042,
+    "geom:longitude":132.7361,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Ehimeken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Kitauwagunhiromichou",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Kubo",
     "gp:parent_id":"28480643",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672711
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26306195"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c9b8497721e5cbc8af0a1c9df275710b",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538326019,
+            "region_id":85672711
+        }
+    ],
     "wof:id":538326019,
-    "wof:lastmodified":1460072094,
+    "wof:lastmodified":1462979926,
     "wof:name":"798-1314",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672711,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    132.7361,
+    33.3042,
+    132.7361,
+    33.3042
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[132.73609999999999,33.3042],"type":"Point"}
 }

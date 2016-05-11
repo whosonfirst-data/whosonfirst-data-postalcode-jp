@@ -5,34 +5,56 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"139.6198,35.5862,139.6198,35.5862",
+    "geom:latitude":35.5862,
+    "geom:longitude":139.6198,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Kanagawaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Kawasakishitakatsuku",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Shinsaku",
     "gp:parent_id":"28416421",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        102031627,
+        "85632429",
+        85672805
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26239313"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a9d40a4d5b74a11f5c70ab574737c51a",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102031627,
+            "postalcode_id":538187415,
+            "region_id":85672805
+        }
+    ],
     "wof:id":538187415,
-    "wof:lastmodified":1460065591,
+    "wof:lastmodified":1462979345,
     "wof:name":"213-0014",
-    "wof:parent_id":-1,
+    "wof:parent_id":102031627,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    139.6198,
+    35.5862,
+    139.6198,
+    35.5862
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[139.6198,35.5862],"type":"Point"}
 }

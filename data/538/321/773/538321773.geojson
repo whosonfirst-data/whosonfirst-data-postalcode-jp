@@ -5,22 +5,31 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"133.8442,34.3198,133.8442,34.3198",
+    "geom:latitude":34.3198,
+    "geom:longitude":133.8442,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Kagawaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Sakaideshi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Nishioohamaminami",
     "gp:parent_id":"28478679",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
+    "mz:is_approximate":1,
+    "src:geom":"gn",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26304104"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"87c79b0a5744237cb4c13ce8a659a245",
     "wof:hierarchy":[],
     "wof:id":538321773,
-    "wof:lastmodified":1460071877,
+    "wof:lastmodified":1462979888,
     "wof:name":"762-0054",
     "wof:parent_id":-1,
     "wof:placetype":"postalcode",
@@ -29,10 +38,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    133.8442,
+    34.3198,
+    133.8442,
+    34.3198
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[133.8442,34.3198],"type":"Point"}
 }

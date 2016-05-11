@@ -5,22 +5,31 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"132.4772,33.6087,132.4772,33.6087",
+    "geom:latitude":33.6087,
+    "geom:longitude":132.4772,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Ehimeken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Kitagunnagahamachou",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Okiurahei",
     "gp:parent_id":"28480217",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
+    "mz:is_approximate":1,
+    "src:geom":"gn",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26305897"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"c6ea843f956d82789467addb27c66f84",
     "wof:hierarchy":[],
     "wof:id":538372315,
-    "wof:lastmodified":1460073887,
+    "wof:lastmodified":1462979931,
     "wof:name":"799-3406",
     "wof:parent_id":-1,
     "wof:placetype":"postalcode",
@@ -29,10 +38,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    132.4772,
+    33.6087,
+    132.4772,
+    33.6087
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[132.47720000000001,33.6087],"type":"Point"}
 }

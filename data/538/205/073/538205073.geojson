@@ -5,22 +5,31 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"137.4129,36.8973,137.4129,36.8973",
+    "geom:latitude":36.8973,
+    "geom:longitude":137.4129,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Toyamaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Kurobeshi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Ikujiashizaki",
     "gp:parent_id":"28424632",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
+    "mz:is_approximate":1,
+    "src:geom":"gn",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26247373"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"3b5678c97d57a7c47128c08700a551bc",
     "wof:hierarchy":[],
     "wof:id":538205073,
-    "wof:lastmodified":1460066504,
+    "wof:lastmodified":1462980114,
     "wof:name":"938-0084",
     "wof:parent_id":-1,
     "wof:placetype":"postalcode",
@@ -29,10 +38,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    137.4129,
+    36.8973,
+    137.4129,
+    36.8973
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[137.41290000000001,36.8973],"type":"Point"}
 }

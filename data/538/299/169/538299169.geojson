@@ -5,22 +5,31 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"135.4007,33.7024,135.4007,33.7024",
+    "geom:latitude":33.7024,
+    "geom:longitude":135.4007,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Wakayamaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Tanabeshi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Takinaichou",
     "gp:parent_id":"28468191",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
+    "mz:is_approximate":1,
+    "src:geom":"gn",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26292212"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"b7e34fcc63452a379df291db3c18944f",
     "wof:hierarchy":[],
     "wof:id":538299169,
-    "wof:lastmodified":1460070870,
+    "wof:lastmodified":1462979738,
     "wof:name":"646-0015",
     "wof:parent_id":-1,
     "wof:placetype":"postalcode",
@@ -29,10 +38,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    135.4007,
+    33.7024,
+    135.4007,
+    33.7024
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[135.4007,33.7024],"type":"Point"}
 }

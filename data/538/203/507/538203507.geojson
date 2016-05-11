@@ -5,34 +5,56 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"137.0143,36.7475,137.0143,36.7475",
+    "geom:latitude":36.7475,
+    "geom:longitude":137.0143,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Toyamaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Takaokashi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Kataharanakajimamachi",
     "gp:parent_id":"28423978",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        102032301,
+        "85632429",
+        85672759
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26246570"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ec0a6c3b9d2dc830c9d644e0cd520dbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102032301,
+            "postalcode_id":538203507,
+            "region_id":85672759
+        }
+    ],
     "wof:id":538203507,
-    "wof:lastmodified":1460066438,
+    "wof:lastmodified":1462980108,
     "wof:name":"933-0027",
-    "wof:parent_id":-1,
+    "wof:parent_id":102032301,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    137.0143,
+    36.7475,
+    137.0143,
+    36.7475
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[137.01429999999999,36.7475],"type":"Point"}
 }

@@ -5,22 +5,31 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"129.0272,27.7645,129.0272,27.7645",
+    "geom:latitude":27.7645,
+    "geom:longitude":129.0272,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Kagoshimaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Ooshimaguntokunoshimachou",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Shoda",
     "gp:parent_id":"28493654",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
+    "mz:is_approximate":1,
+    "src:geom":"gn",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26320053"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"803b83605eaedeecc2d192e57d54ad88",
     "wof:hierarchy":[],
     "wof:id":538355049,
-    "wof:lastmodified":1460073324,
+    "wof:lastmodified":1462980040,
     "wof:name":"891-7112",
     "wof:parent_id":-1,
     "wof:placetype":"postalcode",
@@ -29,10 +38,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    129.0272,
+    27.7645,
+    129.0272,
+    27.7645
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[129.02719999999999,27.7645],"type":"Point"}
 }

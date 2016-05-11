@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"140.1678,36.708,140.1678,36.708",
+    "geom:latitude":36.708,
+    "geom:longitude":140.1678,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Tochigiken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Nasugunbatoumachi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Matsuno",
     "gp:parent_id":"28406172",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672813
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26226848"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"eedf581fd9dff788856f7332c7b2dba1",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538164325,
+            "region_id":85672813
+        }
+    ],
     "wof:id":538164325,
-    "wof:lastmodified":1460064610,
+    "wof:lastmodified":1462979425,
     "wof:name":"324-0615",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672813,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    140.1678,
+    36.708,
+    140.1678,
+    36.708
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[140.1678,36.708],"type":"Point"}
 }

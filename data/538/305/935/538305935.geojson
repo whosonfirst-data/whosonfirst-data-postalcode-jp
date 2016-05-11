@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"132.3129,35.0577,132.3129,35.0577",
+    "geom:latitude":35.0577,
+    "geom:longitude":132.3129,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Shimaneken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Goutsushi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Kuromatsuchou",
     "gp:parent_id":"28494656",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672679
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26295086"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e8aff7f424761f4e472a8e6a61e95242",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538305935,
+            "region_id":85672679
+        }
+    ],
     "wof:id":538305935,
-    "wof:lastmodified":1460071188,
+    "wof:lastmodified":1462979823,
     "wof:name":"699-2831",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672679,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    132.3129,
+    35.0577,
+    132.3129,
+    35.0577
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[132.31290000000001,35.0577],"type":"Point"}
 }

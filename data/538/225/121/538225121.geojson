@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"137.5293,36.2357,137.5293,36.2357",
+    "geom:latitude":36.2357,
+    "geom:longitude":137.5293,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Gifuken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Yoshikigunkamitakaramura",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Hitoegane",
     "gp:parent_id":"28434105",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26259995"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f0d2b80f5570f942379eac3b9ae1ec3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538225121,
+            "region_id":85672735
+        }
+    ],
     "wof:id":538225121,
-    "wof:lastmodified":1460067464,
+    "wof:lastmodified":1462979599,
     "wof:name":"506-1432",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672735,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    137.5293,
+    36.2357,
+    137.5293,
+    36.2357
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[137.52930000000001,36.2357],"type":"Point"}
 }

@@ -5,22 +5,31 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"130.3409,32.5145,130.3409,32.5145",
+    "geom:latitude":32.5145,
+    "geom:longitude":130.3409,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Kumamotoken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Amakusagun'Ariakemachi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Suji",
     "gp:parent_id":"28489236",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
+    "mz:is_approximate":1,
+    "src:geom":"gn",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26315917"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"dc20f2f9d3def49a4dc1e3f18da7c5ab",
     "wof:hierarchy":[],
     "wof:id":538345339,
-    "wof:lastmodified":1460072985,
+    "wof:lastmodified":1462980001,
     "wof:name":"861-7202",
     "wof:parent_id":-1,
     "wof:placetype":"postalcode",
@@ -29,10 +38,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    130.3409,
+    32.5145,
+    130.3409,
+    32.5145
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[130.3409,32.5145],"type":"Point"}
 }

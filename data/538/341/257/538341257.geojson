@@ -5,22 +5,31 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"129.816,33.4004,129.816,33.4004",
+    "geom:latitude":33.4004,
+    "geom:longitude":129.816,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Nagasakiken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Kitamatsuuragunfukushimachou",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Harumen",
     "gp:parent_id":"28487437",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
+    "mz:is_approximate":1,
+    "src:geom":"gn",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26313611"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"890335be32d4626f0a19e647db9a9021",
     "wof:hierarchy":[],
     "wof:id":538341257,
-    "wof:lastmodified":1460072829,
+    "wof:lastmodified":1462979970,
     "wof:name":"848-0406",
     "wof:parent_id":-1,
     "wof:placetype":"postalcode",
@@ -29,10 +38,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    129.816,
+    33.4004,
+    129.816,
+    33.4004
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[129.816,33.4004],"type":"Point"}
 }

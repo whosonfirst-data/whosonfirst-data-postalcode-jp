@@ -5,22 +5,31 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"130.5311,33.8808,130.5311,33.8808",
+    "geom:latitude":33.8808,
+    "geom:longitude":130.5311,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Fukuokaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Munakatashi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Kanezaki",
     "gp:parent_id":"28484506",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
+    "mz:is_approximate":1,
+    "src:geom":"gn",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26310054"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"850bff30e39c3f94f5f064c21228f6ec",
     "wof:hierarchy":[],
     "wof:id":538334601,
-    "wof:lastmodified":1460072532,
+    "wof:lastmodified":1462979944,
     "wof:name":"811-3512",
     "wof:parent_id":-1,
     "wof:placetype":"postalcode",
@@ -29,10 +38,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    130.5311,
+    33.8808,
+    130.5311,
+    33.8808
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[130.53110000000001,33.8808],"type":"Point"}
 }

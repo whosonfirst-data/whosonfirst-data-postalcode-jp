@@ -5,22 +5,31 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"133.6431,34.1207,133.6431,34.1207",
+    "geom:latitude":34.1207,
+    "geom:longitude":133.6431,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Kagawaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Kan'Onjishi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Sanbonmatsuchou",
     "gp:parent_id":"28478722",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
+    "mz:is_approximate":1,
+    "src:geom":"gn",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26304154"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"e814957dbc6927b9c7b08b089a97ea7b",
     "wof:hierarchy":[],
     "wof:id":538321899,
-    "wof:lastmodified":1460071887,
+    "wof:lastmodified":1462979890,
     "wof:name":"768-0063",
     "wof:parent_id":-1,
     "wof:placetype":"postalcode",
@@ -29,10 +38,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    133.6431,
+    34.1207,
+    133.6431,
+    34.1207
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[133.6431,34.1207],"type":"Point"}
 }

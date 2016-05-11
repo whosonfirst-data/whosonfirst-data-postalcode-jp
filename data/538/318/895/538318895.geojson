@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"131.836,34.0484,131.836,34.0484",
+    "geom:latitude":34.0484,
+    "geom:longitude":131.836,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Yamaguchiken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Shuunanshi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Koudachou",
     "gp:parent_id":"28476933",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672689
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26301431"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1d737d3df005f260ed97911518c135d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538318895,
+            "region_id":85672689
+        }
+    ],
     "wof:id":538318895,
-    "wof:lastmodified":1460071746,
+    "wof:lastmodified":1462979873,
     "wof:name":"745-0822",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672689,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    131.836,
+    34.0484,
+    131.836,
+    34.0484
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[131.83600000000001,34.0484],"type":"Point"}
 }

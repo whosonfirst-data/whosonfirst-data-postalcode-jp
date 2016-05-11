@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"139.8269,35.9001,139.8269,35.9001",
+    "geom:latitude":35.9001,
+    "geom:longitude":139.8269,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Saitamaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Koshigayashi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Mashimori",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
+    "mz:is_approximate":1,
+    "src:geom":"gn",
     "wof:belongsto":[
         "102191569",
         102031591,
@@ -21,7 +30,7 @@
         "gp:id":"26230082"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"6f0065c2f1e7870d46b08dd82f58e9a5",
     "wof:hierarchy":[
         {
             "continent_id":"102191569",
@@ -32,19 +41,19 @@
         }
     ],
     "wof:id":538171171,
-    "wof:lastmodified":1460064918,
+    "wof:lastmodified":1462979438,
     "wof:name":"343-0012",
-    "wof:parent_id":"102031591",
+    "wof:parent_id":102031591,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    139.8269,
+    35.9001,
+    139.8269,
+    35.9001
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[139.82689999999999,35.9001],"type":"Point"}
 }

@@ -5,34 +5,56 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"131.3934,34.411,131.3934,34.411",
+    "geom:latitude":34.411,
+    "geom:longitude":131.3934,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Yamaguchiken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Hagishi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Minamifuruhagichou",
     "gp:parent_id":"28476461",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        102031769,
+        "85632429",
+        85672689
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26300818"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9db697d7c5f727edd89283e59b0b2f26",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102031769,
+            "postalcode_id":538317701,
+            "region_id":85672689
+        }
+    ],
     "wof:id":538317701,
-    "wof:lastmodified":1460071693,
+    "wof:lastmodified":1462979884,
     "wof:name":"758-0077",
-    "wof:parent_id":-1,
+    "wof:parent_id":102031769,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    131.3934,
+    34.411,
+    131.3934,
+    34.411
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[131.39340000000001,34.411],"type":"Point"}
 }

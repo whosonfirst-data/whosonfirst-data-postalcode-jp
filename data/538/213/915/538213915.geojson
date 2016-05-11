@@ -5,34 +5,56 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"136.0654,35.6503,136.0654,35.6503",
+    "geom:latitude":35.6503,
+    "geom:longitude":136.0654,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Fukuiken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Tsurugashi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Mishimachou",
     "gp:parent_id":"28428844",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        102031285,
+        "85632429",
+        85672767
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26252101"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"90843ba5e313140269380e37de73ff3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102031285,
+            "postalcode_id":538213915,
+            "region_id":85672767
+        }
+    ],
     "wof:id":538213915,
-    "wof:lastmodified":1460066912,
+    "wof:lastmodified":1462980066,
     "wof:name":"914-0058",
-    "wof:parent_id":-1,
+    "wof:parent_id":102031285,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    136.0654,
+    35.6503,
+    136.0654,
+    35.6503
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[136.06540000000001,35.6503],"type":"Point"}
 }

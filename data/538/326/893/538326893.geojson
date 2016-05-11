@@ -5,34 +5,56 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"133.5721,33.556,133.5721,33.556",
+    "geom:latitude":33.556,
+    "geom:longitude":133.5721,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Kouchiken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Kouchishi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Kadurashima",
     "gp:parent_id":"28480935",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        102031611,
+        "85632429",
+        85672717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26306328"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3e34afa6f7a958c15bbae7f77e1483e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102031611,
+            "postalcode_id":538326893,
+            "region_id":85672717
+        }
+    ],
     "wof:id":538326893,
-    "wof:lastmodified":1460072137,
+    "wof:lastmodified":1462979905,
     "wof:name":"781-8121",
-    "wof:parent_id":-1,
+    "wof:parent_id":102031611,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    133.5721,
+    33.556,
+    133.5721,
+    33.556
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[133.57210000000001,33.556],"type":"Point"}
 }

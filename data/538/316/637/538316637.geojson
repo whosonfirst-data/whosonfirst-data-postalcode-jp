@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"130.9296,33.9891,130.9296,33.9891",
+    "geom:latitude":33.9891,
+    "geom:longitude":130.9296,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Yamaguchiken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Shimonosekishi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Yamanotahonmachi",
     "gp:parent_id":"28475954",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672689
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26300337"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d5774645b476461669ad6d65444b38b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538316637,
+            "region_id":85672689
+        }
+    ],
     "wof:id":538316637,
-    "wof:lastmodified":1460071641,
+    "wof:lastmodified":1462979877,
     "wof:name":"751-0838",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672689,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    130.9296,
+    33.9891,
+    130.9296,
+    33.9891
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[130.92959999999999,33.9891],"type":"Point"}
 }

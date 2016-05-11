@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"132.0268,34.6906,132.0268,34.6906",
+    "geom:latitude":34.6906,
+    "geom:longitude":132.0268,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Shimaneken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Minogunmitochou",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Udugawa",
     "gp:parent_id":"28470969",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672679
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26295668"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"de0ac331d45343f578c8d4da04d38785",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538305393,
+            "region_id":85672679
+        }
+    ],
     "wof:id":538305393,
-    "wof:lastmodified":1460071165,
+    "wof:lastmodified":1462979821,
     "wof:name":"698-0202",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672679,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    132.0268,
+    34.6906,
+    132.0268,
+    34.6906
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[132.02680000000001,34.6906],"type":"Point"}
 }

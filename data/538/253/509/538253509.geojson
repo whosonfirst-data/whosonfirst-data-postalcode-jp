@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"136.6227,34.8811,136.6227,34.8811",
+    "geom:latitude":34.8811,
+    "geom:longitude":136.6227,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Mieken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Suzukashi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Minamihorie",
     "gp:parent_id":"28446813",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672745
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26270867"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"84ca75e6662e20d87f3b8a8ce3850f2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538253509,
+            "region_id":85672745
+        }
+    ],
     "wof:id":538253509,
-    "wof:lastmodified":1460068953,
+    "wof:lastmodified":1462979613,
     "wof:name":"513-0046",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672745,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    136.6227,
+    34.8811,
+    136.6227,
+    34.8811
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[136.62270000000001,34.8811],"type":"Point"}
 }

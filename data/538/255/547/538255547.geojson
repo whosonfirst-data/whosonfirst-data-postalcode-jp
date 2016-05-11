@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"136.5788,34.4822,136.5788,34.4822",
+    "geom:latitude":34.4822,
+    "geom:longitude":136.5788,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Mieken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Takiguntakichou",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Morishou",
     "gp:parent_id":"28447688",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672745
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26271801"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"18b16b746c841dcd4a9ec1e31fe84bea",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538255547,
+            "region_id":85672745
+        }
+    ],
     "wof:id":538255547,
-    "wof:lastmodified":1460069035,
+    "wof:lastmodified":1462979625,
     "wof:name":"519-2164",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672745,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    136.5788,
+    34.4822,
+    136.5788,
+    34.4822
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[136.5788,34.4822],"type":"Point"}
 }

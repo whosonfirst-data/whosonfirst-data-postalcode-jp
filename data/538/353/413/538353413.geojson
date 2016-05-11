@@ -5,34 +5,56 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"130.284,31.8392,130.284,31.8392",
+    "geom:latitude":31.8392,
+    "geom:longitude":130.284,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Kagoshimaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Sendaishi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Kamisendaichou",
     "gp:parent_id":"28492937",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        102191569,
+        102031399,
+        85632307,
+        85672915
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26318875"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"aca9fbe639042a0c7698d48be461fd9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "locality_id":102031399,
+            "postalcode_id":538353413,
+            "region_id":85672915
+        }
+    ],
     "wof:id":538353413,
-    "wof:lastmodified":1460073276,
+    "wof:lastmodified":1462980045,
     "wof:name":"895-0067",
-    "wof:parent_id":-1,
+    "wof:parent_id":102031399,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    130.284,
+    31.8392,
+    130.284,
+    31.8392
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[130.28399999999999,31.8392],"type":"Point"}
 }

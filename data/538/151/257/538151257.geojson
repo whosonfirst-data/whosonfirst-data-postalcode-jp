@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"140.62,37.8841,140.62,37.8841",
+    "geom:latitude":37.8841,
+    "geom:longitude":140.62,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Fukushimaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Dategunyanagawamachi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Isazawa",
     "gp:parent_id":"28400039",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672835
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26220366"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d3586fe71bee041de1805e337f9b63ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538151257,
+            "region_id":85672835
+        }
+    ],
     "wof:id":538151257,
-    "wof:lastmodified":1460064100,
+    "wof:lastmodified":1462980181,
     "wof:name":"960-0701",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672835,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    140.62,
+    37.8841,
+    140.62,
+    37.8841
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[140.62,37.8841],"type":"Point"}
 }

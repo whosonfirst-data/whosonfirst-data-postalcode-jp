@@ -5,34 +5,56 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"132.448,34.3953,132.448,34.3953",
+    "geom:latitude":34.3953,
+    "geom:longitude":132.448,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Hiroshimaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Hiroshimashinakaku",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Nekoyachou",
     "gp:parent_id":"28473746",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        102031735,
+        "85632429",
+        85672671
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26298059"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0f2c91dc34e429d62ae0bc9275c3c60c",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102031735,
+            "postalcode_id":538311885,
+            "region_id":85672671
+        }
+    ],
     "wof:id":538311885,
-    "wof:lastmodified":1460071445,
+    "wof:lastmodified":1462979857,
     "wof:name":"730-0852",
-    "wof:parent_id":-1,
+    "wof:parent_id":102031735,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    132.448,
+    34.3953,
+    132.448,
+    34.3953
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[132.44800000000001,34.3953],"type":"Point"}
 }

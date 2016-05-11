@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"128.9423,27.7235,128.9423,27.7235",
+    "geom:latitude":27.7235,
+    "geom:longitude":128.9423,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Kagoshimaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Ooshimagun'Isenchou",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Yaezao",
     "gp:parent_id":"28493688",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672867
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26320091"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e21ff7aadf8f082f17d3071913dae637",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538355123,
+            "region_id":85672867
+        }
+    ],
     "wof:id":538355123,
-    "wof:lastmodified":1460073326,
+    "wof:lastmodified":1462980041,
     "wof:name":"891-8325",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672867,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    128.9423,
+    27.7235,
+    128.9423,
+    27.7235
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[128.94229999999999,27.7235],"type":"Point"}
 }

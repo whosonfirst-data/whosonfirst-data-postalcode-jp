@@ -5,14 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"127.8265,26.3816,127.8265,26.3816",
+    "geom:latitude":26.3816,
+    "geom:longitude":127.8265,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Okinawaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Okinawashi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Ikehara",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
+    "mz:is_approximate":1,
+    "src:geom":"gn",
     "wof:belongsto":[
         "102191569",
-        102031853,
+        102032147,
         "85632429",
         85672867
     ],
@@ -21,30 +30,30 @@
         "gp:id":"26320459"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"70d2ba53591c957eff192dbf8e15ea8e",
     "wof:hierarchy":[
         {
             "continent_id":"102191569",
             "country_id":"85632429",
-            "locality_id":102031853,
+            "locality_id":102032147,
             "postalcode_id":538355787,
             "region_id":85672867
         }
     ],
     "wof:id":538355787,
-    "wof:lastmodified":1460073351,
+    "wof:lastmodified":1462980055,
     "wof:name":"904-2141",
-    "wof:parent_id":"102031853",
+    "wof:parent_id":102032147,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    127.8265,
+    26.3816,
+    127.8265,
+    26.3816
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[127.8265,26.3816],"type":"Point"}
 }

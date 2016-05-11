@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"137.3649,36.1769,137.3649,36.1769",
+    "geom:latitude":36.1769,
+    "geom:longitude":137.3649,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Gifuken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Oonogunnyuukawamura",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Urida",
     "gp:parent_id":"28434216",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26259656"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1007ef70877e507f7fe7d3b5bf942c2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538225139,
+            "region_id":85672735
+        }
+    ],
     "wof:id":538225139,
-    "wof:lastmodified":1460067465,
+    "wof:lastmodified":1462979599,
     "wof:name":"506-2111",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672735,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    137.3649,
+    36.1769,
+    137.3649,
+    36.1769
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[137.36490000000001,36.1769],"type":"Point"}
 }

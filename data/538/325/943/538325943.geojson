@@ -5,22 +5,31 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"132.2216,33.4262,132.2216,33.4262",
+    "geom:latitude":33.4262,
+    "geom:longitude":132.2216,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Ehimeken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Nishiuwagunsetochou",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Kawanohama",
     "gp:parent_id":"28480602",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
+    "mz:is_approximate":1,
+    "src:geom":"gn",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26305993"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"cdb549b15bca8accf21188913d1376ce",
     "wof:hierarchy":[],
     "wof:id":538325943,
-    "wof:lastmodified":1460072092,
+    "wof:lastmodified":1462979923,
     "wof:name":"796-0611",
     "wof:parent_id":-1,
     "wof:placetype":"postalcode",
@@ -29,10 +38,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    132.2216,
+    33.4262,
+    132.2216,
+    33.4262
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[132.2216,33.4262],"type":"Point"}
 }

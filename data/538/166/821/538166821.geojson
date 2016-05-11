@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"139.2913,36.4641,139.2913,36.4641",
+    "geom:latitude":36.4641,
+    "geom:longitude":139.2913,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Gunmaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Yamadagun'Oomamamachi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Asabara",
     "gp:parent_id":"28407210",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672871
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26228502"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"056160b737369852d94b86a33456d1f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538166821,
+            "region_id":85672871
+        }
+    ],
     "wof:id":538166821,
-    "wof:lastmodified":1460064703,
+    "wof:lastmodified":1462979465,
     "wof:name":"376-0114",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672871,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    139.2913,
+    36.4641,
+    139.2913,
+    36.4641
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[139.29130000000001,36.4641],"type":"Point"}
 }

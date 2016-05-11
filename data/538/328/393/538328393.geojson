@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"133.997,33.4925,133.997,33.4925",
+    "geom:latitude":33.4925,
+    "geom:longitude":133.997,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Kouchiken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Akigunyasudachou",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Nishinokawa",
     "gp:parent_id":"28481668",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26307070"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"19c2e2b9a1b40f154cadb489afe6801a",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538328393,
+            "region_id":85672717
+        }
+    ],
     "wof:id":538328393,
-    "wof:lastmodified":1460072319,
+    "wof:lastmodified":1462979904,
     "wof:name":"781-6432",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672717,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    133.997,
+    33.4925,
+    133.997,
+    33.4925
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[133.99700000000001,33.4925],"type":"Point"}
 }

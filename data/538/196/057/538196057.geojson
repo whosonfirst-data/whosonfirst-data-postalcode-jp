@@ -5,22 +5,31 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"139.4835,38.4352,139.4835,38.4352",
+    "geom:latitude":38.4352,
+    "geom:longitude":139.4835,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Niigataken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Iwafunegunsanpokumachi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Wakigawa",
     "gp:parent_id":"90006554",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
+    "mz:is_approximate":1,
+    "src:geom":"gn",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26245550"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"df77b238bf66e9acf91ec82584043322",
     "wof:hierarchy":[],
     "wof:id":538196057,
-    "wof:lastmodified":1460066106,
+    "wof:lastmodified":1462980178,
     "wof:name":"959-3661",
     "wof:parent_id":-1,
     "wof:placetype":"postalcode",
@@ -29,10 +38,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    139.4835,
+    38.4352,
+    139.4835,
+    38.4352
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[139.48349999999999,38.4352],"type":"Point"}
 }

@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"140.8838,38.7543,140.8838,38.7543",
+    "geom:latitude":38.7543,
+    "geom:longitude":140.8838,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Miyagiken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Kuriharagun'Ichihasamachou",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Oosuzu",
     "gp:parent_id":"24709269",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672843
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26213845"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"02443f98539f4e1b81292b83a9f009b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538365615,
+            "region_id":85672843
+        }
+    ],
     "wof:id":538365615,
-    "wof:lastmodified":1460073665,
+    "wof:lastmodified":1462980221,
     "wof:name":"987-2346",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672843,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    140.8838,
+    38.7543,
+    140.8838,
+    38.7543
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[140.88380000000001,38.7543],"type":"Point"}
 }

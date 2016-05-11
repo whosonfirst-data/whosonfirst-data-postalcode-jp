@@ -5,22 +5,31 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"123.8217,24.4694,123.8217,24.4694",
+    "geom:latitude":24.4694,
+    "geom:longitude":123.8217,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Okinawaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Yaeyamaguntaketomichou",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Hatoma",
     "gp:parent_id":"28494481",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
+    "mz:is_approximate":1,
+    "src:geom":"gn",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26320938"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"9e9062d50e0f6e92de7223828295b4bc",
     "wof:hierarchy":[],
     "wof:id":538356919,
-    "wof:lastmodified":1460073384,
+    "wof:lastmodified":1462980059,
     "wof:name":"907-1544",
     "wof:parent_id":-1,
     "wof:placetype":"postalcode",
@@ -29,10 +38,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    123.8217,
+    24.4694,
+    123.8217,
+    24.4694
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[123.82170000000001,24.4694],"type":"Point"}
 }

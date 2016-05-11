@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"130.7243,33.7338,130.7243,33.7338",
+    "geom:latitude":33.7338,
+    "geom:longitude":130.7243,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Fukuokaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Noogatashi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Maruyamamachi",
     "gp:parent_id":"28483788",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26309369"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"44f4ba8957562aa99d06c184c0141bdf",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538332995,
+            "region_id":85672697
+        }
+    ],
     "wof:id":538332995,
-    "wof:lastmodified":1460072473,
+    "wof:lastmodified":1462979954,
     "wof:name":"822-0014",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672697,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    130.7243,
+    33.7338,
+    130.7243,
+    33.7338
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[130.7243,33.7338],"type":"Point"}
 }

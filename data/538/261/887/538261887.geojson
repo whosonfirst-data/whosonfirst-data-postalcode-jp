@@ -5,34 +5,56 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"135.7495,35.0258,135.7495,35.0258",
+    "geom:latitude":35.0258,
+    "geom:longitude":135.7495,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Kyoutofu",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Kyoutoshikamigyouku",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Hisashichou",
     "gp:parent_id":"28450650",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        102031567,
+        "85632429",
+        85672777
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26274889"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1191d359d0162529afd3342dfa17a0f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102031567,
+            "postalcode_id":538261887,
+            "region_id":85672777
+        }
+    ],
     "wof:id":538261887,
-    "wof:lastmodified":1460069322,
+    "wof:lastmodified":1462979676,
     "wof:name":"602-8236",
-    "wof:parent_id":-1,
+    "wof:parent_id":102031567,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    135.7495,
+    35.0258,
+    135.7495,
+    35.0258
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[135.74950000000001,35.0258],"type":"Point"}
 }

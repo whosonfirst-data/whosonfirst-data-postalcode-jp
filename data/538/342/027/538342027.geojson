@@ -5,22 +5,31 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"129.7592,33.0089,129.7592,33.0089",
+    "geom:latitude":33.0089,
+    "geom:longitude":129.7592,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Nagasakiken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Nishisonogigunseihichou",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Shirosakigou",
     "gp:parent_id":"28487810",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
+    "mz:is_approximate":1,
+    "src:geom":"gn",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26313188"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"f19e7455e151bbf37fb941bce7158c32",
     "wof:hierarchy":[],
     "wof:id":538342027,
-    "wof:lastmodified":1460072859,
+    "wof:lastmodified":1462979976,
     "wof:name":"851-3312",
     "wof:parent_id":-1,
     "wof:placetype":"postalcode",
@@ -29,10 +38,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    129.7592,
+    33.0089,
+    129.7592,
+    33.0089
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[129.75919999999999,33.0089],"type":"Point"}
 }

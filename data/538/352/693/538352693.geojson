@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"130.7826,31.3757,130.7826,31.3757",
+    "geom:latitude":31.3757,
+    "geom:longitude":130.7826,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Kagoshimaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Kanoyashi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Tenjinchou",
     "gp:parent_id":"28492660",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672861
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26318971"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"291e326b0931c25ce7d0fb0ebc3f559c",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538352693,
+            "region_id":85672861
+        }
+    ],
     "wof:id":538352693,
-    "wof:lastmodified":1460073256,
+    "wof:lastmodified":1462980039,
     "wof:name":"891-2313",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672861,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    130.7826,
+    31.3757,
+    130.7826,
+    31.3757
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[130.7826,31.3757],"type":"Point"}
 }

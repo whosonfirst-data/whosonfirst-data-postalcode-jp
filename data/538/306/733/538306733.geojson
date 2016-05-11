@@ -5,22 +5,31 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"133.1066,36.1119,133.1066,36.1119",
+    "geom:latitude":36.1119,
+    "geom:longitude":133.1066,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Shimaneken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Okigun'Amachou",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Utsuka",
     "gp:parent_id":"28471501",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
+    "mz:is_approximate":1,
+    "src:geom":"gn",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26295804"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"414531a322551ae064b2d15d3b08afe1",
     "wof:hierarchy":[],
     "wof:id":538306733,
-    "wof:lastmodified":1460071224,
+    "wof:lastmodified":1462979806,
     "wof:name":"684-0401",
     "wof:parent_id":-1,
     "wof:placetype":"postalcode",
@@ -29,10 +38,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    133.1066,
+    36.1119,
+    133.1066,
+    36.1119
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[133.10659999999999,36.1119],"type":"Point"}
 }

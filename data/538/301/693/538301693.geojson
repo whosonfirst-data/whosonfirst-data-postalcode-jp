@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"134.1245,35.3815,134.1245,35.3815",
+    "geom:latitude":35.3815,
+    "geom:longitude":134.1245,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Tottoriken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Yazugunkawaharachou",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Kitamura",
     "gp:parent_id":"28469323",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26293909"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4ee8e07d0bd76bed19f506b02b995e76",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538301693,
+            "region_id":85672685
+        }
+    ],
     "wof:id":538301693,
-    "wof:lastmodified":1460070988,
+    "wof:lastmodified":1462979801,
     "wof:name":"680-1234",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672685,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    134.1245,
+    35.3815,
+    134.1245,
+    35.3815
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[134.12450000000001,35.3815],"type":"Point"}
 }

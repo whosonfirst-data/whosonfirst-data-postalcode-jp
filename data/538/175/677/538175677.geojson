@@ -5,34 +5,56 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"139.8948,35.7745,139.8948,35.7745",
+    "geom:latitude":35.7745,
+    "geom:longitude":139.8948,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Chibaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Matsudoshi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Koyama",
     "gp:parent_id":"28411190",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        102031555,
+        "85632429",
+        85672797
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26232216"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"24b07c08559f3fdd492c28c670cd6997",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102031555,
+            "postalcode_id":538175677,
+            "region_id":85672797
+        }
+    ],
     "wof:id":538175677,
-    "wof:lastmodified":1460065115,
+    "wof:lastmodified":1462979368,
     "wof:name":"271-0093",
-    "wof:parent_id":-1,
+    "wof:parent_id":102031555,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    139.8948,
+    35.7745,
+    139.8948,
+    35.7745
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[139.8948,35.7745],"type":"Point"}
 }

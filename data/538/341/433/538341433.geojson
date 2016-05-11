@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"129.2769,34.3663,129.2769,34.3663",
+    "geom:latitude":34.3663,
+    "geom:longitude":129.2769,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Nagasakiken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Shimoagataguntoyotamachou",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Kaiguchi",
     "gp:parent_id":"28487510",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672857
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26314020"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a86a802d21bfa37cb7b540c50142e3f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538341433,
+            "region_id":85672857
+        }
+    ],
     "wof:id":538341433,
-    "wof:lastmodified":1460072834,
+    "wof:lastmodified":1462979949,
     "wof:name":"817-1241",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672857,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    129.2769,
+    34.3663,
+    129.2769,
+    34.3663
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[129.27690000000001,34.3663],"type":"Point"}
 }

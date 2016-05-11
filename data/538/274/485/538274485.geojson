@@ -5,34 +5,56 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"135.5298,34.703,135.5298,34.703",
+    "geom:latitude":34.703,
+    "geom:longitude":135.5298,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Oosakafu",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Oosakashimiyakojimaku",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Miyakojimaminamidoori",
     "gp:parent_id":"28457124",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        102031439,
+        "85632429",
+        85672785
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26280779"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ce92d62901fab7f1c2fe47c42a37f13d",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102031439,
+            "postalcode_id":538274485,
+            "region_id":85672785
+        }
+    ],
     "wof:id":538274485,
-    "wof:lastmodified":1460069844,
+    "wof:lastmodified":1462979645,
     "wof:name":"534-0023",
-    "wof:parent_id":-1,
+    "wof:parent_id":102031439,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    135.5298,
+    34.703,
+    135.5298,
+    34.703
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[135.52979999999999,34.703],"type":"Point"}
 }

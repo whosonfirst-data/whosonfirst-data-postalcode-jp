@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"133.6586,34.1991,133.6586,34.1991",
+    "geom:latitude":34.1991,
+    "geom:longitude":133.6586,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Kagawaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Mitoyogunniochou",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Niohei",
     "gp:parent_id":"28478832",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672715
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26304542"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ae790bc10af5da90ca1d852cb9e0a773",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538372175,
+            "region_id":85672715
+        }
+    ],
     "wof:id":538372175,
-    "wof:lastmodified":1460073883,
+    "wof:lastmodified":1462979890,
     "wof:name":"769-1403",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672715,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    133.6586,
+    34.1991,
+    133.6586,
+    34.1991
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[133.65860000000001,34.1991],"type":"Point"}
 }

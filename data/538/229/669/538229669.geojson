@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"136.9042,36.1599,136.9042,36.1599",
+    "geom:latitude":36.1599,
+    "geom:longitude":136.9042,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Gifuken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Oonogunshirakawamura",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Miboro",
     "gp:parent_id":"28436180",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26259718"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f4560f9f66e7c22c893eeecfd8dd7f0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538229669,
+            "region_id":85672735
+        }
+    ],
     "wof:id":538229669,
-    "wof:lastmodified":1460067739,
+    "wof:lastmodified":1462979587,
     "wof:name":"501-5506",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672735,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    136.9042,
+    36.1599,
+    136.9042,
+    36.1599
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[136.9042,36.1599],"type":"Point"}
 }

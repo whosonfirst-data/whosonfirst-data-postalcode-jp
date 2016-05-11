@@ -5,22 +5,31 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"132.3989,34.2586,132.3989,34.2586",
+    "geom:latitude":34.2586,
+    "geom:longitude":132.3989,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Hiroshimaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Saekigun'Okimichou",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Kouso",
     "gp:parent_id":"28475439",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
+    "mz:is_approximate":1,
+    "src:geom":"gn",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26299605"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"a7c50edd7f10b4067d96087a2119d135",
     "wof:hierarchy":[],
     "wof:id":538315575,
-    "wof:lastmodified":1460071600,
+    "wof:lastmodified":1462979864,
     "wof:name":"737-2315",
     "wof:parent_id":-1,
     "wof:placetype":"postalcode",
@@ -29,10 +38,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    132.3989,
+    34.2586,
+    132.3989,
+    34.2586
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[132.3989,34.2586],"type":"Point"}
 }

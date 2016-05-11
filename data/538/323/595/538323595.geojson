@@ -5,22 +5,31 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"132.9231,34.1893,132.9231,34.1893",
+    "geom:latitude":34.1893,
+    "geom:longitude":132.9231,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Ehimeken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Ochigunsekizenmura",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Ooge",
     "gp:parent_id":"28479527",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
+    "mz:is_approximate":1,
+    "src:geom":"gn",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26305705"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"03c06f962b704ea03627209ae978e4d0",
     "wof:hierarchy":[],
     "wof:id":538323595,
-    "wof:lastmodified":1460071963,
+    "wof:lastmodified":1462979920,
     "wof:name":"794-1103",
     "wof:parent_id":-1,
     "wof:placetype":"postalcode",
@@ -29,10 +38,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    132.9231,
+    34.1893,
+    132.9231,
+    34.1893
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[132.92310000000001,34.1893],"type":"Point"}
 }

@@ -5,34 +5,56 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"136.761,35.4299,136.761,35.4299",
+    "geom:latitude":35.4299,
+    "geom:longitude":136.761,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Gifuken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Gifushi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Yotsuyachou",
     "gp:parent_id":"28433656",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        102031787,
+        "85632429",
+        85672735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26257098"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"932eb20e28ea18c637000bcaa9eeb41f",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102031787,
+            "postalcode_id":538222645,
+            "region_id":85672735
+        }
+    ],
     "wof:id":538222645,
-    "wof:lastmodified":1460067278,
+    "wof:lastmodified":1462979577,
     "wof:name":"500-8088",
-    "wof:parent_id":-1,
+    "wof:parent_id":102031787,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    136.761,
+    35.4299,
+    136.761,
+    35.4299
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[136.761,35.4299],"type":"Point"}
 }

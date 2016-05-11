@@ -5,34 +5,56 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"139.3316,35.7482,139.3316,35.7482",
+    "geom:latitude":35.7482,
+    "geom:longitude":139.3316,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Toukyouto",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Fussashi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Musashinodai",
     "gp:parent_id":"28415233",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        102031861,
+        "85632429",
+        85672817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26237957"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c822cd8569287a494ab8dbafc0a8a25b",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102031861,
+            "postalcode_id":538184759,
+            "region_id":85672817
+        }
+    ],
     "wof:id":538184759,
-    "wof:lastmodified":1460065496,
+    "wof:lastmodified":1462979342,
     "wof:name":"197-0013",
-    "wof:parent_id":-1,
+    "wof:parent_id":102031861,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    139.3316,
+    35.7482,
+    139.3316,
+    35.7482
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[139.33160000000001,35.7482],"type":"Point"}
 }

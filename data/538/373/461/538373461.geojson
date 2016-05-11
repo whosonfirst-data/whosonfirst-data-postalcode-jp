@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"131.3053,31.8785,131.3053,31.8785",
+    "geom:latitude":31.8785,
+    "geom:longitude":131.3053,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Miyazakiken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Higashimorokataguntakaokachou",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Kamikuranaga(1206-1268banchi,Uchinoyae)",
     "gp:parent_id":"28491802",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672707
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26318534"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e2ad5d5d2ff8d99c795f4bc0e37b503e",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538373461,
+            "region_id":85672707
+        }
+    ],
     "wof:id":538373461,
-    "wof:lastmodified":1460073926,
+    "wof:lastmodified":1462980036,
     "wof:name":"889-1713",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672707,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    131.3053,
+    31.8785,
+    131.3053,
+    31.8785
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[131.30529999999999,31.8785],"type":"Point"}
 }

@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"127.6582,26.1815,127.6582,26.1815",
+    "geom:latitude":26.1815,
+    "geom:longitude":127.6582,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Okinawaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Nahashi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Gushi",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
+    "mz:is_approximate":1,
+    "src:geom":"gn",
     "wof:belongsto":[
         "102191569",
         102031495,
@@ -21,7 +30,7 @@
         "gp:id":"26320181"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"a1fb2490d9e2bb1e3c213218a91d16fb",
     "wof:hierarchy":[
         {
             "continent_id":"102191569",
@@ -32,19 +41,19 @@
         }
     ],
     "wof:id":538355309,
-    "wof:lastmodified":1460073333,
+    "wof:lastmodified":1462980051,
     "wof:name":"901-0146",
-    "wof:parent_id":"102031495",
+    "wof:parent_id":102031495,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    127.6582,
+    26.1815,
+    127.6582,
+    26.1815
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[127.65819999999999,26.1815],"type":"Point"}
 }

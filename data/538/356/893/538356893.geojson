@@ -5,22 +5,31 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"124.0861,24.329,124.0861,24.329",
+    "geom:latitude":24.329,
+    "geom:longitude":124.0861,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Okinawaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Yaeyamaguntaketomichou",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Taketomi",
     "gp:parent_id":"28494477",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
+    "mz:is_approximate":1,
+    "src:geom":"gn",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26320937"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"c2b7a00fcefa92249cfeb9beeff4600d",
     "wof:hierarchy":[],
     "wof:id":538356893,
-    "wof:lastmodified":1460073383,
+    "wof:lastmodified":1462980059,
     "wof:name":"907-1101",
     "wof:parent_id":-1,
     "wof:placetype":"postalcode",
@@ -29,10 +38,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    124.0861,
+    24.329,
+    124.0861,
+    24.329
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[124.0861,24.329],"type":"Point"}
 }

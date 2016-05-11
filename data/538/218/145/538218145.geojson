@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"138.4459,35.6087,138.4459,35.6087",
+    "geom:latitude":35.6087,
+    "geom:longitude":138.4459,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Yamanashiken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Minamiarupusushi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Ayamegaoka",
     "gp:parent_id":"28430721",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672821
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26254168"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"740ba2973d286740f2f7b42531d72916",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538218145,
+            "region_id":85672821
+        }
+    ],
     "wof:id":538218145,
-    "wof:lastmodified":1460067075,
+    "wof:lastmodified":1462979486,
     "wof:name":"400-0319",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672821,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    138.4459,
+    35.6087,
+    138.4459,
+    35.6087
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[138.44589999999999,35.6087],"type":"Point"}
 }

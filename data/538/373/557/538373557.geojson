@@ -5,22 +5,31 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"129.2634,28.2752,129.2634,28.2752",
+    "geom:latitude":28.2752,
+    "geom:longitude":129.2634,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Kagoshimaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Ooshimagun'Ukenson",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Ishira",
     "gp:parent_id":"28493552",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
+    "mz:is_approximate":1,
+    "src:geom":"gn",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26319889"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"a980665dbf76917d13ec736e1ecb063a",
     "wof:hierarchy":[],
     "wof:id":538373557,
-    "wof:lastmodified":1460073928,
+    "wof:lastmodified":1462980044,
     "wof:name":"894-3305",
     "wof:parent_id":-1,
     "wof:placetype":"postalcode",
@@ -29,10 +38,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    129.2634,
+    28.2752,
+    129.2634,
+    28.2752
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[129.26339999999999,28.2752],"type":"Point"}
 }

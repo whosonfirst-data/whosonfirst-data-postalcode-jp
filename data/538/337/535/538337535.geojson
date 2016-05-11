@@ -5,22 +5,31 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"129.8406,33.5826,129.8406,33.5826",
+    "geom:latitude":33.5826,
+    "geom:longitude":129.8406,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Sagaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Higashimatsuuragunchinzeichou",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Matsushima",
     "gp:parent_id":"28485863",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
+    "mz:is_approximate":1,
+    "src:geom":"gn",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26311996"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"f9fc0562b2815608fd941f451f0dfc8a",
     "wof:hierarchy":[],
     "wof:id":538337535,
-    "wof:lastmodified":1460072682,
+    "wof:lastmodified":1462979968,
     "wof:name":"847-0406",
     "wof:parent_id":-1,
     "wof:placetype":"postalcode",
@@ -29,10 +38,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    129.8406,
+    33.5826,
+    129.8406,
+    33.5826
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[129.84059999999999,33.5826],"type":"Point"}
 }

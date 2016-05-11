@@ -5,34 +5,56 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"139.5653,35.6096,139.5653,35.6096",
+    "geom:latitude":35.6096,
+    "geom:longitude":139.5653,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Kanagawaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Kawasakishitamaku",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Higashiikuta",
     "gp:parent_id":"28416445",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        102031627,
+        "85632429",
+        85672805
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26239335"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"752f6b06ee1552c7173b67bb94f2fac5",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102031627,
+            "postalcode_id":538187479,
+            "region_id":85672805
+        }
+    ],
     "wof:id":538187479,
-    "wof:lastmodified":1460065594,
+    "wof:lastmodified":1462979346,
     "wof:name":"214-0031",
-    "wof:parent_id":-1,
+    "wof:parent_id":102031627,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    139.5653,
+    35.6096,
+    139.5653,
+    35.6096
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[139.56530000000001,35.6096],"type":"Point"}
 }

@@ -5,22 +5,31 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"134.6716,34.312,134.6716,34.312",
+    "geom:latitude":34.312,
+    "geom:longitude":134.6716,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Hyougoken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Miharagunseidanchou",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Anaganishiji",
     "gp:parent_id":"28464483",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
+    "mz:is_approximate":1,
+    "src:geom":"gn",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26289612"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"629d808bd1b15dc134c97ca6b9ed9c82",
     "wof:hierarchy":[],
     "wof:id":538291117,
-    "wof:lastmodified":1460070550,
+    "wof:lastmodified":1462979754,
     "wof:name":"656-0663",
     "wof:parent_id":-1,
     "wof:placetype":"postalcode",
@@ -29,10 +38,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    134.6716,
+    34.312,
+    134.6716,
+    34.312
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[134.67160000000001,34.312],"type":"Point"}
 }

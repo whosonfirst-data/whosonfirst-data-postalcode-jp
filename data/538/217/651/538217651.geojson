@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"138.8286,35.4955,138.8286,35.4955",
+    "geom:latitude":35.4955,
+    "geom:longitude":138.8286,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Yamanashiken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Fujiyoshidashi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Koasumi",
     "gp:parent_id":"28430540",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672821
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26253951"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2554e04d14f5ed1565e9dc2a70c8be70",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538217651,
+            "region_id":85672821
+        }
+    ],
     "wof:id":538217651,
-    "wof:lastmodified":1460067057,
+    "wof:lastmodified":1462979488,
     "wof:name":"403-0002",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672821,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    138.8286,
+    35.4955,
+    138.8286,
+    35.4955
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[138.82859999999999,35.4955],"type":"Point"}
 }

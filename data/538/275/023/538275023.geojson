@@ -5,34 +5,56 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"135.5497,34.6941,135.5497,34.6941",
+    "geom:latitude":34.6941,
+    "geom:longitude":135.5497,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Oosakafu",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Oosakashijoutouku",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Shigitahigashi",
     "gp:parent_id":"28457342",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        102031439,
+        "85632429",
+        85672785
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26281025"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bc692ec2331f7d3ae328afe29e99e39c",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102031439,
+            "postalcode_id":538275023,
+            "region_id":85672785
+        }
+    ],
     "wof:id":538275023,
-    "wof:lastmodified":1460069867,
+    "wof:lastmodified":1462979646,
     "wof:name":"536-0017",
-    "wof:parent_id":-1,
+    "wof:parent_id":102031439,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    135.5497,
+    34.6941,
+    135.5497,
+    34.6941
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[135.5497,34.6941],"type":"Point"}
 }

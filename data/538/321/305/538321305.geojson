@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"134.0987,34.24,134.0987,34.24",
+    "geom:latitude":34.24,
+    "geom:longitude":134.0987,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Kagawaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Takamatsushi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Higashiuetachou",
     "gp:parent_id":"28478464",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672715
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26303937"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"abf0add67bdc1537d73868a34d2fe42e",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538321305,
+            "region_id":85672715
+        }
+    ],
     "wof:id":538321305,
-    "wof:lastmodified":1460071862,
+    "wof:lastmodified":1462979886,
     "wof:name":"761-0446",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672715,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    134.0987,
+    34.24,
+    134.0987,
+    34.24
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[134.09870000000001,34.24],"type":"Point"}
 }

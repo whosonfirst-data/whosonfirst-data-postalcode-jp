@@ -5,34 +5,56 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"139.5419,35.6926,139.5419,35.6926",
+    "geom:latitude":35.6926,
+    "geom:longitude":139.5419,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Toukyouto",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Mitakashi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Iguchi",
     "gp:parent_id":"28414937",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        102031519,
+        "85632429",
+        85672817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26237658"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c254b4827772617441243f1ab7b072f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102031519,
+            "postalcode_id":538184111,
+            "region_id":85672817
+        }
+    ],
     "wof:id":538184111,
-    "wof:lastmodified":1460065473,
+    "wof:lastmodified":1462979339,
     "wof:name":"181-0011",
-    "wof:parent_id":-1,
+    "wof:parent_id":102031519,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    139.5419,
+    35.6926,
+    139.5419,
+    35.6926
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[139.5419,35.6926],"type":"Point"}
 }

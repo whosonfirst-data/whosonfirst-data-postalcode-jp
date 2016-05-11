@@ -5,22 +5,31 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"129.1342,33.2215,129.1342,33.2215",
+    "geom:latitude":33.2215,
+    "geom:longitude":129.1342,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Nagasakiken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Kitamatsuuragun'Odikachou",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Mushimagou",
     "gp:parent_id":"28488021",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
+    "mz:is_approximate":1,
+    "src:geom":"gn",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26313567"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"ffe5b1838706acc96cf3d7216aefb2fb",
     "wof:hierarchy":[],
     "wof:id":538342593,
-    "wof:lastmodified":1460072880,
+    "wof:lastmodified":1462979985,
     "wof:name":"857-4712",
     "wof:parent_id":-1,
     "wof:placetype":"postalcode",
@@ -29,10 +38,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    129.1342,
+    33.2215,
+    129.1342,
+    33.2215
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[129.13419999999999,33.2215],"type":"Point"}
 }

@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"140.4009,38.4928,140.4009,38.4928",
+    "geom:latitude":38.4928,
+    "geom:longitude":140.4009,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Yamagataken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Murayamashi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Tateokayuzawa",
     "gp:parent_id":"28397271",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672853
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26217572"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ac8c02d278c878eb69c934c649b1b10a",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538144787,
+            "region_id":85672853
+        }
+    ],
     "wof:id":538144787,
-    "wof:lastmodified":1460063879,
+    "wof:lastmodified":1462980237,
     "wof:name":"995-0013",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672853,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    140.4009,
+    38.4928,
+    140.4009,
+    38.4928
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[140.40090000000001,38.4928],"type":"Point"}
 }

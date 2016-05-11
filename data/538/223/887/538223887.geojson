@@ -5,34 +5,56 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"136.8518,35.4403,136.8518,35.4403",
+    "geom:latitude":35.4403,
+    "geom:longitude":136.8518,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Gifuken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Gifushi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Suwayama",
     "gp:parent_id":"28433699",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        102031671,
+        "85632429",
+        85672735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26257205"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"69ac1491d589a472fd06e49fa929c56c",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102031671,
+            "postalcode_id":538223887,
+            "region_id":85672735
+        }
+    ],
     "wof:id":538223887,
-    "wof:lastmodified":1460067372,
+    "wof:lastmodified":1462979583,
     "wof:name":"501-3142",
-    "wof:parent_id":-1,
+    "wof:parent_id":102031671,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    136.8518,
+    35.4403,
+    136.8518,
+    35.4403
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[136.8518,35.4403],"type":"Point"}
 }

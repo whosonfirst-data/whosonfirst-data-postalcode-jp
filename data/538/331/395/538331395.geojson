@@ -5,22 +5,31 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"130.2923,33.6702,130.2923,33.6702",
+    "geom:latitude":33.6702,
+    "geom:longitude":130.2923,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Fukuokaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Fukuokashihigashiku",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Hiro",
     "gp:parent_id":"28483077",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
+    "mz:is_approximate":1,
+    "src:geom":"gn",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26308743"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"7a5a7040268e0ddaf00043f4db70d7bf",
     "wof:hierarchy":[],
     "wof:id":538331395,
-    "wof:lastmodified":1460072415,
+    "wof:lastmodified":1462979941,
     "wof:name":"811-0324",
     "wof:parent_id":-1,
     "wof:placetype":"postalcode",
@@ -29,10 +38,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    130.2923,
+    33.6702,
+    130.2923,
+    33.6702
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[130.29230000000001,33.6702],"type":"Point"}
 }

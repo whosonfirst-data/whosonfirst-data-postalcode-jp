@@ -5,34 +5,56 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"137.9888,34.6717,137.9888,34.6717",
+    "geom:latitude":34.6717,
+    "geom:longitude":137.9888,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Shizuokaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Ogasagun'Oosukachou",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Okinosu",
     "gp:parent_id":"28438125",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        102031669,
+        "85632429",
+        85672753
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26262598"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cbc93dc1008634409df30694ea4c31e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102031669,
+            "postalcode_id":538234211,
+            "region_id":85672753
+        }
+    ],
     "wof:id":538234211,
-    "wof:lastmodified":1460067949,
+    "wof:lastmodified":1462979517,
     "wof:name":"437-1303",
-    "wof:parent_id":-1,
+    "wof:parent_id":102031669,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    137.9888,
+    34.6717,
+    137.9888,
+    34.6717
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[137.9888,34.6717],"type":"Point"}
 }

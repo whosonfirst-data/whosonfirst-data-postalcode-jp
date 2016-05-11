@@ -5,34 +5,56 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"139.5714,35.5354,139.5714,35.5354",
+    "geom:latitude":35.5354,
+    "geom:longitude":139.5714,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Kanagawaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Yokohamashitsudukiku",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Hiradai",
     "gp:parent_id":"28416270",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        102031239,
+        "85632429",
+        85672805
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26239140"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"40ff6a19ce27df99d03cad439f6eb996",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102031239,
+            "postalcode_id":538187057,
+            "region_id":85672805
+        }
+    ],
     "wof:id":538187057,
-    "wof:lastmodified":1460065579,
+    "wof:lastmodified":1462979349,
     "wof:name":"224-0064",
-    "wof:parent_id":-1,
+    "wof:parent_id":102031239,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    139.5714,
+    35.5354,
+    139.5714,
+    35.5354
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[139.57140000000001,35.5354],"type":"Point"}
 }

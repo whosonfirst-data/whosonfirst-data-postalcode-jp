@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"140.942,37.8087,140.942,37.8087",
+    "geom:latitude":37.8087,
+    "geom:longitude":140.942,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Fukushimaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Soumashi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Motowarou",
     "gp:parent_id":"28399503",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672835
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26219945"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2741ac76be6a9a562cc2e80cb4ee7f4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538149853,
+            "region_id":85672835
+        }
+    ],
     "wof:id":538149853,
-    "wof:lastmodified":1460064054,
+    "wof:lastmodified":1462980207,
     "wof:name":"976-0024",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672835,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    140.942,
+    37.8087,
+    140.942,
+    37.8087
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[140.94200000000001,37.8087],"type":"Point"}
 }

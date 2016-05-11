@@ -5,22 +5,31 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"129.9922,28.3516,129.9922,28.3516",
+    "geom:latitude":28.3516,
+    "geom:longitude":129.9922,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Kagoshimaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Ooshimagunkikaichou",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Isaneku",
     "gp:parent_id":"28493621",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
+    "mz:is_approximate":1,
+    "src:geom":"gn",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26320008"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"c4b7c080814769e1374f27ede7a8e8f3",
     "wof:hierarchy":[],
     "wof:id":538354965,
-    "wof:lastmodified":1460073322,
+    "wof:lastmodified":1462980040,
     "wof:name":"891-6141",
     "wof:parent_id":-1,
     "wof:placetype":"postalcode",
@@ -29,10 +38,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    129.9922,
+    28.3516,
+    129.9922,
+    28.3516
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[129.9922,28.3516],"type":"Point"}
 }

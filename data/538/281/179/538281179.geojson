@@ -5,34 +5,56 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"135.5714,34.6551,135.5714,34.6551",
+    "geom:latitude":34.6551,
+    "geom:longitude":135.5714,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Oosakafu",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Higashioosakashi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Shuntokuchou",
     "gp:parent_id":"28460124",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        102031751,
+        "85632429",
+        85672785
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26284003"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9726135f5af37784b41510d07b79e948",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102031751,
+            "postalcode_id":538281179,
+            "region_id":85672785
+        }
+    ],
     "wof:id":538281179,
-    "wof:lastmodified":1460070132,
+    "wof:lastmodified":1462979657,
     "wof:name":"577-0831",
-    "wof:parent_id":-1,
+    "wof:parent_id":102031751,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    135.5714,
+    34.6551,
+    135.5714,
+    34.6551
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[135.57140000000001,34.6551],"type":"Point"}
 }

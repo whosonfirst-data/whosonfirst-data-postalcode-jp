@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"134.3114,34.2463,134.3114,34.2463",
+    "geom:latitude":34.2463,
+    "geom:longitude":134.3114,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Kagawaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Higashikagawashi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Oochi",
     "gp:parent_id":"28478773",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672715
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26304210"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4dd020724e655388563afa3d84db0633",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538322037,
+            "region_id":85672715
+        }
+    ],
     "wof:id":538322037,
-    "wof:lastmodified":1460071893,
+    "wof:lastmodified":1462979891,
     "wof:name":"769-2521",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672715,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    134.3114,
+    34.2463,
+    134.3114,
+    34.2463
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[134.31139999999999,34.2463],"type":"Point"}
 }

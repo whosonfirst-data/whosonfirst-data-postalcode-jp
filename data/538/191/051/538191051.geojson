@@ -5,14 +5,22 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"139.0448,37.8711,139.0448,37.8711",
+    "geom:latitude":37.8711,
+    "geom:longitude":139.0448,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Niigataken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Niigatashi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Shumoku",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
+    "mz:is_approximate":1,
+    "src:geom":"gn",
     "wof:belongsto":[
         "102191569",
-        102031487,
         "85632429",
         85672849
     ],
@@ -21,30 +29,29 @@
         "gp:id":"26240867"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"6a842ca2b5712051592ef5898a013d7c",
     "wof:hierarchy":[
         {
             "continent_id":"102191569",
             "country_id":"85632429",
-            "locality_id":102031487,
             "postalcode_id":538191051,
             "region_id":85672849
         }
     ],
     "wof:id":538191051,
-    "wof:lastmodified":1460065848,
+    "wof:lastmodified":1462980152,
     "wof:name":"950-1141",
-    "wof:parent_id":"102031487",
+    "wof:parent_id":85672849,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    139.0448,
+    37.8711,
+    139.0448,
+    37.8711
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[139.04480000000001,37.8711],"type":"Point"}
 }

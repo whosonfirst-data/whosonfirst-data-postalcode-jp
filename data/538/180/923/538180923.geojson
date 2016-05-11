@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"140.3099,35.5262,140.3099,35.5262",
+    "geom:latitude":35.5262,
+    "geom:longitude":140.3099,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Chibaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Sanbugun'Ooamishirasatomachi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Oodake",
     "gp:parent_id":"28413588",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672797
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26234420"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"eb02be5d003ec9cd78330d76e3056938",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538180923,
+            "region_id":85672797
+        }
+    ],
     "wof:id":538180923,
-    "wof:lastmodified":1460065346,
+    "wof:lastmodified":1462979390,
     "wof:name":"299-3243",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672797,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    140.3099,
+    35.5262,
+    140.3099,
+    35.5262
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[140.3099,35.5262],"type":"Point"}
 }

@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"135.6821,33.5538,135.6821,33.5538",
+    "geom:latitude":33.5538,
+    "geom:longitude":135.6821,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Wakayamaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Higashimurogunkozagawachou",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Mitogawa",
     "gp:parent_id":"1111951",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672795
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26293140"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"612db5ceb75e29922af8cef3c581b1cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538301131,
+            "region_id":85672795
+        }
+    ],
     "wof:id":538301131,
-    "wof:lastmodified":1460070959,
+    "wof:lastmodified":1462979744,
     "wof:name":"649-4455",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672795,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    135.6821,
+    33.5538,
+    135.6821,
+    33.5538
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[135.68209999999999,33.5538],"type":"Point"}
 }

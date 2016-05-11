@@ -5,46 +5,55 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"131.6091,33.2396,131.6091,33.2396",
+    "geom:latitude":33.2396,
+    "geom:longitude":131.6091,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Ooitaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Ooitashi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Ikanikeisaiganaibaai",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
+    "mz:is_approximate":1,
+    "src:geom":"gn",
     "wof:belongsto":[
         "102191569",
-        102031541,
+        102031459,
         "85632429",
-        85672703
+        85672723
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26316032"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"ae465e0411326ce3b653d94b5b818cae",
     "wof:hierarchy":[
         {
             "continent_id":"102191569",
             "country_id":"85632429",
-            "locality_id":102031541,
+            "locality_id":102031459,
             "postalcode_id":538376929,
-            "region_id":85672703
+            "region_id":85672723
         }
     ],
     "wof:id":538376929,
-    "wof:lastmodified":1460074044,
+    "wof:lastmodified":1462980013,
     "wof:name":"870-0100",
-    "wof:parent_id":"102031541",
+    "wof:parent_id":102031459,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    131.6091,
+    33.2396,
+    131.6091,
+    33.2396
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[131.60910000000001,33.2396],"type":"Point"}
 }

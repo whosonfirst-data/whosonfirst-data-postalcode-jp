@@ -5,34 +5,56 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"139.3695,36.2912,139.3695,36.2912",
+    "geom:latitude":36.2912,
+    "geom:longitude":139.3695,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Gunmaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Ootashi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Hamachou",
     "gp:parent_id":"28406726",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        102032257,
+        "85632429",
+        85672871
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26227482"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"09d622047dd3c0bbc4f9565c3aed239b",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102032257,
+            "postalcode_id":538166001,
+            "region_id":85672871
+        }
+    ],
     "wof:id":538166001,
-    "wof:lastmodified":1460064677,
+    "wof:lastmodified":1462979464,
     "wof:name":"373-0853",
-    "wof:parent_id":-1,
+    "wof:parent_id":102032257,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    139.3695,
+    36.2912,
+    139.3695,
+    36.2912
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[139.36949999999999,36.2912],"type":"Point"}
 }

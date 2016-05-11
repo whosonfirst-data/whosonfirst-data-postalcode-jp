@@ -5,22 +5,31 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"135.1915,35.7622,135.1915,35.7622",
+    "geom:latitude":35.7622,
+    "geom:longitude":135.1915,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Kyoutofu",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Takenoguntangochou",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Owa",
     "gp:parent_id":"28456679",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
+    "mz:is_approximate":1,
+    "src:geom":"gn",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26280651"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"3f7621e4add3b80f623d765d75420d7c",
     "wof:hierarchy":[],
     "wof:id":538273437,
-    "wof:lastmodified":1460069805,
+    "wof:lastmodified":1462979714,
     "wof:name":"627-0244",
     "wof:parent_id":-1,
     "wof:placetype":"postalcode",
@@ -29,10 +38,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    135.1915,
+    35.7622,
+    135.1915,
+    35.7622
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[135.19149999999999,35.7622],"type":"Point"}
 }

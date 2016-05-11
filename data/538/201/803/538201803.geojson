@@ -5,34 +5,56 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"137.2128,36.7185,137.2128,36.7185",
+    "geom:latitude":36.7185,
+    "geom:longitude":137.2128,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Toyamaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Toyamashi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Shimoshinnissoumachi",
     "gp:parent_id":"28423157",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        102031295,
+        "85632429",
+        85672759
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26246015"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f91e7481f01282c98c8bf62f2122ca49",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102031295,
+            "postalcode_id":538201803,
+            "region_id":85672759
+        }
+    ],
     "wof:id":538201803,
-    "wof:lastmodified":1460066371,
+    "wof:lastmodified":1462980102,
     "wof:name":"930-0808",
-    "wof:parent_id":-1,
+    "wof:parent_id":102031295,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    137.2128,
+    36.7185,
+    137.2128,
+    36.7185
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[137.21279999999999,36.7185],"type":"Point"}
 }

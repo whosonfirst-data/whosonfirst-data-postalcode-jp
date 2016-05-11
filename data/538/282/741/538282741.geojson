@@ -5,34 +5,56 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"135.1528,34.6509,135.1528,34.6509",
+    "geom:latitude":34.6509,
+    "geom:longitude":135.1528,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Hyougoken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Koubeshinagataku",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Minamikomaechou",
     "gp:parent_id":"28460888",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        102031613,
+        "85632429",
+        85672769
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26284810"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6a4610015533ca1169f3cd1404acfb23",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102031613,
+            "postalcode_id":538282741,
+            "region_id":85672769
+        }
+    ],
     "wof:id":538282741,
-    "wof:lastmodified":1460070194,
+    "wof:lastmodified":1462979752,
     "wof:name":"653-0044",
-    "wof:parent_id":-1,
+    "wof:parent_id":102031613,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    135.1528,
+    34.6509,
+    135.1528,
+    34.6509
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[135.15280000000001,34.6509],"type":"Point"}
 }

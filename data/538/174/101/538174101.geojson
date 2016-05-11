@@ -5,34 +5,56 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"140.0785,35.6567,140.0785,35.6567",
+    "geom:latitude":35.6567,
+    "geom:longitude":140.0785,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Chibaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Chibashihanamigawaku",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Asahigaokachou",
     "gp:parent_id":"28410555",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        102031995,
+        "85632429",
+        85672797
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26231555"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fd8f3f77c59157bd4be650720a6d653f",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102031995,
+            "postalcode_id":538174101,
+            "region_id":85672797
+        }
+    ],
     "wof:id":538174101,
-    "wof:lastmodified":1460065035,
+    "wof:lastmodified":1462979363,
     "wof:name":"262-0017",
-    "wof:parent_id":-1,
+    "wof:parent_id":102031995,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    140.0785,
+    35.6567,
+    140.0785,
+    35.6567
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[140.07849999999999,35.6567],"type":"Point"}
 }

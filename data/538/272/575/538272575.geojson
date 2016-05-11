@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"135.6723,34.9166,135.6723,34.9166",
+    "geom:latitude":34.9166,
+    "geom:longitude":135.6723,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Kyoutofu",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Nagaokakyoushi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Takadainishi",
     "gp:parent_id":"28455626",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672777
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26279759"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"875ac4de34bccc7c025ed328e2906944",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538272575,
+            "region_id":85672777
+        }
+    ],
     "wof:id":538272575,
-    "wof:lastmodified":1460069766,
+    "wof:lastmodified":1462979704,
     "wof:name":"617-0857",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672777,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    135.6723,
+    34.9166,
+    135.6723,
+    34.9166
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[135.67230000000001,34.9166],"type":"Point"}
 }

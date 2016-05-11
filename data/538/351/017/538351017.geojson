@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"131.1708,31.8046,131.1708,31.8046",
+    "geom:latitude":31.8046,
+    "geom:longitude":131.1708,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Miyazakiken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Kitamorokatagunyamanokuchichou",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Yamanokuchi(Sonota)",
     "gp:parent_id":"28491902",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672707
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26318486"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"24aa6843ee013c624530e754ec01c250",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538351017,
+            "region_id":85672707
+        }
+    ],
     "wof:id":538351017,
-    "wof:lastmodified":1460073202,
+    "wof:lastmodified":1462980036,
     "wof:name":"889-1803",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672707,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    131.1708,
+    31.8046,
+    131.1708,
+    31.8046
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[131.17080000000001,31.8046],"type":"Point"}
 }

@@ -5,22 +5,31 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"130.8548,33.9673,130.8548,33.9673",
+    "geom:latitude":33.9673,
+    "geom:longitude":130.8548,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Fukuokaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Kitakyuushuushikokurakitaku",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Umashima",
     "gp:parent_id":"28482572",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
+    "mz:is_approximate":1,
+    "src:geom":"gn",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26308262"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"9c64ed6e8e43a82bd268edae0fefdf50",
     "wof:hierarchy":[],
     "wof:id":538330479,
-    "wof:lastmodified":1460072381,
+    "wof:lastmodified":1462979934,
     "wof:name":"802-0092",
     "wof:parent_id":-1,
     "wof:placetype":"postalcode",
@@ -29,10 +38,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    130.8548,
+    33.9673,
+    130.8548,
+    33.9673
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[130.85480000000001,33.9673],"type":"Point"}
 }

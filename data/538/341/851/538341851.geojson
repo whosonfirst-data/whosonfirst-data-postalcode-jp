@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"128.7877,32.656,128.7877,32.656",
+    "geom:latitude":32.656,
+    "geom:longitude":128.7877,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Nagasakiken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Fukueshi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Masudachou",
     "gp:parent_id":"28487744",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672857
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26312960"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"411d04885135b3f28637cb0c30c2e727",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538341851,
+            "region_id":85672857
+        }
+    ],
     "wof:id":538341851,
-    "wof:lastmodified":1460072851,
+    "wof:lastmodified":1462979977,
     "wof:name":"853-0027",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672857,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    128.7877,
+    32.656,
+    128.7877,
+    32.656
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[128.7877,32.656],"type":"Point"}
 }

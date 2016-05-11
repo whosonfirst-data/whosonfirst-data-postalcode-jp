@@ -5,34 +5,56 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"134.5511,34.09,134.5511,34.09",
+    "geom:latitude":34.09,
+    "geom:longitude":134.5511,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Tokushimaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Tokushimashi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Kamisuketouchou",
     "gp:parent_id":"28477237",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        102031309,
+        "85632429",
+        85672729
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26302175"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4caa9ced03986764358d8e02601f2761",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102031309,
+            "postalcode_id":538319487,
+            "region_id":85672729
+        }
+    ],
     "wof:id":538319487,
-    "wof:lastmodified":1460071774,
+    "wof:lastmodified":1462979891,
     "wof:name":"770-0801",
-    "wof:parent_id":-1,
+    "wof:parent_id":102031309,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    134.5511,
+    34.09,
+    134.5511,
+    34.09
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[134.55109999999999,34.09],"type":"Point"}
 }

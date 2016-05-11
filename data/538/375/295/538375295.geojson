@@ -5,14 +5,22 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"137.4918,34.7238,137.4918,34.7238",
+    "geom:latitude":34.7238,
+    "geom:longitude":137.4918,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Shizuokaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Kosaishi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Ikanikeisaiganaibaai",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
+    "mz:is_approximate":1,
+    "src:geom":"gn",
     "wof:belongsto":[
         "102191569",
-        102031593,
         "85632429",
         85672753
     ],
@@ -21,30 +29,29 @@
         "gp:id":"26262098"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"91b239d4e50af5470e7c0b5df9989cb5",
     "wof:hierarchy":[
         {
             "continent_id":"102191569",
             "country_id":"85632429",
-            "locality_id":102031593,
             "postalcode_id":538375295,
             "region_id":85672753
         }
     ],
     "wof:id":538375295,
-    "wof:lastmodified":1460073989,
+    "wof:lastmodified":1462979512,
     "wof:name":"431-0400",
-    "wof:parent_id":"102031593",
+    "wof:parent_id":85672753,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    137.4918,
+    34.7238,
+    137.4918,
+    34.7238
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[137.49180000000001,34.7238],"type":"Point"}
 }

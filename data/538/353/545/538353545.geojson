@@ -5,22 +5,31 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"130.3354,31.62,130.3354,31.62",
+    "geom:latitude":31.62,
+    "geom:longitude":130.3354,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Kagoshimaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Hiokigunhigashiichikichou",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Minamikaminokawa",
     "gp:parent_id":"28493032",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
+    "mz:is_approximate":1,
+    "src:geom":"gn",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26319439"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"f84378565ca42c28f19debe793c2228e",
     "wof:hierarchy":[],
     "wof:id":538353545,
-    "wof:lastmodified":1460073280,
+    "wof:lastmodified":1462980049,
     "wof:name":"899-2434",
     "wof:parent_id":-1,
     "wof:placetype":"postalcode",
@@ -29,10 +38,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    130.3354,
+    31.62,
+    130.3354,
+    31.62
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[130.33539999999999,31.62],"type":"Point"}
 }

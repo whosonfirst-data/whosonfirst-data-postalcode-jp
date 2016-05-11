@@ -5,34 +5,56 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"136.9031,35.0985,136.9031,35.0985",
+    "geom:latitude":35.0985,
+    "geom:longitude":136.9031,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Aichiken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Nagoyashiminamiku",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Rokujouchou",
     "gp:parent_id":"28440067",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        102031499,
+        "85632429",
+        85672731
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26264153"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a1480d09b2c23c04f5eadbf4c738fa22",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102031499,
+            "postalcode_id":538238615,
+            "region_id":85672731
+        }
+    ],
     "wof:id":538238615,
-    "wof:lastmodified":1460068240,
+    "wof:lastmodified":1462979541,
     "wof:name":"457-0853",
-    "wof:parent_id":-1,
+    "wof:parent_id":102031499,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    136.9031,
+    35.0985,
+    136.9031,
+    35.0985
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[136.90309999999999,35.0985],"type":"Point"}
 }

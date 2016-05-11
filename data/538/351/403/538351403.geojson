@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"131.6776,32.5262,131.6776,32.5262",
+    "geom:latitude":32.5262,
+    "geom:longitude":131.6776,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Miyazakiken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Nobeokashi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Kitahitotsugaoka",
     "gp:parent_id":"28491944",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672707
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26318144"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4f8a19bd7392bff6b7a9e4e73579b357",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538351403,
+            "region_id":85672707
+        }
+    ],
     "wof:id":538351403,
-    "wof:lastmodified":1460073218,
+    "wof:lastmodified":1462980035,
     "wof:name":"889-0505",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672707,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    131.6776,
+    32.5262,
+    131.6776,
+    32.5262
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[131.67760000000001,32.5262],"type":"Point"}
 }

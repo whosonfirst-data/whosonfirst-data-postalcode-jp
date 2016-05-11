@@ -5,22 +5,31 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"139.2557,34.3748,139.2557,34.3748",
+    "geom:latitude":34.3748,
+    "geom:longitude":139.2557,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Toukyouto",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Niijimaniijimamura",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Honson",
     "gp:parent_id":"28415476",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
+    "mz:is_approximate":1,
+    "src:geom":"gn",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26238214"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"21f2c5b20fe6062d406cb04da6bc8076",
     "wof:hierarchy":[],
     "wof:id":538185317,
-    "wof:lastmodified":1460065516,
+    "wof:lastmodified":1462979329,
     "wof:name":"100-0402",
     "wof:parent_id":-1,
     "wof:placetype":"postalcode",
@@ -29,10 +38,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    139.2557,
+    34.3748,
+    139.2557,
+    34.3748
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[139.25569999999999,34.3748],"type":"Point"}
 }

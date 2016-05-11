@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"136.047,35.4803,136.047,35.4803",
+    "geom:latitude":35.4803,
+    "geom:longitude":136.047,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Shigaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Takashimagunmakinochou",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Kamikaide",
     "gp:parent_id":"28449082",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672789
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26273987"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"de1bbf462947f6ac86b68f3adc45f809",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538258721,
+            "region_id":85672789
+        }
+    ],
     "wof:id":538258721,
-    "wof:lastmodified":1460069177,
+    "wof:lastmodified":1462979631,
     "wof:name":"520-1831",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672789,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    136.047,
+    35.4803,
+    136.047,
+    35.4803
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[136.047,35.4803],"type":"Point"}
 }

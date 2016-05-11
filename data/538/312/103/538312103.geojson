@@ -5,22 +5,31 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"132.4826,34.3425,132.4826,34.3425",
+    "geom:latitude":34.3425,
+    "geom:longitude":132.4826,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Hiroshimaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Hiroshimashiminamiku",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Ujinamachi",
     "gp:parent_id":"28473846",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
+    "mz:is_approximate":1,
+    "src:geom":"gn",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26298209"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"addc591174a74cecb0156216c9b6aa62",
     "wof:hierarchy":[],
     "wof:id":538312103,
-    "wof:lastmodified":1460071452,
+    "wof:lastmodified":1462979861,
     "wof:name":"734-0016",
     "wof:parent_id":-1,
     "wof:placetype":"postalcode",
@@ -29,10 +38,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    132.4826,
+    34.3425,
+    132.4826,
+    34.3425
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[132.48259999999999,34.3425],"type":"Point"}
 }

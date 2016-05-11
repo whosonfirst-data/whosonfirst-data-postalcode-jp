@@ -5,34 +5,56 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"138.5429,35.6369,138.5429,35.6369",
+    "geom:latitude":35.6369,
+    "geom:longitude":138.5429,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Yamanashiken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Nakakomagunshouwachou",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Saijou",
     "gp:parent_id":"28431237",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        102031607,
+        "85632429",
+        85672821
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26254596"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"94461a556be7851f474564b32d591698",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102031607,
+            "postalcode_id":538219259,
+            "region_id":85672821
+        }
+    ],
     "wof:id":538219259,
-    "wof:lastmodified":1460067121,
+    "wof:lastmodified":1462979494,
     "wof:name":"409-3866",
-    "wof:parent_id":-1,
+    "wof:parent_id":102031607,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    138.5429,
+    35.6369,
+    138.5429,
+    35.6369
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[138.5429,35.6369],"type":"Point"}
 }

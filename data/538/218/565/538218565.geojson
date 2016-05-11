@@ -5,34 +5,56 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"138.6066,35.635,138.6066,35.635",
+    "geom:latitude":35.635,
+    "geom:longitude":138.6066,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Yamanashiken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Higashiyatsushirogun'Isawachou",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Higashitakahashi",
     "gp:parent_id":"28430904",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        102031607,
+        "85632429",
+        85672821
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26254279"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0807a45c3a94085581aa385e2c377393",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102031607,
+            "postalcode_id":538218565,
+            "region_id":85672821
+        }
+    ],
     "wof:id":538218565,
-    "wof:lastmodified":1460067094,
+    "wof:lastmodified":1462979490,
     "wof:name":"406-0041",
-    "wof:parent_id":-1,
+    "wof:parent_id":102031607,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    138.6066,
+    35.635,
+    138.6066,
+    35.635
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[138.60659999999999,35.635],"type":"Point"}
 }

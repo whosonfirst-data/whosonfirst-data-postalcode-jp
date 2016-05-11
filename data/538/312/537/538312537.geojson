@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"132.6209,34.4226,132.6209,34.4226",
+    "geom:latitude":34.4226,
+    "geom:longitude":132.6209,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Hiroshimaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Hiroshimashiakiku",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Kamisenominami",
     "gp:parent_id":"28474080",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672671
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26298428"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3591446dffdcc7cd7c1916b7aaf6848c",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538312537,
+            "region_id":85672671
+        }
+    ],
     "wof:id":538312537,
-    "wof:lastmodified":1460071466,
+    "wof:lastmodified":1462979865,
     "wof:name":"739-0303",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672671,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    132.6209,
+    34.4226,
+    132.6209,
+    34.4226
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[132.62090000000001,34.4226],"type":"Point"}
 }

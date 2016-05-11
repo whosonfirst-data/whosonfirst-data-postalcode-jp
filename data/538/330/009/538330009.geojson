@@ -5,22 +5,31 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"130.9674,33.9536,130.9674,33.9536",
+    "geom:latitude":33.9536,
+    "geom:longitude":130.9674,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Fukuokaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Kitakyuushuushimojiku",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Moji",
     "gp:parent_id":"28482409",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
+    "mz:is_approximate":1,
+    "src:geom":"gn",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26308029"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"f4dfbdda4aed22c873ab4ab591df92cf",
     "wof:hierarchy":[],
     "wof:id":538330009,
-    "wof:lastmodified":1460072367,
+    "wof:lastmodified":1462979934,
     "wof:name":"801-0855",
     "wof:parent_id":-1,
     "wof:placetype":"postalcode",
@@ -29,10 +38,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    130.9674,
+    33.9536,
+    130.9674,
+    33.9536
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[130.9674,33.9536],"type":"Point"}
 }

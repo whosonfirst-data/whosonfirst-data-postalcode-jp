@@ -5,22 +5,31 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"139.453,38.3455,139.453,38.3455",
+    "geom:latitude":38.3455,
+    "geom:longitude":139.453,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Niigataken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Murakamishi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Maoroshi",
     "gp:parent_id":"28420287",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
+    "mz:is_approximate":1,
+    "src:geom":"gn",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26242107"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"59854aa91cd607ef795fcb827b035a22",
     "wof:hierarchy":[],
     "wof:id":538195595,
-    "wof:lastmodified":1460066081,
+    "wof:lastmodified":1462980165,
     "wof:name":"958-0001",
     "wof:parent_id":-1,
     "wof:placetype":"postalcode",
@@ -29,10 +38,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    139.453,
+    38.3455,
+    139.453,
+    38.3455
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[139.453,38.3455],"type":"Point"}
 }

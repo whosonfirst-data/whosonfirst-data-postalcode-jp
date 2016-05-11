@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"139.1305,35.1526,139.1305,35.1526",
+    "geom:latitude":35.1526,
+    "geom:longitude":139.1305,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Kanagawaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Ashigarashimogunyugawaramachi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Fukuurakajiya",
     "gp:parent_id":"28417508",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672805
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26240416"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8e73e2828f2369bf98b4eb71d1d13e70",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538189971,
+            "region_id":85672805
+        }
+    ],
     "wof:id":538189971,
-    "wof:lastmodified":1460065808,
+    "wof:lastmodified":1462979362,
     "wof:name":"259-0317",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672805,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    139.1305,
+    35.1526,
+    139.1305,
+    35.1526
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[139.13050000000001,35.1526],"type":"Point"}
 }

@@ -5,22 +5,31 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"136.8445,35.0456,136.8445,35.0456",
+    "geom:latitude":35.0456,
+    "geom:longitude":136.8445,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Aichiken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Nagoyashiminatoku",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Kinjoufutou",
     "gp:parent_id":"28439874",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
+    "mz:is_approximate":1,
+    "src:geom":"gn",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26263996"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"2fb7c88fa088337adaf1d41208963651",
     "wof:hierarchy":[],
     "wof:id":538238309,
-    "wof:lastmodified":1460068225,
+    "wof:lastmodified":1462979540,
     "wof:name":"455-0848",
     "wof:parent_id":-1,
     "wof:placetype":"postalcode",
@@ -29,10 +38,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    136.8445,
+    35.0456,
+    136.8445,
+    35.0456
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[136.84450000000001,35.0456],"type":"Point"}
 }

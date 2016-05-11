@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"134.2165,35.3931,134.2165,35.3931",
+    "geom:latitude":35.3931,
+    "geom:longitude":134.2165,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Tottoriken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Yazugunkawaharachou",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Gouhara",
     "gp:parent_id":"28469324",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26293916"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"289c6976d5dca515f0cec15c5f759196",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538301657,
+            "region_id":85672685
+        }
+    ],
     "wof:id":538301657,
-    "wof:lastmodified":1460070982,
+    "wof:lastmodified":1462979801,
     "wof:name":"680-1207",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672685,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    134.2165,
+    35.3931,
+    134.2165,
+    35.3931
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[134.2165,35.3931],"type":"Point"}
 }

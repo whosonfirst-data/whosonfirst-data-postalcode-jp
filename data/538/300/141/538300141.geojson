@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"135.4834,34.2637,135.4834,34.2637",
+    "geom:latitude":34.2637,
+    "geom:longitude":135.4834,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Wakayamaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Itogunkatsuragichou",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Hoshikawa",
     "gp:parent_id":"28468611",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672795
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26292573"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"11a4f1c5038c9f00475d581c76126d31",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538300141,
+            "region_id":85672795
+        }
+    ],
     "wof:id":538300141,
-    "wof:lastmodified":1460070902,
+    "wof:lastmodified":1462979747,
     "wof:name":"649-7152",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672795,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    135.4834,
+    34.2637,
+    135.4834,
+    34.2637
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[135.48339999999999,34.2637],"type":"Point"}
 }

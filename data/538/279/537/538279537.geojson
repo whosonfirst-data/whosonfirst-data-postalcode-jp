@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"135.5654,34.4785,135.5654,34.4785",
+    "geom:latitude":34.4785,
+    "geom:longitude":135.5654,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Oosakafu",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Tondabayashishi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Suga",
     "gp:parent_id":"28459429",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672785
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26283287"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a58fc190b8279f206a5f29f3f9304ea3",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538279537,
+            "region_id":85672785
+        }
+    ],
     "wof:id":538279537,
-    "wof:lastmodified":1460070054,
+    "wof:lastmodified":1462979660,
     "wof:name":"584-0062",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672785,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    135.5654,
+    34.4785,
+    135.5654,
+    34.4785
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[135.56540000000001,34.4785],"type":"Point"}
 }

@@ -5,34 +5,56 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"136.9182,34.8645,136.9182,34.8645",
+    "geom:latitude":34.8645,
+    "geom:longitude":136.9182,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Aichiken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Chitaguntaketoyochou",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Nakabasami",
     "gp:parent_id":"28445360",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        102031759,
+        "85632429",
+        85672731
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26269230"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b65b8d9fd56df7bf53e03876752cedf4",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102031759,
+            "postalcode_id":538250241,
+            "region_id":85672731
+        }
+    ],
     "wof:id":538250241,
-    "wof:lastmodified":1460068806,
+    "wof:lastmodified":1462979550,
     "wof:name":"470-2315",
-    "wof:parent_id":-1,
+    "wof:parent_id":102031759,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    136.9182,
+    34.8645,
+    136.9182,
+    34.8645
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[136.91820000000001,34.8645],"type":"Point"}
 }

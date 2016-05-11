@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"139.0866,36.006,139.0866,36.006",
+    "geom:latitude":36.006,
+    "geom:longitude":139.0866,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Saitamaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Chichibushi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Aioichou",
     "gp:parent_id":"28408357",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672807
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26229261"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f30490b89604fbd45e169674eeff1618",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538169309,
+            "region_id":85672807
+        }
+    ],
     "wof:id":538169309,
-    "wof:lastmodified":1460064822,
+    "wof:lastmodified":1462979455,
     "wof:name":"368-0026",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672807,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    139.0866,
+    36.006,
+    139.0866,
+    36.006
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[139.0866,36.006],"type":"Point"}
 }

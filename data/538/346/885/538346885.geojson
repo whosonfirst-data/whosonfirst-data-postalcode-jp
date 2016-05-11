@@ -5,22 +5,31 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"131.6095,33.2571,131.6095,33.2571",
+    "geom:latitude":33.2571,
+    "geom:longitude":131.6095,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Ooitaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Ooitashi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Toyomi",
     "gp:parent_id":"28490105",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
+    "mz:is_approximate":1,
+    "src:geom":"gn",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26316106"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"d00060ce8e21758cc67df8c8255d7050",
     "wof:hierarchy":[],
     "wof:id":538346885,
-    "wof:lastmodified":1460073058,
+    "wof:lastmodified":1462980012,
     "wof:name":"870-0018",
     "wof:parent_id":-1,
     "wof:placetype":"postalcode",
@@ -29,10 +38,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    131.6095,
+    33.2571,
+    131.6095,
+    33.2571
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[131.6095,33.2571],"type":"Point"}
 }

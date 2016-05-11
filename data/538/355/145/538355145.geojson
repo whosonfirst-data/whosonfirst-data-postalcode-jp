@@ -5,22 +5,31 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"128.6527,27.3938,128.6527,27.3938",
+    "geom:latitude":27.3938,
+    "geom:longitude":128.6527,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Kagoshimaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Ooshimagunwadomarichou",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Wadomari",
     "gp:parent_id":"28493706",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
+    "mz:is_approximate":1,
+    "src:geom":"gn",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26320104"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"dce8adaabf2de89368d5e00e01dd995c",
     "wof:hierarchy":[],
     "wof:id":538355145,
-    "wof:lastmodified":1460073328,
+    "wof:lastmodified":1462980041,
     "wof:name":"891-9112",
     "wof:parent_id":-1,
     "wof:placetype":"postalcode",
@@ -29,10 +38,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    128.6527,
+    27.3938,
+    128.6527,
+    27.3938
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[128.65270000000001,27.3938],"type":"Point"}
 }

@@ -5,34 +5,56 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"139.964,36.4248,139.964,36.4248",
+    "geom:latitude":36.4248,
+    "geom:longitude":139.964,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Tochigiken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Mookashi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Matsuyamachou",
     "gp:parent_id":"28405366",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        102031939,
+        "85632429",
+        85672813
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26226087"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"84ac249badb94e53b92ebbf949b8b2b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102031939,
+            "postalcode_id":538162501,
+            "region_id":85672813
+        }
+    ],
     "wof:id":538162501,
-    "wof:lastmodified":1460064539,
+    "wof:lastmodified":1462979422,
     "wof:name":"321-4346",
-    "wof:parent_id":-1,
+    "wof:parent_id":102031939,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    139.964,
+    36.4248,
+    139.964,
+    36.4248
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[139.964,36.4248],"type":"Point"}
 }

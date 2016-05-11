@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"138.0548,36.0885,138.0548,36.0885",
+    "geom:latitude":36.0885,
+    "geom:longitude":138.0548,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Naganoken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Okayashi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Osachiizuhaya",
     "gp:parent_id":"28431753",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672749
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26255251"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"959fef597a394aeb8c86359452e31d02",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538220363,
+            "region_id":85672749
+        }
+    ],
     "wof:id":538220363,
-    "wof:lastmodified":1460067188,
+    "wof:lastmodified":1462979481,
     "wof:name":"394-0089",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672749,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    138.0548,
+    36.0885,
+    138.0548,
+    36.0885
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[138.0548,36.0885],"type":"Point"}
 }

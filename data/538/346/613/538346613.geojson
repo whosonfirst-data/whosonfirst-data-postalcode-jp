@@ -5,22 +5,31 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"130.5239,32.397,130.5239,32.397",
+    "geom:latitude":32.397,
+    "geom:longitude":130.5239,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Kumamotoken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Ashikitaguntanouramachi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Imuta",
     "gp:parent_id":"28489838",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
+    "mz:is_approximate":1,
+    "src:geom":"gn",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26315775"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"ebc8e1c228ab0809001422a2666ccb9e",
     "wof:hierarchy":[],
     "wof:id":538346613,
-    "wof:lastmodified":1460073050,
+    "wof:lastmodified":1462980011,
     "wof:name":"869-5307",
     "wof:parent_id":-1,
     "wof:placetype":"postalcode",
@@ -29,10 +38,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    130.5239,
+    32.397,
+    130.5239,
+    32.397
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[130.5239,32.397],"type":"Point"}
 }

@@ -5,34 +5,56 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"135.7776,34.9601,135.7776,34.9601",
+    "geom:latitude":34.9601,
+    "geom:longitude":135.7776,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Kyoutofu",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Kyoutoshifushimiku",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Fukakusashinjuuinyamachou",
     "gp:parent_id":"28453918",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        102031567,
+        "85632429",
+        85672777
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26278154"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ce65d3839f7c7c25ab0044300e34ac14",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102031567,
+            "postalcode_id":538268669,
+            "region_id":85672777
+        }
+    ],
     "wof:id":538268669,
-    "wof:lastmodified":1460069601,
+    "wof:lastmodified":1462979693,
     "wof:name":"612-0872",
-    "wof:parent_id":-1,
+    "wof:parent_id":102031567,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    135.7776,
+    34.9601,
+    135.7776,
+    34.9601
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[135.77760000000001,34.9601],"type":"Point"}
 }

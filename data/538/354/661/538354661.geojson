@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"130.6972,31.0905,130.6972,31.0905",
+    "geom:latitude":31.0905,
+    "geom:longitude":130.6972,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Kagoshimaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Kimotsukigunsatachou",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Izashiki",
     "gp:parent_id":"28493485",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672861
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26319832"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"148dc65c558ba77bf31d5773b05762ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538354661,
+            "region_id":85672861
+        }
+    ],
     "wof:id":538354661,
-    "wof:lastmodified":1460073313,
+    "wof:lastmodified":1462980043,
     "wof:name":"893-2601",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672861,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    130.6972,
+    31.0905,
+    130.6972,
+    31.0905
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[130.69720000000001,31.0905],"type":"Point"}
 }

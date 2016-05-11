@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"135.5785,34.8627,135.5785,34.8627",
+    "geom:latitude":34.8627,
+    "geom:longitude":135.5785,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Oosakafu",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Takatsukishi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Nasahara",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
+    "mz:is_approximate":1,
+    "src:geom":"gn",
     "wof:belongsto":[
         "102191569",
         102031347,
@@ -21,7 +30,7 @@
         "gp:id":"26282558"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"4ec55875aa97348dd06096ee6247dac6",
     "wof:hierarchy":[
         {
             "continent_id":"102191569",
@@ -32,19 +41,19 @@
         }
     ],
     "wof:id":538277791,
-    "wof:lastmodified":1460069982,
+    "wof:lastmodified":1462979653,
     "wof:name":"569-1041",
-    "wof:parent_id":"102031347",
+    "wof:parent_id":102031347,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    135.5785,
+    34.8627,
+    135.5785,
+    34.8627
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[135.57849999999999,34.8627],"type":"Point"}
 }

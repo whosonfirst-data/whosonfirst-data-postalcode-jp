@@ -5,22 +5,31 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"132.2018,34.0957,132.2018,34.0957",
+    "geom:latitude":34.0957,
+    "geom:longitude":132.2018,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Yamaguchiken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Iwakunishi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Oogimachi",
     "gp:parent_id":"28476637",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
+    "mz:is_approximate":1,
+    "src:geom":"gn",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26301126"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"fdf9dde65c252c03bb6c238b15bb7ac5",
     "wof:hierarchy":[],
     "wof:id":538318135,
-    "wof:lastmodified":1460071716,
+    "wof:lastmodified":1462979867,
     "wof:name":"740-0042",
     "wof:parent_id":-1,
     "wof:placetype":"postalcode",
@@ -29,10 +38,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    132.2018,
+    34.0957,
+    132.2018,
+    34.0957
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[132.20179999999999,34.0957],"type":"Point"}
 }

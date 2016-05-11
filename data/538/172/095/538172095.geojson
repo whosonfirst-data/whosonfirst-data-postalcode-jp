@@ -5,34 +5,56 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"139.658,36.0006,139.658,36.0006",
+    "geom:latitude":36.0006,
+    "geom:longitude":139.658,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Saitamaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Hasudashi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Jou",
     "gp:parent_id":"28409624",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        102031855,
+        "85632429",
+        85672807
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26230469"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2a1f29dafe250f3469fed5c8dd3ca5b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102031855,
+            "postalcode_id":538172095,
+            "region_id":85672807
+        }
+    ],
     "wof:id":538172095,
-    "wof:lastmodified":1460064956,
+    "wof:lastmodified":1462979441,
     "wof:name":"349-0143",
-    "wof:parent_id":-1,
+    "wof:parent_id":102031855,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    139.658,
+    36.0006,
+    139.658,
+    36.0006
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[139.65799999999999,36.0006],"type":"Point"}
 }

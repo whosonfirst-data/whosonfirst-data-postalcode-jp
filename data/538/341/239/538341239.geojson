@@ -5,22 +5,31 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"129.5482,33.5085,129.5482,33.5085",
+    "geom:latitude":33.5085,
+    "geom:longitude":129.5482,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Nagasakiken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Kitamatsuuragun'Ooshimamura",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Oonezaka",
     "gp:parent_id":"28487395",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
+    "mz:is_approximate":1,
+    "src:geom":"gn",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26313549"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"cd85e845f7a482a9f6028d5566812409",
     "wof:hierarchy":[],
     "wof:id":538341239,
-    "wof:lastmodified":1460072829,
+    "wof:lastmodified":1462979991,
     "wof:name":"859-5804",
     "wof:parent_id":-1,
     "wof:placetype":"postalcode",
@@ -29,10 +38,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    129.5482,
+    33.5085,
+    129.5482,
+    33.5085
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[129.54820000000001,33.5085],"type":"Point"}
 }

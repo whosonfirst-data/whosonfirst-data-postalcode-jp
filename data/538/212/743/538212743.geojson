@@ -5,34 +5,56 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"136.1927,36.081,136.1927,36.081",
+    "geom:latitude":36.081,
+    "geom:longitude":136.1927,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Fukuiken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Fukuishi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Saburoumaruchou",
     "gp:parent_id":"28428380",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        102031797,
+        "85632429",
+        85672767
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26251579"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"98da76543e6a24e6b44701ce1928cc88",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102031797,
+            "postalcode_id":538212743,
+            "region_id":85672767
+        }
+    ],
     "wof:id":538212743,
-    "wof:lastmodified":1460066858,
+    "wof:lastmodified":1462980059,
     "wof:name":"910-0036",
-    "wof:parent_id":-1,
+    "wof:parent_id":102031797,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    136.1927,
+    36.081,
+    136.1927,
+    36.081
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[136.1927,36.081],"type":"Point"}
 }

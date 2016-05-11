@@ -5,34 +5,56 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"134.7125,34.8369,134.7125,34.8369",
+    "geom:latitude":34.8369,
+    "geom:longitude":134.7125,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Hyougoken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Himejishi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Maruochou",
     "gp:parent_id":"28461701",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        102031745,
+        "85632429",
+        85672769
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26285753"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8a6d883f9caf2f4cec2b913f78d14b77",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102031745,
+            "postalcode_id":538284157,
+            "region_id":85672769
+        }
+    ],
     "wof:id":538284157,
-    "wof:lastmodified":1460070265,
+    "wof:lastmodified":1462979776,
     "wof:name":"670-0827",
-    "wof:parent_id":-1,
+    "wof:parent_id":102031745,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    134.7125,
+    34.8369,
+    134.7125,
+    34.8369
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[134.71250000000001,34.8369],"type":"Point"}
 }

@@ -5,22 +5,31 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"137.3202,37.5252,137.3202,37.5252",
+    "geom:latitude":37.5252,
+    "geom:longitude":137.3202,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Ishikawaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Suzushi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Noroshimachi",
     "gp:parent_id":"28427016",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
+    "mz:is_approximate":1,
+    "src:geom":"gn",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26250071"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"200ef7d5fdeee93692477281c3f4a8f4",
     "wof:hierarchy":[],
     "wof:id":538210085,
-    "wof:lastmodified":1460066724,
+    "wof:lastmodified":1462980093,
     "wof:name":"927-1441",
     "wof:parent_id":-1,
     "wof:placetype":"postalcode",
@@ -29,10 +38,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    137.3202,
+    37.5252,
+    137.3202,
+    37.5252
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[137.3202,37.5252],"type":"Point"}
 }

@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"135.9602,33.6825,135.9602,33.6825",
+    "geom:latitude":33.6825,
+    "geom:longitude":135.9602,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Wakayamaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Shinguushi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Kinokawa",
     "gp:parent_id":"28468303",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672795
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26292250"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3d9297547b5e731b633f77fefa863197",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538299519,
+            "region_id":85672795
+        }
+    ],
     "wof:id":538299519,
-    "wof:lastmodified":1460070881,
+    "wof:lastmodified":1462979740,
     "wof:name":"647-0073",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672795,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    135.9602,
+    33.6825,
+    135.9602,
+    33.6825
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[135.96019999999999,33.6825],"type":"Point"}
 }

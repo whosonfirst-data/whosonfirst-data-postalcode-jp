@@ -5,34 +5,56 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"141.5564,38.8831,141.5564,38.8831",
+    "geom:latitude":38.8831,
+    "geom:longitude":141.5564,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Miyagiken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Kesennumashi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Akaiwamakisawa",
     "gp:parent_id":"28391550",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        102031959,
+        "85632429",
+        85672843
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26212268"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9be4934673d0b029438811492c8de2a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102031959,
+            "postalcode_id":538134907,
+            "region_id":85672843
+        }
+    ],
     "wof:id":538134907,
-    "wof:lastmodified":1460063527,
+    "wof:lastmodified":1462980222,
     "wof:name":"988-0171",
-    "wof:parent_id":-1,
+    "wof:parent_id":102031959,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    141.5564,
+    38.8831,
+    141.5564,
+    38.8831
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[141.5564,38.8831],"type":"Point"}
 }

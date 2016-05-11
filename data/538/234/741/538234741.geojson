@@ -5,34 +5,56 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"137.8956,34.7851,137.8956,34.7851",
+    "geom:latitude":34.7851,
+    "geom:longitude":137.8956,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Shizuokaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Fukuroishi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Okiyamanashi",
     "gp:parent_id":"28438296",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        102031793,
+        "85632429",
+        85672753
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26261913"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ef093ed6aad653b37ea427ba8a3789a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102031793,
+            "postalcode_id":538234741,
+            "region_id":85672753
+        }
+    ],
     "wof:id":538234741,
-    "wof:lastmodified":1460067972,
+    "wof:lastmodified":1462979516,
     "wof:name":"437-0124",
-    "wof:parent_id":-1,
+    "wof:parent_id":102031793,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    137.8956,
+    34.7851,
+    137.8956,
+    34.7851
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[137.8956,34.7851],"type":"Point"}
 }

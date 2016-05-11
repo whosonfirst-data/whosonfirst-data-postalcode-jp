@@ -5,34 +5,56 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"130.3589,33.2228,130.3589,33.2228",
+    "geom:latitude":33.2228,
+    "geom:longitude":130.3589,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Sagaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Sagagunmorodomichou",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Morodomitsu",
     "gp:parent_id":"28485676",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        102031423,
+        "85632429",
+        85672695
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26311688"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"25de64ed811e584e995d5c552a845d9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102031423,
+            "postalcode_id":538337203,
+            "region_id":85672695
+        }
+    ],
     "wof:id":538337203,
-    "wof:lastmodified":1460072672,
+    "wof:lastmodified":1462979966,
     "wof:name":"840-2105",
-    "wof:parent_id":-1,
+    "wof:parent_id":102031423,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    130.3589,
+    33.2228,
+    130.3589,
+    33.2228
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[130.35890000000001,33.2228],"type":"Point"}
 }

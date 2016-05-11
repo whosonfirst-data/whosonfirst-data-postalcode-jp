@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"140.8535,35.7018,140.8535,35.7018",
+    "geom:latitude":35.7018,
+    "geom:longitude":140.8535,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Chibaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Choushishi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Tokawadaimachi",
     "gp:parent_id":"28410777",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672797
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26231775"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"507869ff4c58628e94297ab1d7ff8015",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538174469,
+            "region_id":85672797
+        }
+    ],
     "wof:id":538174469,
-    "wof:lastmodified":1460065046,
+    "wof:lastmodified":1462979376,
     "wof:name":"288-0016",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672797,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    140.8535,
+    35.7018,
+    140.8535,
+    35.7018
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[140.8535,35.7018],"type":"Point"}
 }

@@ -5,22 +5,31 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"129.9067,33.5463,129.9067,33.5463",
+    "geom:latitude":33.5463,
+    "geom:longitude":129.9067,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Sagaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Higashimatsuuragunyobukochou",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Kodomo",
     "gp:parent_id":"28485904",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
+    "mz:is_approximate":1,
+    "src:geom":"gn",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26312005"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"7e24208839926828865a9c3a67fb1ffb",
     "wof:hierarchy":[],
     "wof:id":538337481,
-    "wof:lastmodified":1460072680,
+    "wof:lastmodified":1462979968,
     "wof:name":"847-0302",
     "wof:parent_id":-1,
     "wof:placetype":"postalcode",
@@ -29,10 +38,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    129.9067,
+    33.5463,
+    129.9067,
+    33.5463
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[129.9067,33.5463],"type":"Point"}
 }

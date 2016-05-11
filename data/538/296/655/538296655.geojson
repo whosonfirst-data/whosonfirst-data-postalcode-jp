@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"135.731,34.6108,135.731,34.6108",
+    "geom:latitude":34.6108,
+    "geom:longitude":135.731,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Naraken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Ikomagun'Ikarugachou",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Houryuujinishi",
     "gp:parent_id":"28467088",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672779
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26290860"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f188ba87df3f4cde730c00413b95518c",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538296655,
+            "region_id":85672779
+        }
+    ],
     "wof:id":538296655,
-    "wof:lastmodified":1460070774,
+    "wof:lastmodified":1462979725,
     "wof:name":"636-0114",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672779,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    135.731,
+    34.6108,
+    135.731,
+    34.6108
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[135.73099999999999,34.6108],"type":"Point"}
 }

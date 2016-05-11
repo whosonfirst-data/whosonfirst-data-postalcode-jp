@@ -5,34 +5,56 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"135.5778,34.723,135.5778,34.723",
+    "geom:latitude":34.723,
+    "geom:longitude":135.5778,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Oosakafu",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Moriguchishi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Terakatanishikidoori",
     "gp:parent_id":"28458735",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        102031679,
+        "85632429",
+        85672785
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26282670"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"395d440ea51eb443ab3624cf93ea2a6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102031679,
+            "postalcode_id":538278097,
+            "region_id":85672785
+        }
+    ],
     "wof:id":538278097,
-    "wof:lastmodified":1460069992,
+    "wof:lastmodified":1462979653,
     "wof:name":"570-0042",
-    "wof:parent_id":-1,
+    "wof:parent_id":102031679,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    135.5778,
+    34.723,
+    135.5778,
+    34.723
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[135.5778,34.723],"type":"Point"}
 }

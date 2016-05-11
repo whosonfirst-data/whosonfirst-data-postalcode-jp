@@ -5,34 +5,56 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"134.2015,35.5253,134.2015,35.5253",
+    "geom:latitude":35.5253,
+    "geom:longitude":134.2015,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Tottoriken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Tottorishi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Okute",
     "gp:parent_id":"28469110",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        102031297,
+        "85632429",
+        85672685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26293376"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9f9088183ead7a0fde1e2f009fba86d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102031297,
+            "postalcode_id":538301515,
+            "region_id":85672685
+        }
+    ],
     "wof:id":538301515,
-    "wof:lastmodified":1460070977,
+    "wof:lastmodified":1462979800,
     "wof:name":"680-0904",
-    "wof:parent_id":-1,
+    "wof:parent_id":102031297,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    134.2015,
+    35.5253,
+    134.2015,
+    35.5253
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[134.20150000000001,35.5253],"type":"Point"}
 }

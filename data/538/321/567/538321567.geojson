@@ -5,34 +5,56 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"133.7945,34.2981,133.7945,34.2981",
+    "geom:latitude":34.2981,
+    "geom:longitude":133.7945,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Kagawaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Marugameshi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Minatomachi",
     "gp:parent_id":"28478606",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        102031559,
+        "85632429",
+        85672715
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26304062"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e93424d503c10a5d5e138fc9328d8589",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102031559,
+            "postalcode_id":538321567,
+            "region_id":85672715
+        }
+    ],
     "wof:id":538321567,
-    "wof:lastmodified":1460071871,
+    "wof:lastmodified":1462979888,
     "wof:name":"763-0042",
-    "wof:parent_id":-1,
+    "wof:parent_id":102031559,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    133.7945,
+    34.2981,
+    133.7945,
+    34.2981
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[133.7945,34.2981],"type":"Point"}
 }

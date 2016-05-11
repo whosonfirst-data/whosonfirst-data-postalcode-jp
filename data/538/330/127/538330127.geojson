@@ -5,34 +5,56 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"130.7913,33.9069,130.7913,33.9069",
+    "geom:latitude":33.9069,
+    "geom:longitude":130.7913,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Fukuokaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Kitakyuushuushiwakamatsuku",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Ootanimachi",
     "gp:parent_id":"28482436",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        102031615,
+        "85632429",
+        85672697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26308161"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"136580b64d7983ba9b9728e0dff30b35",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102031615,
+            "postalcode_id":538330127,
+            "region_id":85672697
+        }
+    ],
     "wof:id":538330127,
-    "wof:lastmodified":1460072371,
+    "wof:lastmodified":1462979940,
     "wof:name":"808-0051",
-    "wof:parent_id":-1,
+    "wof:parent_id":102031615,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    130.7913,
+    33.9069,
+    130.7913,
+    33.9069
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[130.79130000000001,33.9069],"type":"Point"}
 }

@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"135.8023,34.1966,135.8023,34.1966",
+    "geom:latitude":34.1966,
+    "geom:longitude":135.8023,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Naraken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Yoshinoguntenkawamura",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Komoriyama",
     "gp:parent_id":"28467388",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672779
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26291428"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"523d4511fde11f47ec534103e32785ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538297419,
+            "region_id":85672779
+        }
+    ],
     "wof:id":538297419,
-    "wof:lastmodified":1460070811,
+    "wof:lastmodified":1462979728,
     "wof:name":"638-0551",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672779,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    135.8023,
+    34.1966,
+    135.8023,
+    34.1966
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[135.8023,34.1966],"type":"Point"}
 }

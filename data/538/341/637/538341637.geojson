@@ -5,22 +5,31 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"129.6486,33.7232,129.6486,33.7232",
+    "geom:latitude":33.7232,
+    "geom:longitude":129.6486,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Nagasakiken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Ikigungounourachou",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Harashima",
     "gp:parent_id":"28487657",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
+    "mz:is_approximate":1,
+    "src:geom":"gn",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26313853"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"b8ddbffbc6712a5c18e91c7ff6583ed8",
     "wof:hierarchy":[],
     "wof:id":538341637,
-    "wof:lastmodified":1460072841,
+    "wof:lastmodified":1462979945,
     "wof:name":"811-5163",
     "wof:parent_id":-1,
     "wof:placetype":"postalcode",
@@ -29,10 +38,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    129.6486,
+    33.7232,
+    129.6486,
+    33.7232
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[129.64859999999999,33.7232],"type":"Point"}
 }

@@ -5,34 +5,56 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"135.7669,35.0299,135.7669,35.0299",
+    "geom:latitude":35.0299,
+    "geom:longitude":135.7669,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Kyoutofu",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Kyoutoshikamigyouku",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Yanagifurochou",
     "gp:parent_id":"28450750",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        102031567,
+        "85632429",
+        85672777
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26274984"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a4fc3d2b90705b3953dd8cc21b4ec04f",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102031567,
+            "postalcode_id":538261309,
+            "region_id":85672777
+        }
+    ],
     "wof:id":538261309,
-    "wof:lastmodified":1460069281,
+    "wof:lastmodified":1462979675,
     "wof:name":"602-0838",
-    "wof:parent_id":-1,
+    "wof:parent_id":102031567,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    135.7669,
+    35.0299,
+    135.7669,
+    35.0299
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[135.76689999999999,35.0299],"type":"Point"}
 }

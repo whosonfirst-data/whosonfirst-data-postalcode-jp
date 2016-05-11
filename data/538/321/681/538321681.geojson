@@ -5,22 +5,31 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"133.7811,34.3621,133.7811,34.3621",
+    "geom:latitude":34.3621,
+    "geom:longitude":133.7811,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Kagawaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Marugameshi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Ushijima",
     "gp:parent_id":"28478539",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
+    "mz:is_approximate":1,
+    "src:geom":"gn",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26304002"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"af47ab5becfe663e89d26b8376ad6714",
     "wof:hierarchy":[],
     "wof:id":538321681,
-    "wof:lastmodified":1460071875,
+    "wof:lastmodified":1462979888,
     "wof:name":"763-0231",
     "wof:parent_id":-1,
     "wof:placetype":"postalcode",
@@ -29,10 +38,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    133.7811,
+    34.3621,
+    133.7811,
+    34.3621
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[133.78110000000001,34.3621],"type":"Point"}
 }

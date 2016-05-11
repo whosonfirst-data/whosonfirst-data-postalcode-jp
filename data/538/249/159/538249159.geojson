@@ -5,22 +5,31 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"137.107,34.6301,137.107,34.6301",
+    "geom:latitude":34.6301,
+    "geom:longitude":137.107,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Aichiken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Atsumigun'Atsumichou",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Koda",
     "gp:parent_id":"28444798",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
+    "mz:is_approximate":1,
+    "src:geom":"gn",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26269778"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"a0a69f421e5c280ed9f05264881dc1b3",
     "wof:hierarchy":[],
     "wof:id":538249159,
-    "wof:lastmodified":1460068743,
+    "wof:lastmodified":1462979523,
     "wof:name":"441-3613",
     "wof:parent_id":-1,
     "wof:placetype":"postalcode",
@@ -29,10 +38,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    137.107,
+    34.6301,
+    137.107,
+    34.6301
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[137.107,34.6301],"type":"Point"}
 }

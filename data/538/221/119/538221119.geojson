@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"137.8497,36.5055,137.8497,36.5055",
+    "geom:latitude":36.5055,
+    "geom:longitude":137.8497,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Naganoken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Kitaadumigunyasakamura",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Yasakamuranotsuginibanchigakurubaai",
     "gp:parent_id":"24851723",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672749
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26256328"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bdd1e0ce990f6bb1d81160a568ffdfe0",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538221119,
+            "region_id":85672749
+        }
+    ],
     "wof:id":538221119,
-    "wof:lastmodified":1460067220,
+    "wof:lastmodified":1462979485,
     "wof:name":"399-7301",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672749,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    137.8497,
+    36.5055,
+    137.8497,
+    36.5055
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[137.84970000000001,36.5055],"type":"Point"}
 }

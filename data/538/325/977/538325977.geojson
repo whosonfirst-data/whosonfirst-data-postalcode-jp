@@ -5,22 +5,31 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"132.1504,33.3841,132.1504,33.3841",
+    "geom:latitude":33.3841,
+    "geom:longitude":132.1504,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Ehimeken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Nishiuwagunmisakichou",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Natori",
     "gp:parent_id":"1117866",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
+    "mz:is_approximate":1,
+    "src:geom":"gn",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26306008"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"68347e06a50716b3c121e97f8bbb37bd",
     "wof:hierarchy":[],
     "wof:id":538325977,
-    "wof:lastmodified":1460072093,
+    "wof:lastmodified":1462979923,
     "wof:name":"796-0816",
     "wof:parent_id":-1,
     "wof:placetype":"postalcode",
@@ -29,10 +38,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    132.1504,
+    33.3841,
+    132.1504,
+    33.3841
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[132.15039999999999,33.3841],"type":"Point"}
 }

@@ -5,22 +5,31 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"131.6946,33.9427,131.6946,33.9427",
+    "geom:latitude":33.9427,
+    "geom:longitude":131.6946,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Yamaguchiken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Houfushi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Noshima",
     "gp:parent_id":"28476534",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
+    "mz:is_approximate":1,
+    "src:geom":"gn",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26300884"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"9586c478ba4b25bc26c06779b7e18a38",
     "wof:hierarchy":[],
     "wof:id":538317931,
-    "wof:lastmodified":1460071705,
+    "wof:lastmodified":1462979875,
     "wof:name":"747-0832",
     "wof:parent_id":-1,
     "wof:placetype":"postalcode",
@@ -29,10 +38,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    131.6946,
+    33.9427,
+    131.6946,
+    33.9427
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[131.69460000000001,33.9427],"type":"Point"}
 }

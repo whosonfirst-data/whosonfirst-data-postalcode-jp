@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"141.0053,38.7385,141.0053,38.7385",
+    "geom:latitude":38.7385,
+    "geom:longitude":141.0053,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Miyagiken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Kuriharaguntsukidatechou",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Tomeba",
     "gp:parent_id":"1118424",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672843
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26213691"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"eef824c418f3b439ef8e1e8dc7265a1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538365517,
+            "region_id":85672843
+        }
+    ],
     "wof:id":538365517,
-    "wof:lastmodified":1460073662,
+    "wof:lastmodified":1462980221,
     "wof:name":"987-2272",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672843,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    141.0053,
+    38.7385,
+    141.0053,
+    38.7385
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[141.00530000000001,38.7385],"type":"Point"}
 }

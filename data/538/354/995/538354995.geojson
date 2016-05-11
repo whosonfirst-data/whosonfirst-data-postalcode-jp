@@ -5,22 +5,31 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"129.9284,28.3168,129.9284,28.3168",
+    "geom:latitude":28.3168,
+    "geom:longitude":129.9284,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Kagoshimaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Ooshimagunkikaichou",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Nakasato",
     "gp:parent_id":"28493640",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
+    "mz:is_approximate":1,
+    "src:geom":"gn",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26320034"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"f03aed90a7fc72da03c598db5736424f",
     "wof:hierarchy":[],
     "wof:id":538354995,
-    "wof:lastmodified":1460073323,
+    "wof:lastmodified":1462980040,
     "wof:name":"891-6203",
     "wof:parent_id":-1,
     "wof:placetype":"postalcode",
@@ -29,10 +38,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    129.9284,
+    28.3168,
+    129.9284,
+    28.3168
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[129.92840000000001,28.3168],"type":"Point"}
 }

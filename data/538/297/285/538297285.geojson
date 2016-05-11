@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"135.7803,34.4073,135.7803,34.4073",
+    "geom:latitude":34.4073,
+    "geom:longitude":135.7803,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Naraken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Yoshinogun'Ooyodochou",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Iwatsubo",
     "gp:parent_id":"28467329",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672779
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26291315"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5e2edb03aecb57d07dd8ac67ef31cdc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538297285,
+            "region_id":85672779
+        }
+    ],
     "wof:id":538297285,
-    "wof:lastmodified":1460070801,
+    "wof:lastmodified":1462979729,
     "wof:name":"638-0851",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672779,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    135.7803,
+    34.4073,
+    135.7803,
+    34.4073
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[135.78030000000001,34.4073],"type":"Point"}
 }

@@ -5,22 +5,31 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"132.5475,34.1781,132.5475,34.1781",
+    "geom:latitude":34.1781,
+    "geom:longitude":132.5475,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Hiroshimaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Akigun'Ondochou",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Hatami",
     "gp:parent_id":"28474385",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
+    "mz:is_approximate":1,
+    "src:geom":"gn",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26299447"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"4ee98faf70b16cecfadd4289fa8080b1",
     "wof:hierarchy":[],
     "wof:id":538313117,
-    "wof:lastmodified":1460071494,
+    "wof:lastmodified":1462979864,
     "wof:name":"737-1207",
     "wof:parent_id":-1,
     "wof:placetype":"postalcode",
@@ -29,10 +38,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    132.5475,
+    34.1781,
+    132.5475,
+    34.1781
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[132.54750000000001,34.1781],"type":"Point"}
 }

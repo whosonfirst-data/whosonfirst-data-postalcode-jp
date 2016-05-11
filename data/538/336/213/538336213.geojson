@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"130.1614,33.5079,130.1614,33.5079",
+    "geom:latitude":33.5079,
+    "geom:longitude":130.1614,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Fukuokaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Itoshimagunnijoumachi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Mitsuyoshi",
     "gp:parent_id":"28485158",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26310681"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2178c04f9f198b35396a97d624049734",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538336213,
+            "region_id":85672697
+        }
+    ],
     "wof:id":538336213,
-    "wof:lastmodified":1460072610,
+    "wof:lastmodified":1462979952,
     "wof:name":"819-1624",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672697,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    130.1614,
+    33.5079,
+    130.1614,
+    33.5079
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[130.16139999999999,33.5079],"type":"Point"}
 }

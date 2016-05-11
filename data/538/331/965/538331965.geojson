@@ -5,34 +5,56 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"130.3067,33.5778,130.3067,33.5778",
+    "geom:latitude":33.5778,
+    "geom:longitude":130.3067,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Fukuokaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Fukuokashinishiku",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Shimoyamatodanchi",
     "gp:parent_id":"28483291",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        102031795,
+        "85632429",
+        85672697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26308995"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e5bb28cbc7d8cbdb8c948b232d99534d",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102031795,
+            "postalcode_id":538331965,
+            "region_id":85672697
+        }
+    ],
     "wof:id":538331965,
-    "wof:lastmodified":1460072436,
+    "wof:lastmodified":1462979951,
     "wof:name":"819-0051",
-    "wof:parent_id":-1,
+    "wof:parent_id":102031795,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    130.3067,
+    33.5778,
+    130.3067,
+    33.5778
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[130.30670000000001,33.5778],"type":"Point"}
 }

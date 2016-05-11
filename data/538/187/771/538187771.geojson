@@ -5,34 +5,56 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"139.7063,35.2588,139.7063,35.2588",
+    "geom:latitude":35.2588,
+    "geom:longitude":139.7063,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Kanagawaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Yokosukashi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Maborichou",
     "gp:parent_id":"28416590",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        102031237,
+        "85632429",
+        85672805
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26239436"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"826c22a94b48159b4187a44e9ecf27db",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102031237,
+            "postalcode_id":538187771,
+            "region_id":85672805
+        }
+    ],
     "wof:id":538187771,
-    "wof:lastmodified":1460065604,
+    "wof:lastmodified":1462979354,
     "wof:name":"239-0802",
-    "wof:parent_id":-1,
+    "wof:parent_id":102031237,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    139.7063,
+    35.2588,
+    139.7063,
+    35.2588
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[139.7063,35.2588],"type":"Point"}
 }

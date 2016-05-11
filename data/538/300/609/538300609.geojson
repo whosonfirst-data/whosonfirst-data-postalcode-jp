@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"135.2678,33.8625,135.2678,33.8625",
+    "geom:latitude":33.8625,
+    "geom:longitude":135.2678,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Wakayamaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Hidakagun'Inamichou",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Misato",
     "gp:parent_id":"28468824",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672795
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26292898"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0ec9dbb89550676dfbaaeee0603e118b",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538300609,
+            "region_id":85672795
+        }
+    ],
     "wof:id":538300609,
-    "wof:lastmodified":1460070927,
+    "wof:lastmodified":1462979743,
     "wof:name":"649-1521",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672795,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    135.2678,
+    33.8625,
+    135.2678,
+    33.8625
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[135.26779999999999,33.8625],"type":"Point"}
 }

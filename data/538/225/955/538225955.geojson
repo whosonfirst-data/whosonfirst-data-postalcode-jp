@@ -5,34 +5,56 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"136.9282,35.4778,136.9282,35.4778",
+    "geom:latitude":35.4778,
+    "geom:longitude":136.9282,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Gifuken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Sekishi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Yayoichou",
     "gp:parent_id":"28434527",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        102031401,
+        "85632429",
+        85672735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26257899"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f59f4555bd74147346d1ca7b606f645d",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102031401,
+            "postalcode_id":538225955,
+            "region_id":85672735
+        }
+    ],
     "wof:id":538225955,
-    "wof:lastmodified":1460067541,
+    "wof:lastmodified":1462979585,
     "wof:name":"501-3902",
-    "wof:parent_id":-1,
+    "wof:parent_id":102031401,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    136.9282,
+    35.4778,
+    136.9282,
+    35.4778
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[136.9282,35.4778],"type":"Point"}
 }

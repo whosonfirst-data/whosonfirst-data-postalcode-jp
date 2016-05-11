@@ -5,34 +5,56 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"131.7846,33.1217,131.7846,33.1217",
+    "geom:latitude":33.1217,
+    "geom:longitude":131.7846,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Ooitaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Usukishi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Tomuro",
     "gp:parent_id":"28490827",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        102031265,
+        "85632429",
+        85672723
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26316845"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"590324e422d9a3563348d283b9858b7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102031265,
+            "postalcode_id":538348593,
+            "region_id":85672723
+        }
+    ],
     "wof:id":538348593,
-    "wof:lastmodified":1460073113,
+    "wof:lastmodified":1462980021,
     "wof:name":"875-0051",
-    "wof:parent_id":-1,
+    "wof:parent_id":102031265,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    131.7846,
+    33.1217,
+    131.7846,
+    33.1217
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[131.78460000000001,33.1217],"type":"Point"}
 }

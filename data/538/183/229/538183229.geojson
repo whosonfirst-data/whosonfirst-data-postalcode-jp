@@ -5,34 +5,56 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"139.6898,35.7682,139.6898,35.7682",
+    "geom:latitude":35.7682,
+    "geom:longitude":139.6898,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Toukyouto",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Itabashiku",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Maenochou",
     "gp:parent_id":"28414571",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        102031307,
+        "85632429",
+        85672817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26237259"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0b7c5f38390c8adb75bc0c9ed2175bbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102031307,
+            "postalcode_id":538183229,
+            "region_id":85672817
+        }
+    ],
     "wof:id":538183229,
-    "wof:lastmodified":1460065444,
+    "wof:lastmodified":1462979338,
     "wof:name":"174-0063",
-    "wof:parent_id":-1,
+    "wof:parent_id":102031307,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    139.6898,
+    35.7682,
+    139.6898,
+    35.7682
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[139.68979999999999,35.7682],"type":"Point"}
 }

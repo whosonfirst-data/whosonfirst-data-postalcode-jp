@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"140.064,38.3024,140.064,38.3024",
+    "geom:latitude":38.3024,
+    "geom:longitude":140.064,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Yamagataken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Nishimurayamagun'Asahimachi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Shirakura",
     "gp:parent_id":"28397626",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672853
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26217947"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d788cf67eeecfd7f58c35ef3f213f3af",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538145655,
+            "region_id":85672853
+        }
+    ],
     "wof:id":538145655,
-    "wof:lastmodified":1460063910,
+    "wof:lastmodified":1462980233,
     "wof:name":"990-1574",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672853,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    140.064,
+    38.3024,
+    140.064,
+    38.3024
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[140.06399999999999,38.3024],"type":"Point"}
 }

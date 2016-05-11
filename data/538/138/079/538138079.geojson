@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"141.4551,38.7775,141.4551,38.7775",
+    "geom:latitude":38.7775,
+    "geom:longitude":141.4551,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Miyagiken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Motoyoshigunmotoyoshichou",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Fukahagi",
     "gp:parent_id":"28394187",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672843
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26214516"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7d70101f3b44e9a26910b0d5013ed094",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538138079,
+            "region_id":85672843
+        }
+    ],
     "wof:id":538138079,
-    "wof:lastmodified":1460063631,
+    "wof:lastmodified":1462980223,
     "wof:name":"988-0363",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672843,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    141.4551,
+    38.7775,
+    141.4551,
+    38.7775
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[141.45509999999999,38.7775],"type":"Point"}
 }

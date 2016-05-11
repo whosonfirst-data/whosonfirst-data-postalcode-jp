@@ -5,34 +5,56 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"135.4711,34.8226,135.4711,34.8226",
+    "geom:latitude":34.8226,
+    "geom:longitude":135.4711,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Oosakafu",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Minooshi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Makiochi",
     "gp:parent_id":"28459829",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        102031537,
+        "85632429",
+        85672785
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26283718"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ce9f5d9109c5180b59da6044050cce7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102031537,
+            "postalcode_id":538280461,
+            "region_id":85672785
+        }
+    ],
     "wof:id":538280461,
-    "wof:lastmodified":1460070106,
+    "wof:lastmodified":1462979649,
     "wof:name":"562-0004",
-    "wof:parent_id":-1,
+    "wof:parent_id":102031537,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    135.4711,
+    34.8226,
+    135.4711,
+    34.8226
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[135.47110000000001,34.8226],"type":"Point"}
 }

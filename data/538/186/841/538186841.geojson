@@ -5,34 +5,56 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"139.504,35.4211,139.504,35.4211",
+    "geom:latitude":35.4211,
+    "geom:longitude":139.504,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Kanagawaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Yokohamashiizumiku",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Nakatachou",
     "gp:parent_id":"28416176",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        102031239,
+        "85632429",
+        85672805
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26239049"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fe3298d39c6188d43dd3a7ca45fdfd1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102031239,
+            "postalcode_id":538186841,
+            "region_id":85672805
+        }
+    ],
     "wof:id":538186841,
-    "wof:lastmodified":1460065571,
+    "wof:lastmodified":1462979356,
     "wof:name":"245-0011",
-    "wof:parent_id":-1,
+    "wof:parent_id":102031239,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    139.504,
+    35.4211,
+    139.504,
+    35.4211
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[139.50399999999999,35.4211],"type":"Point"}
 }

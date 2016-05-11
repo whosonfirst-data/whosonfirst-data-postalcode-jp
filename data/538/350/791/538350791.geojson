@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"131.25,31.9504,131.25,31.9504",
+    "geom:latitude":31.9504,
+    "geom:longitude":131.25,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Miyazakiken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Higashimorokataguntakaokachou",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Uranomyou(Sonota)",
     "gp:parent_id":"28491800",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672707
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26318532"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4bc5652b32568c8aa7401708ded009e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538350791,
+            "region_id":85672707
+        }
+    ],
     "wof:id":538350791,
-    "wof:lastmodified":1460073195,
+    "wof:lastmodified":1462980030,
     "wof:name":"880-2323",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672707,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    131.25,
+    31.9504,
+    131.25,
+    31.9504
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[131.25,31.9504],"type":"Point"}
 }

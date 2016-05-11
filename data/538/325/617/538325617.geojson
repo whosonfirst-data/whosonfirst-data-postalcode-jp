@@ -5,22 +5,31 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"133.1785,34.2714,133.1785,34.2714",
+    "geom:latitude":34.2714,
+    "geom:longitude":133.1785,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Ehimeken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Ochigun'Ikinamura",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Ikinamuraichien",
     "gp:parent_id":"28494675",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
+    "mz:is_approximate":1,
+    "src:geom":"gn",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26305688"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"c7f02203e5446ce80967bfc0091e7732",
     "wof:hierarchy":[],
     "wof:id":538325617,
-    "wof:lastmodified":1460072076,
+    "wof:lastmodified":1462979921,
     "wof:name":"794-2550",
     "wof:parent_id":-1,
     "wof:placetype":"postalcode",
@@ -29,10 +38,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    133.1785,
+    34.2714,
+    133.1785,
+    34.2714
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[133.17850000000001,34.2714],"type":"Point"}
 }

@@ -5,34 +5,56 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"140.3773,35.746,140.3773,35.746",
+    "geom:latitude":35.746,
+    "geom:longitude":140.3773,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Chibaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Naritashi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Sanriduka(Sonota)",
     "gp:parent_id":"1114143",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        102031933,
+        "85632429",
+        85672797
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26232595"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1aac65f1c5fb8104bb29f9b0c666d5e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102031933,
+            "postalcode_id":538176139,
+            "region_id":85672797
+        }
+    ],
     "wof:id":538176139,
-    "wof:lastmodified":1460065131,
+    "wof:lastmodified":1462979375,
     "wof:name":"286-0111",
-    "wof:parent_id":-1,
+    "wof:parent_id":102031933,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    140.3773,
+    35.746,
+    140.3773,
+    35.746
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[140.37729999999999,35.746],"type":"Point"}
 }

@@ -5,34 +5,56 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"136.5271,35.3756,136.5271,35.3756",
+    "geom:latitude":35.3756,
+    "geom:longitude":136.5271,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Gifuken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Fuwaguntaruichou",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Shimizu",
     "gp:parent_id":"28435858",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        102031331,
+        "85632429",
+        85672735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26258788"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c3178a67feb6f5df43e71f32729b3a21",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102031331,
+            "postalcode_id":538228959,
+            "region_id":85672735
+        }
+    ],
     "wof:id":538228959,
-    "wof:lastmodified":1460067694,
+    "wof:lastmodified":1462979594,
     "wof:name":"503-2113",
-    "wof:parent_id":-1,
+    "wof:parent_id":102031331,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    136.5271,
+    35.3756,
+    136.5271,
+    35.3756
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[136.52709999999999,35.3756],"type":"Point"}
 }

@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"138.9322,35.5948,138.9322,35.5948",
+    "geom:latitude":35.5948,
+    "geom:longitude":138.9322,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Yamanashiken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Tsurushi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Tanokura",
     "gp:parent_id":"28430563",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672821
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26254009"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"67d952a1d7682cb073585eda60fb5eb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538217677,
+            "region_id":85672821
+        }
+    ],
     "wof:id":538217677,
-    "wof:lastmodified":1460067058,
+    "wof:lastmodified":1462979488,
     "wof:name":"402-0001",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672821,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    138.9322,
+    35.5948,
+    138.9322,
+    35.5948
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[138.93219999999999,35.5948],"type":"Point"}
 }

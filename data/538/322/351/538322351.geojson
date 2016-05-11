@@ -5,22 +5,31 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"133.8335,34.3145,133.8335,34.3145",
+    "geom:latitude":34.3145,
+    "geom:longitude":133.8335,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Kagawaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Ayautagun'Utaduchou",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Sakashita",
     "gp:parent_id":"28478907",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
+    "mz:is_approximate":1,
+    "src:geom":"gn",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26304389"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"910ce47a2d4a64cfba5a1672fb6009dc",
     "wof:hierarchy":[],
     "wof:id":538322351,
-    "wof:lastmodified":1460071911,
+    "wof:lastmodified":1462979890,
     "wof:name":"769-0226",
     "wof:parent_id":-1,
     "wof:placetype":"postalcode",
@@ -29,10 +38,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    133.8335,
+    34.3145,
+    133.8335,
+    34.3145
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[133.83349999999999,34.3145],"type":"Point"}
 }

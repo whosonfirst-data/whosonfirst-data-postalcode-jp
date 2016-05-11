@@ -5,34 +5,56 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"139.5283,35.31,139.5283,35.31",
+    "geom:latitude":35.31,
+    "geom:longitude":139.5283,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Kanagawaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Kamakurashi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Gokurakuji",
     "gp:parent_id":"28416734",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        102031665,
+        "85632429",
+        85672805
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26239630"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9e52c4cbfd4043317fa51219c7e3b655",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102031665,
+            "postalcode_id":538188175,
+            "region_id":85672805
+        }
+    ],
     "wof:id":538188175,
-    "wof:lastmodified":1460065618,
+    "wof:lastmodified":1462979357,
     "wof:name":"248-0023",
-    "wof:parent_id":-1,
+    "wof:parent_id":102031665,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    139.5283,
+    35.31,
+    139.5283,
+    35.31
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[139.5283,35.31],"type":"Point"}
 }

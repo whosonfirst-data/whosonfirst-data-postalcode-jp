@@ -5,22 +5,31 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"132.5199,34.2567,132.5199,34.2567",
+    "geom:latitude":34.2567,
+    "geom:longitude":132.5199,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Hiroshimaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Kureshi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Yoshiurachou(Otomawari)",
     "gp:parent_id":"28474292",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
+    "mz:is_approximate":1,
+    "src:geom":"gn",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26298591"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"ab043cbe1d8577fa98c3cc38fb4ccac8",
     "wof:hierarchy":[],
     "wof:id":538371073,
-    "wof:lastmodified":1460073847,
+    "wof:lastmodified":1462979863,
     "wof:name":"737-0846",
     "wof:parent_id":-1,
     "wof:placetype":"postalcode",
@@ -29,10 +38,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    132.5199,
+    34.2567,
+    132.5199,
+    34.2567
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[132.51990000000001,34.2567],"type":"Point"}
 }

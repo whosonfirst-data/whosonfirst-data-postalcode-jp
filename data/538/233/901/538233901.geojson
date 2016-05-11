@@ -5,34 +5,56 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"138.3019,34.8595,138.3019,34.8595",
+    "geom:latitude":34.8595,
+    "geom:longitude":138.3019,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Shizuokaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Yaidushi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Sangamyou",
     "gp:parent_id":"28437967",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        102031255,
+        "85632429",
+        85672753
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26261577"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"47b0797911d39cc66f0e566aa1b276f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102031255,
+            "postalcode_id":538233901,
+            "region_id":85672753
+        }
+    ],
     "wof:id":538233901,
-    "wof:lastmodified":1460067938,
+    "wof:lastmodified":1462979509,
     "wof:name":"425-0071",
-    "wof:parent_id":-1,
+    "wof:parent_id":102031255,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    138.3019,
+    34.8595,
+    138.3019,
+    34.8595
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[138.30189999999999,34.8595],"type":"Point"}
 }

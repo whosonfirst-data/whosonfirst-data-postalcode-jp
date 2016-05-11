@@ -5,34 +5,56 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"135.0601,34.6314,135.0601,34.6314",
+    "geom:latitude":34.6314,
+    "geom:longitude":135.0601,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Hyougoken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Koubeshitarumiku",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Sakagami",
     "gp:parent_id":"28461000",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        102031613,
+        "85632429",
+        85672769
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26284928"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3022858b0de3d4033fcd01b7637ced0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102031613,
+            "postalcode_id":538283247,
+            "region_id":85672769
+        }
+    ],
     "wof:id":538283247,
-    "wof:lastmodified":1460070215,
+    "wof:lastmodified":1462979753,
     "wof:name":"655-0895",
-    "wof:parent_id":-1,
+    "wof:parent_id":102031613,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    135.0601,
+    34.6314,
+    135.0601,
+    34.6314
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[135.06010000000001,34.6314],"type":"Point"}
 }

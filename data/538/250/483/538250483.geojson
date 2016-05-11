@@ -5,22 +5,31 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"137.0424,34.7238,137.0424,34.7238",
+    "geom:latitude":34.7238,
+    "geom:longitude":137.0424,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Aichiken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Hazugun'Isshikichou",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Sakushima",
     "gp:parent_id":"28445419",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
+    "mz:is_approximate":1,
+    "src:geom":"gn",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26269278"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"ad20a7a77a1a5772e2a72e2fde2fcb8b",
     "wof:hierarchy":[],
     "wof:id":538250483,
-    "wof:lastmodified":1460068814,
+    "wof:lastmodified":1462979527,
     "wof:name":"444-0416",
     "wof:parent_id":-1,
     "wof:placetype":"postalcode",
@@ -29,10 +38,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    137.0424,
+    34.7238,
+    137.0424,
+    34.7238
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[137.04239999999999,34.7238],"type":"Point"}
 }

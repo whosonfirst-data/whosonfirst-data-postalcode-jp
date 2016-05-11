@@ -5,34 +5,56 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"138.2676,34.8835,138.2676,34.8835",
+    "geom:latitude":34.8835,
+    "geom:longitude":138.2676,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Shizuokaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Fujiedashi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Fujioka(1-3,5choume)",
     "gp:parent_id":"28438214",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        102031807,
+        "85632429",
+        85672753
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26261836"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"be83da3a488bb2b9c7ed1e7de66571c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102031807,
+            "postalcode_id":538234323,
+            "region_id":85672753
+        }
+    ],
     "wof:id":538234323,
-    "wof:lastmodified":1460067953,
+    "wof:lastmodified":1462979509,
     "wof:name":"426-0006",
-    "wof:parent_id":-1,
+    "wof:parent_id":102031807,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    138.2676,
+    34.8835,
+    138.2676,
+    34.8835
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[138.26759999999999,34.8835],"type":"Point"}
 }

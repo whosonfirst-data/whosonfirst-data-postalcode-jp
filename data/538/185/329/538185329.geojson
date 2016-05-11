@@ -5,22 +5,31 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"139.4936,34.0977,139.4936,34.0977",
+    "geom:latitude":34.0977,
+    "geom:longitude":139.4936,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Toukyouto",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Miyakejimamiyakemura",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Igaya",
     "gp:parent_id":"28415514",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
+    "mz:is_approximate":1,
+    "src:geom":"gn",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26238224"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"3cbe5aa617a55072ce3d2cfc52ab029b",
     "wof:hierarchy":[],
     "wof:id":538185329,
-    "wof:lastmodified":1460065516,
+    "wof:lastmodified":1462979329,
     "wof:name":"100-1103",
     "wof:parent_id":-1,
     "wof:placetype":"postalcode",
@@ -29,10 +38,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    139.4936,
+    34.0977,
+    139.4936,
+    34.0977
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[139.49359999999999,34.0977],"type":"Point"}
 }

@@ -5,22 +5,31 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"134.8471,34.4745,134.8471,34.4745",
+    "geom:latitude":34.4745,
+    "geom:longitude":134.8471,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Hyougoken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Tsunagun'Ichinomiyachou",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Gunge",
     "gp:parent_id":"28464744",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
+    "mz:is_approximate":1,
+    "src:geom":"gn",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26289537"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"87a1cc5b0bbca5755fe2f034157a036a",
     "wof:hierarchy":[],
     "wof:id":538291365,
-    "wof:lastmodified":1460070559,
+    "wof:lastmodified":1462979755,
     "wof:name":"656-1511",
     "wof:parent_id":-1,
     "wof:placetype":"postalcode",
@@ -29,10 +38,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    134.8471,
+    34.4745,
+    134.8471,
+    34.4745
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[134.84710000000001,34.4745],"type":"Point"}
 }

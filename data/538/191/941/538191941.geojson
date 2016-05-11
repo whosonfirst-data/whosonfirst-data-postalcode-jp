@@ -5,22 +5,31 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"138.7974,37.7369,138.7974,37.7369",
+    "geom:latitude":37.7369,
+    "geom:longitude":138.7974,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Niigataken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Nishikanbaragun'Iwamuromura",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Maze",
     "gp:parent_id":"55808593",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
+    "mz:is_approximate":1,
+    "src:geom":"gn",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26243569"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"a464fd63641b7106c9b7238a56db1453",
     "wof:hierarchy":[],
     "wof:id":538191941,
-    "wof:lastmodified":1460065888,
+    "wof:lastmodified":1462980159,
     "wof:name":"953-0105",
     "wof:parent_id":-1,
     "wof:placetype":"postalcode",
@@ -29,10 +38,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    138.7974,
+    37.7369,
+    138.7974,
+    37.7369
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[138.79740000000001,37.7369],"type":"Point"}
 }

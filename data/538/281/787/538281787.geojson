@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"135.6589,34.8901,135.6589,34.8901",
+    "geom:latitude":34.8901,
+    "geom:longitude":135.6589,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Oosakafu",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Mishimagunshimamotochou",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Wakayamadai",
     "gp:parent_id":"28460398",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672777
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26284282"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4498f137adafec390bf842a354413b5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538281787,
+            "region_id":85672777
+        }
+    ],
     "wof:id":538281787,
-    "wof:lastmodified":1460070158,
+    "wof:lastmodified":1462979704,
     "wof:name":"618-0024",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672777,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    135.6589,
+    34.8901,
+    135.6589,
+    34.8901
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[135.65889999999999,34.8901],"type":"Point"}
 }

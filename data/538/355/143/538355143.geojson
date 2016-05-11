@@ -5,22 +5,31 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"128.6559,27.4006,128.6559,27.4006",
+    "geom:latitude":27.4006,
+    "geom:longitude":128.6559,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Kagoshimaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Ooshimagunwadomarichou",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Tedechina",
     "gp:parent_id":"28493698",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
+    "mz:is_approximate":1,
+    "src:geom":"gn",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26320111"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"4631cdc9679eacec3fc6eed5f9e53476",
     "wof:hierarchy":[],
     "wof:id":538355143,
-    "wof:lastmodified":1460073327,
+    "wof:lastmodified":1462980041,
     "wof:name":"891-9111",
     "wof:parent_id":-1,
     "wof:placetype":"postalcode",
@@ -29,10 +38,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    128.6559,
+    27.4006,
+    128.6559,
+    27.4006
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[128.6559,27.4006],"type":"Point"}
 }

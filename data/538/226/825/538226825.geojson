@@ -5,34 +5,56 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"137.2034,35.3589,137.2034,35.3589",
+    "geom:latitude":35.3589,
+    "geom:longitude":137.2034,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Gifuken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Tokishi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Hidachouasano",
     "gp:parent_id":"28434923",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        102031315,
+        "85632429",
+        85672735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26258194"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ffab7e52851c1bb081c902e587bb81f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102031315,
+            "postalcode_id":538226825,
+            "region_id":85672735
+        }
+    ],
     "wof:id":538226825,
-    "wof:lastmodified":1460067593,
+    "wof:lastmodified":1462979604,
     "wof:name":"509-5114",
-    "wof:parent_id":-1,
+    "wof:parent_id":102031315,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    137.2034,
+    35.3589,
+    137.2034,
+    35.3589
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[137.20339999999999,35.3589],"type":"Point"}
 }

@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"139.861,38.0112,139.861,38.0112",
+    "geom:latitude":38.0112,
+    "geom:longitude":139.861,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Yamagataken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Nishiokitamagun'Ogunimachi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Shirakozawa",
     "gp:parent_id":"28397846",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672853
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26218164"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"15e72559d9aa9bffbd9b5203be4b25f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538146031,
+            "region_id":85672853
+        }
+    ],
     "wof:id":538146031,
-    "wof:lastmodified":1460063921,
+    "wof:lastmodified":1462980242,
     "wof:name":"999-1202",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672853,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    139.861,
+    38.0112,
+    139.861,
+    38.0112
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[139.86099999999999,38.0112],"type":"Point"}
 }

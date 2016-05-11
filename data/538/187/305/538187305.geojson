@@ -5,34 +5,56 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"139.666,35.5807,139.666,35.5807",
+    "geom:latitude":35.5807,
+    "geom:longitude":139.666,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Kanagawaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Kawasakishinakaharaku",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Kamimarukohachimanchou",
     "gp:parent_id":"28416386",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        102031627,
+        "85632429",
+        85672805
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26239257"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"83308f9618139acc5f2d78d4b4150bf8",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102031627,
+            "postalcode_id":538187305,
+            "region_id":85672805
+        }
+    ],
     "wof:id":538187305,
-    "wof:lastmodified":1460065588,
+    "wof:lastmodified":1462979345,
     "wof:name":"211-0001",
-    "wof:parent_id":-1,
+    "wof:parent_id":102031627,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    139.666,
+    35.5807,
+    139.666,
+    35.5807
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[139.666,35.5807],"type":"Point"}
 }

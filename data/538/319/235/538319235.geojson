@@ -5,22 +5,31 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"132.3589,33.9115,132.3589,33.9115",
+    "geom:latitude":33.9115,
+    "geom:longitude":132.3589,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Yamaguchiken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Ooshimaguntouwachou",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Mori",
     "gp:parent_id":"28477140",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
+    "mz:is_approximate":1,
+    "src:geom":"gn",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26301674"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"800014f7877fa707bac0a9015345f258",
     "wof:hierarchy":[],
     "wof:id":538319235,
-    "wof:lastmodified":1460071762,
+    "wof:lastmodified":1462979870,
     "wof:name":"742-2513",
     "wof:parent_id":-1,
     "wof:placetype":"postalcode",
@@ -29,10 +38,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    132.3589,
+    33.9115,
+    132.3589,
+    33.9115
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[132.35890000000001,33.9115],"type":"Point"}
 }

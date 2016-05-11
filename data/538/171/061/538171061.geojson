@@ -5,34 +5,56 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"139.8217,35.8534,139.8217,35.8534",
+    "geom:latitude":35.8534,
+    "geom:longitude":139.8217,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Saitamaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Soukashi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Aoyagi",
     "gp:parent_id":"28409188",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        102031591,
+        "85632429",
+        85672807
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26229971"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"70e09e2a605a55eed09fc92c1807ddf4",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102031591,
+            "postalcode_id":538171061,
+            "region_id":85672807
+        }
+    ],
     "wof:id":538171061,
-    "wof:lastmodified":1460064909,
+    "wof:lastmodified":1462979436,
     "wof:name":"340-0002",
-    "wof:parent_id":-1,
+    "wof:parent_id":102031591,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    139.8217,
+    35.8534,
+    139.8217,
+    35.8534
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[139.82169999999999,35.8534],"type":"Point"}
 }

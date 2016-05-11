@@ -5,34 +5,56 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"127.73,26.4215,127.73,26.4215",
+    "geom:latitude":26.4215,
+    "geom:longitude":127.73,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Okinawaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Nakagamigunyomitanson",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Senaha",
     "gp:parent_id":"28494272",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        102032201,
+        "85632429",
+        85672867
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26320643"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"481e7f07bcf0bea360b6c8a9eb5eada8",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102032201,
+            "postalcode_id":538356503,
+            "region_id":85672867
+        }
+    ],
     "wof:id":538356503,
-    "wof:lastmodified":1460073372,
+    "wof:lastmodified":1462980055,
     "wof:name":"904-0325",
-    "wof:parent_id":-1,
+    "wof:parent_id":102032201,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    127.73,
+    26.4215,
+    127.73,
+    26.4215
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[127.73,26.4215],"type":"Point"}
 }

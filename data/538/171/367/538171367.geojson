@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"139.6411,35.8259,139.6411,35.8259",
+    "geom:latitude":35.8259,
+    "geom:longitude":139.6411,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Saitamaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Todashi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Bijogi",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
+    "mz:is_approximate":1,
+    "src:geom":"gn",
     "wof:belongsto":[
         "102191569",
         102031869,
@@ -21,7 +30,7 @@
         "gp:id":"26230109"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"b2d2f3eae2f4a0894dd2b53d6e03b6fc",
     "wof:hierarchy":[
         {
             "continent_id":"102191569",
@@ -32,19 +41,19 @@
         }
     ],
     "wof:id":538171367,
-    "wof:lastmodified":1460064930,
+    "wof:lastmodified":1462979434,
     "wof:name":"335-0031",
-    "wof:parent_id":"102031869",
+    "wof:parent_id":102031869,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    139.6411,
+    35.8259,
+    139.6411,
+    35.8259
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[139.64109999999999,35.8259],"type":"Point"}
 }

@@ -5,22 +5,31 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"134.5987,34.7671,134.5987,34.7671",
+    "geom:latitude":34.7671,
+    "geom:longitude":134.5987,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Hyougoken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Himejishi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Aboshikuaboshihama",
     "gp:parent_id":"28461786",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
+    "mz:is_approximate":1,
+    "src:geom":"gn",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26285427"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"618726c88a855421bf824b4747563022",
     "wof:hierarchy":[],
     "wof:id":538284665,
-    "wof:lastmodified":1460070299,
+    "wof:lastmodified":1462979778,
     "wof:name":"671-1236",
     "wof:parent_id":-1,
     "wof:placetype":"postalcode",
@@ -29,10 +38,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    134.5987,
+    34.7671,
+    134.5987,
+    34.7671
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[134.59870000000001,34.7671],"type":"Point"}
 }

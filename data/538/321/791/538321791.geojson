@@ -5,22 +5,31 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"133.8384,34.3473,133.8384,34.3473",
+    "geom:latitude":34.3473,
+    "geom:longitude":133.8384,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Kagawaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Sakaideshi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Bannosuchou",
     "gp:parent_id":"28478665",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
+    "mz:is_approximate":1,
+    "src:geom":"gn",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26304114"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"1d4743b014ee444df42b39b7590e5f6c",
     "wof:hierarchy":[],
     "wof:id":538321791,
-    "wof:lastmodified":1460071878,
+    "wof:lastmodified":1462979888,
     "wof:name":"762-0064",
     "wof:parent_id":-1,
     "wof:placetype":"postalcode",
@@ -29,10 +38,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    133.8384,
+    34.3473,
+    133.8384,
+    34.3473
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[133.83840000000001,34.3473],"type":"Point"}
 }

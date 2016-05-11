@@ -5,34 +5,56 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"139.5087,36.0635,139.5087,36.0635",
+    "geom:latitude":36.0635,
+    "geom:longitude":139.5087,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Saitamaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Kounosushi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Raiden",
     "gp:parent_id":"28408955",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        102031595,
+        "85632429",
+        85672807
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26229796"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"aed8d924e1c58a7d4b9dc883947ba62d",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102031595,
+            "postalcode_id":538170661,
+            "region_id":85672807
+        }
+    ],
     "wof:id":538170661,
-    "wof:lastmodified":1460064886,
+    "wof:lastmodified":1462979453,
     "wof:name":"365-0077",
-    "wof:parent_id":-1,
+    "wof:parent_id":102031595,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    139.5087,
+    36.0635,
+    139.5087,
+    36.0635
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[139.5087,36.0635],"type":"Point"}
 }

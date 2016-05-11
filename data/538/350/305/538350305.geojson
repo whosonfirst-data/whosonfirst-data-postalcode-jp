@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"131.5456,33.3889,131.5456,33.3889",
+    "geom:latitude":33.3889,
+    "geom:longitude":131.5456,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Ooitaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Hayamigunhijimachi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Fujihara",
     "gp:parent_id":"28491589",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672723
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26317220"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1c49c2ade9f5591a3a5b004119b4fb69",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538350305,
+            "region_id":85672723
+        }
+    ],
     "wof:id":538350305,
-    "wof:lastmodified":1460073179,
+    "wof:lastmodified":1462980026,
     "wof:name":"879-1502",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672723,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    131.5456,
+    33.3889,
+    131.5456,
+    33.3889
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[131.54560000000001,33.3889],"type":"Point"}
 }

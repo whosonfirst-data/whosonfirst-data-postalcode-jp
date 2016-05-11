@@ -5,14 +5,22 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"131.7067,33.2581,131.7067,33.2581",
+    "geom:latitude":33.2581,
+    "geom:longitude":131.7067,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Ooitaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Ooitashi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Aosaki",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
+    "mz:is_approximate":1,
+    "src:geom":"gn",
     "wof:belongsto":[
         "102191569",
-        102031459,
         "85632429",
         85672723
     ],
@@ -21,30 +29,29 @@
         "gp:id":"26316036"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"2eb34d6da768c3770a30294c3ca19005",
     "wof:hierarchy":[
         {
             "continent_id":"102191569",
             "country_id":"85632429",
-            "locality_id":102031459,
             "postalcode_id":538347127,
             "region_id":85672723
         }
     ],
     "wof:id":538347127,
-    "wof:lastmodified":1460073065,
+    "wof:lastmodified":1462980013,
     "wof:name":"870-0278",
-    "wof:parent_id":"102031459",
+    "wof:parent_id":85672723,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    131.7067,
+    33.2581,
+    131.7067,
+    33.2581
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[131.70670000000001,33.2581],"type":"Point"}
 }

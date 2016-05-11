@@ -5,14 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"132.7139,33.8021,132.7139,33.8021",
+    "geom:latitude":33.8021,
+    "geom:longitude":132.7139,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Ehimeken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Iyogunmasakichou",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Ikanikeisaiganaibaai",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
+    "mz:is_approximate":1,
+    "src:geom":"gn",
     "wof:belongsto":[
         "102191569",
-        102031887,
+        102031885,
         "85632429",
         85672711
     ],
@@ -21,30 +30,30 @@
         "gp:id":"26305814"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"3569e8387d6100d3cc46a6fe1867929e",
     "wof:hierarchy":[
         {
             "continent_id":"102191569",
             "country_id":"85632429",
-            "locality_id":102031887,
+            "locality_id":102031885,
             "postalcode_id":538376545,
             "region_id":85672711
         }
     ],
     "wof:id":538376545,
-    "wof:lastmodified":1460074032,
+    "wof:lastmodified":1462979916,
     "wof:name":"791-3100",
-    "wof:parent_id":"102031887",
+    "wof:parent_id":102031885,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    132.7139,
+    33.8021,
+    132.7139,
+    33.8021
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[132.7139,33.8021],"type":"Point"}
 }

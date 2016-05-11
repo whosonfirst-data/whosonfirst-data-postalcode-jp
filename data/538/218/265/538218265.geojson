@@ -5,34 +5,56 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"138.3893,35.8249,138.3893,35.8249",
+    "geom:latitude":35.8249,
+    "geom:longitude":138.3893,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Yamanashiken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Kitakomagunnagasakachou",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Natsuaki",
     "gp:parent_id":"28430832",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        102032249,
+        "85632429",
+        85672821
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26254663"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1233215bd3ce924a2754f2337d5c43ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102032249,
+            "postalcode_id":538218265,
+            "region_id":85672821
+        }
+    ],
     "wof:id":538218265,
-    "wof:lastmodified":1460067084,
+    "wof:lastmodified":1462979491,
     "wof:name":"408-0035",
-    "wof:parent_id":-1,
+    "wof:parent_id":102032249,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    138.3893,
+    35.8249,
+    138.3893,
+    35.8249
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[138.38929999999999,35.8249],"type":"Point"}
 }

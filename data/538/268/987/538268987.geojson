@@ -5,34 +5,56 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"135.7573,34.9284,135.7573,34.9284",
+    "geom:latitude":34.9284,
+    "geom:longitude":135.7573,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Kyoutofu",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Kyoutoshifushimiku",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Shinnakachou",
     "gp:parent_id":"28453663",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        102031567,
+        "85632429",
+        85672777
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26277912"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"73d5b3d28cf84280c6ce3bf9cb39327c",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102031567,
+            "postalcode_id":538268987,
+            "region_id":85672777
+        }
+    ],
     "wof:id":538268987,
-    "wof:lastmodified":1460069611,
+    "wof:lastmodified":1462979694,
     "wof:name":"612-8215",
-    "wof:parent_id":-1,
+    "wof:parent_id":102031567,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    135.7573,
+    34.9284,
+    135.7573,
+    34.9284
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[135.75729999999999,34.9284],"type":"Point"}
 }

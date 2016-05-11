@@ -5,22 +5,31 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"128.6277,27.372,128.6277,27.372",
+    "geom:latitude":27.372,
+    "geom:longitude":128.6277,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Kagoshimaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Ooshimagunwadomarichou",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Minakawa",
     "gp:parent_id":"28493704",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
+    "mz:is_approximate":1,
+    "src:geom":"gn",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26320103"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"723a0183cb0cecd67173ddb2b3e68394",
     "wof:hierarchy":[],
     "wof:id":538355159,
-    "wof:lastmodified":1460073328,
+    "wof:lastmodified":1462980041,
     "wof:name":"891-9123",
     "wof:parent_id":-1,
     "wof:placetype":"postalcode",
@@ -29,10 +38,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    128.6277,
+    27.372,
+    128.6277,
+    27.372
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[128.6277,27.372],"type":"Point"}
 }

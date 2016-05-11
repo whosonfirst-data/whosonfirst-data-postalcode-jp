@@ -5,34 +5,56 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"140.8986,38.2761,140.8986,38.2761",
+    "geom:latitude":38.2761,
+    "geom:longitude":140.8986,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Miyagiken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Sendaishimiyaginoku",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Saiwaichou",
     "gp:parent_id":"28391049",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        102031919,
+        "85632429",
+        85672843
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26211741"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cc94c3d3924a6d19c83dc404cb035b39",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102031919,
+            "postalcode_id":538133613,
+            "region_id":85672843
+        }
+    ],
     "wof:id":538133613,
-    "wof:lastmodified":1460063473,
+    "wof:lastmodified":1462980214,
     "wof:name":"983-0836",
-    "wof:parent_id":-1,
+    "wof:parent_id":102031919,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    140.8986,
+    38.2761,
+    140.8986,
+    38.2761
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[140.89859999999999,38.2761],"type":"Point"}
 }

@@ -5,34 +5,56 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"135.4994,34.8307,135.4994,34.8307",
+    "geom:latitude":34.8307,
+    "geom:longitude":135.4994,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Oosakafu",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Minooshi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Imamiya",
     "gp:parent_id":"28459812",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        102031537,
+        "85632429",
+        85672785
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26283723"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5fa946d6523015dfe7057b52765812f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102031537,
+            "postalcode_id":538280501,
+            "region_id":85672785
+        }
+    ],
     "wof:id":538280501,
-    "wof:lastmodified":1460070107,
+    "wof:lastmodified":1462979650,
     "wof:name":"562-0033",
-    "wof:parent_id":-1,
+    "wof:parent_id":102031537,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    135.4994,
+    34.8307,
+    135.4994,
+    34.8307
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[135.49940000000001,34.8307],"type":"Point"}
 }

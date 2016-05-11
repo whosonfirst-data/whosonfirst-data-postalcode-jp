@@ -5,34 +5,56 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"135.7498,35.0209,135.7498,35.0209",
+    "geom:latitude":35.0209,
+    "geom:longitude":135.7498,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Kyoutofu",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Kyoutoshikamigyouku",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Kitakaniyachou",
     "gp:parent_id":"28450316",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        102031567,
+        "85632429",
+        85672777
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26275091"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1e6ac5c5b8644f278c0963e85b8d620b",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102031567,
+            "postalcode_id":538261691,
+            "region_id":85672777
+        }
+    ],
     "wof:id":538261691,
-    "wof:lastmodified":1460069301,
+    "wof:lastmodified":1462979676,
     "wof:name":"602-8115",
-    "wof:parent_id":-1,
+    "wof:parent_id":102031567,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    135.7498,
+    35.0209,
+    135.7498,
+    35.0209
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[135.74979999999999,35.0209],"type":"Point"}
 }

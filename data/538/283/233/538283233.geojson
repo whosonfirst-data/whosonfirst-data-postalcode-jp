@@ -5,34 +5,56 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"135.0657,34.6323,135.0657,34.6323",
+    "geom:latitude":34.6323,
+    "geom:longitude":135.0657,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Hyougoken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Koubeshitarumiku",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Izumigaoka",
     "gp:parent_id":"28460987",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        102031613,
+        "85632429",
+        85672769
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26284921"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d4aa1ce4c25c09b8cce53b9a7065f549",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102031613,
+            "postalcode_id":538283233,
+            "region_id":85672769
+        }
+    ],
     "wof:id":538283233,
-    "wof:lastmodified":1460070215,
+    "wof:lastmodified":1462979753,
     "wof:name":"655-0885",
-    "wof:parent_id":-1,
+    "wof:parent_id":102031613,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    135.0657,
+    34.6323,
+    135.0657,
+    34.6323
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[135.06569999999999,34.6323],"type":"Point"}
 }

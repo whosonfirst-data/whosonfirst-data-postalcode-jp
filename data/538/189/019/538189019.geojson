@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"139.6169,35.1352,139.6169,35.1352",
+    "geom:latitude":35.1352,
+    "geom:longitude":139.6169,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Kanagawaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Miurashi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Misakimachijougashima",
     "gp:parent_id":"28417095",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672805
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26239962"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8eb38860cdd4e2cce130620f6c7f3522",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538189019,
+            "region_id":85672805
+        }
+    ],
     "wof:id":538189019,
-    "wof:lastmodified":1460065756,
+    "wof:lastmodified":1462979353,
     "wof:name":"238-0237",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672805,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    139.6169,
+    35.1352,
+    139.6169,
+    35.1352
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[139.61689999999999,35.1352],"type":"Point"}
 }

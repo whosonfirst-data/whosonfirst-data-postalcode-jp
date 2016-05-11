@@ -5,46 +5,53 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"135.7308,34.7923,135.7308,34.7923",
+    "geom:latitude":34.7923,
+    "geom:longitude":135.7308,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Oosakafu",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Hirakatashi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Hotani",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
+    "mz:is_approximate":1,
+    "src:geom":"gn",
     "wof:belongsto":[
         "102191569",
-        102031739,
         "85632429",
-        85672785
+        85672777
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26282848"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"100ff101fff6d50f12ae05424fb8bfb4",
     "wof:hierarchy":[
         {
             "continent_id":"102191569",
             "country_id":"85632429",
-            "locality_id":102031739,
             "postalcode_id":538278383,
-            "region_id":85672785
+            "region_id":85672777
         }
     ],
     "wof:id":538278383,
-    "wof:lastmodified":1460070006,
+    "wof:lastmodified":1462979655,
     "wof:name":"573-0114",
-    "wof:parent_id":"102031739",
+    "wof:parent_id":85672777,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    135.7308,
+    34.7923,
+    135.7308,
+    34.7923
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[135.73079999999999,34.7923],"type":"Point"}
 }

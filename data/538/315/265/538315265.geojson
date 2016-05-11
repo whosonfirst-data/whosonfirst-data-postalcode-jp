@@ -5,34 +5,52 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"132.3326,34.3534,132.3326,34.3534",
+    "geom:latitude":34.3534,
+    "geom:longitude":132.3326,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Hiroshimaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Hatsukaichishi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Kaai",
     "gp:parent_id":"28475303",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        102031757,
+        85632429
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26299295"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3907b70dd967ca51a4c8023ffaa6d6f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632429,
+            "locality_id":102031757,
+            "postalcode_id":538315265
+        }
+    ],
     "wof:id":538315265,
-    "wof:lastmodified":1460071587,
+    "wof:lastmodified":1462979864,
     "wof:name":"738-0016",
-    "wof:parent_id":-1,
+    "wof:parent_id":102031757,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    132.3326,
+    34.3534,
+    132.3326,
+    34.3534
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[132.33260000000001,34.3534],"type":"Point"}
 }

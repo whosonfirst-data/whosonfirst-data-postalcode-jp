@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"135.2896,33.9391,135.2896,33.9391",
+    "geom:latitude":33.9391,
+    "geom:longitude":135.2896,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Wakayamaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Hidakagunnakatsumura",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Sai",
     "gp:parent_id":"28468876",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672795
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26292826"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"09d918ed185703f69453cb8dd5e8bc80",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538300741,
+            "region_id":85672795
+        }
+    ],
     "wof:id":538300741,
-    "wof:lastmodified":1460070943,
+    "wof:lastmodified":1462979738,
     "wof:name":"644-1164",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672795,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    135.2896,
+    33.9391,
+    135.2896,
+    33.9391
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[135.28960000000001,33.9391],"type":"Point"}
 }

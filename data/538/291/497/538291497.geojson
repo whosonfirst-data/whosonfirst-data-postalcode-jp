@@ -5,22 +5,31 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"134.9346,34.4561,134.9346,34.4561",
+    "geom:latitude":34.4561,
+    "geom:longitude":134.9346,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Hyougoken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Tsunaguntsunachou",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Sanoniijima",
     "gp:parent_id":"28464750",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
+    "mz:is_approximate":1,
+    "src:geom":"gn",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26289493"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"55a034f9477f5981fbb45fb009006461",
     "wof:hierarchy":[],
     "wof:id":538291497,
-    "wof:lastmodified":1460070563,
+    "wof:lastmodified":1462979756,
     "wof:name":"656-2213",
     "wof:parent_id":-1,
     "wof:placetype":"postalcode",
@@ -29,10 +38,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    134.9346,
+    34.4561,
+    134.9346,
+    34.4561
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[134.93459999999999,34.4561],"type":"Point"}
 }

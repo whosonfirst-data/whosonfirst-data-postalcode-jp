@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"131.4346,33.5602,131.4346,33.5602",
+    "geom:latitude":33.5602,
+    "geom:longitude":131.4346,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Ooitaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Bungotakadashi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Takada",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
+    "mz:is_approximate":1,
+    "src:geom":"gn",
     "wof:belongsto":[
         "102191569",
         102031357,
@@ -21,7 +30,7 @@
         "gp:id":"26316962"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"72b12dc22e4769c03d1a852bd3414ac4",
     "wof:hierarchy":[
         {
             "continent_id":"102191569",
@@ -32,19 +41,19 @@
         }
     ],
     "wof:id":538349037,
-    "wof:lastmodified":1460073127,
+    "wof:lastmodified":1462980025,
     "wof:name":"879-0617",
-    "wof:parent_id":"102031357",
+    "wof:parent_id":102031357,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    131.4346,
+    33.5602,
+    131.4346,
+    33.5602
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[131.43459999999999,33.5602],"type":"Point"}
 }

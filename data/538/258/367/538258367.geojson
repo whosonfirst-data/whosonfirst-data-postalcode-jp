@@ -5,34 +5,56 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"136.0526,35.0036,136.0526,35.0036",
+    "geom:latitude":35.0036,
+    "geom:longitude":136.0526,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Shigaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Koukagun'Ishibechou",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Houraizaka",
     "gp:parent_id":"28448970",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        102031597,
+        "85632429",
+        85672735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26273119"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"878fd45b8af0c11c9f0a6e2a6a400f0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102031597,
+            "postalcode_id":538258367,
+            "region_id":85672735
+        }
+    ],
     "wof:id":538258367,
-    "wof:lastmodified":1460069160,
+    "wof:lastmodified":1462979632,
     "wof:name":"520-3103",
-    "wof:parent_id":-1,
+    "wof:parent_id":102031597,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    136.0526,
+    35.0036,
+    136.0526,
+    35.0036
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[136.05260000000001,35.0036],"type":"Point"}
 }

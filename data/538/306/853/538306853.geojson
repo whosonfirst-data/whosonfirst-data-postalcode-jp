@@ -5,22 +5,31 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"133.3357,36.3052,133.3357,36.3052",
+    "geom:latitude":36.3052,
+    "geom:longitude":133.3357,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Shimaneken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Okigunfusemura",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Iibi",
     "gp:parent_id":"28471520",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
+    "mz:is_approximate":1,
+    "src:geom":"gn",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26295781"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"6d7cfbff64a74bb63073dcc7f0c25cd8",
     "wof:hierarchy":[],
     "wof:id":538306853,
-    "wof:lastmodified":1460071228,
+    "wof:lastmodified":1462979807,
     "wof:name":"685-0411",
     "wof:parent_id":-1,
     "wof:placetype":"postalcode",
@@ -29,10 +38,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    133.3357,
+    36.3052,
+    133.3357,
+    36.3052
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[133.3357,36.3052],"type":"Point"}
 }

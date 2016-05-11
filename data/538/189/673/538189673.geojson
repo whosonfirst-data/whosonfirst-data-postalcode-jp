@@ -5,34 +5,56 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"139.4158,35.4397,139.4158,35.4397",
+    "geom:latitude":35.4397,
+    "geom:longitude":139.4158,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Kanagawaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Ayaseshi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Hayakawa",
     "gp:parent_id":"28417381",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        102031239,
+        "85632429",
+        85672805
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26240285"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"51e4b76bc9c73ee61b99f2d1a12ff160",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102031239,
+            "postalcode_id":538189673,
+            "region_id":85672805
+        }
+    ],
     "wof:id":538189673,
-    "wof:lastmodified":1460065793,
+    "wof:lastmodified":1462979359,
     "wof:name":"252-1123",
-    "wof:parent_id":-1,
+    "wof:parent_id":102031239,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    139.4158,
+    35.4397,
+    139.4158,
+    35.4397
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[139.41579999999999,35.4397],"type":"Point"}
 }

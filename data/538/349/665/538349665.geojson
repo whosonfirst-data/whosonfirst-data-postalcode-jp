@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"131.2897,33.4997,131.2897,33.4997",
+    "geom:latitude":33.4997,
+    "geom:longitude":131.2897,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Ooitaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Usashi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Naka",
     "gp:parent_id":"28491156",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672723
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26317077"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8a7c1e442ffd81006270b65e7df56613",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538349665,
+            "region_id":85672723
+        }
+    ],
     "wof:id":538349665,
-    "wof:lastmodified":1460073144,
+    "wof:lastmodified":1462980025,
     "wof:name":"879-0513",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672723,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    131.2897,
+    33.4997,
+    131.2897,
+    33.4997
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[131.28970000000001,33.4997],"type":"Point"}
 }

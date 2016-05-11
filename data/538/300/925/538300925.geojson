@@ -5,22 +5,31 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"135.578,33.5122,135.578,33.5122",
+    "geom:latitude":33.5122,
+    "geom:longitude":135.578,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Wakayamaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Nishimurogunsusamichou",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Mirodu",
     "gp:parent_id":"28468964",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
+    "mz:is_approximate":1,
+    "src:geom":"gn",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26293018"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"0fb73237c30647f65fdcebd90bda3553",
     "wof:hierarchy":[],
     "wof:id":538300925,
-    "wof:lastmodified":1460070950,
+    "wof:lastmodified":1462979743,
     "wof:name":"649-3141",
     "wof:parent_id":-1,
     "wof:placetype":"postalcode",
@@ -29,10 +38,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    135.578,
+    33.5122,
+    135.578,
+    33.5122
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[135.578,33.5122],"type":"Point"}
 }

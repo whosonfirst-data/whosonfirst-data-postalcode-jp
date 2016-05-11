@@ -5,34 +5,56 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"139.7032,35.6956,139.7032,35.6956",
+    "geom:latitude":35.6956,
+    "geom:longitude":139.7032,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Toukyouto",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Shinjukuku",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Kabukichou",
     "gp:parent_id":"26198499",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        102031307,
+        "85632429",
+        85672817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26236037"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c09bf317fe20779b558f25bc5aa3b7cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102031307,
+            "postalcode_id":538181951,
+            "region_id":85672817
+        }
+    ],
     "wof:id":538181951,
-    "wof:lastmodified":1460065383,
+    "wof:lastmodified":1462979335,
     "wof:name":"160-0021",
-    "wof:parent_id":-1,
+    "wof:parent_id":102031307,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    139.7032,
+    35.6956,
+    139.7032,
+    35.6956
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[139.70320000000001,35.6956],"type":"Point"}
 }

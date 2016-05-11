@@ -5,34 +5,56 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"130.8683,33.882,130.8683,33.882",
+    "geom:latitude":33.882,
+    "geom:longitude":130.8683,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Fukuokaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Kitakyuushuushikokurakitaku",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Tamachi",
     "gp:parent_id":"28482629",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        102031615,
+        "85632429",
+        85672697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26308335"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"06ad4bdc3f6c7d02ec3b8b0967da6f34",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102031615,
+            "postalcode_id":538330505,
+            "region_id":85672697
+        }
+    ],
     "wof:id":538330505,
-    "wof:lastmodified":1460072382,
+    "wof:lastmodified":1462979935,
     "wof:name":"803-0817",
-    "wof:parent_id":-1,
+    "wof:parent_id":102031615,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    130.8683,
+    33.882,
+    130.8683,
+    33.882
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[130.8683,33.882],"type":"Point"}
 }

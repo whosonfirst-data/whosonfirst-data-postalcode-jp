@@ -5,22 +5,31 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"132.5182,34.2651,132.5182,34.2651",
+    "geom:latitude":34.2651,
+    "geom:longitude":132.5182,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Hiroshimaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Kureshi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Karugachou",
     "gp:parent_id":"28474182",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
+    "mz:is_approximate":1,
+    "src:geom":"gn",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26298626"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"c8ed52eec3b08b98ce29578528513708",
     "wof:hierarchy":[],
     "wof:id":538313017,
-    "wof:lastmodified":1460071491,
+    "wof:lastmodified":1462979863,
     "wof:name":"737-0862",
     "wof:parent_id":-1,
     "wof:placetype":"postalcode",
@@ -29,10 +38,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    132.5182,
+    34.2651,
+    132.5182,
+    34.2651
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[132.51820000000001,34.2651],"type":"Point"}
 }

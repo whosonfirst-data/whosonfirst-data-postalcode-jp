@@ -5,34 +5,56 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"137.2598,37.4483,137.2598,37.4483",
+    "geom:latitude":37.4483,
+    "geom:longitude":137.2598,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Ishikawaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Suzushi",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Wakayamamachisutta",
     "gp:parent_id":"28427052",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        102032137,
+        "85632429",
+        85672741
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26250104"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8f9708b15d937f643f0f6c5b8fcc9365",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102032137,
+            "postalcode_id":538210027,
+            "region_id":85672741
+        }
+    ],
     "wof:id":538210027,
-    "wof:lastmodified":1460066721,
+    "wof:lastmodified":1462980093,
     "wof:name":"927-1233",
-    "wof:parent_id":-1,
+    "wof:parent_id":102032137,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    137.2598,
+    37.4483,
+    137.2598,
+    37.4483
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[137.25980000000001,37.4483],"type":"Point"}
 }

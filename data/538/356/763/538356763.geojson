@@ -5,22 +5,31 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"127.925,26.9964,127.925,26.9964",
+    "geom:latitude":26.9964,
+    "geom:longitude":127.925,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Okinawaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Shimajirigun'Iheyason",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Noho",
     "gp:parent_id":"28494410",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
+    "mz:is_approximate":1,
+    "src:geom":"gn",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26320859"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"18ba7742c6eb3529eca99576bb516445",
     "wof:hierarchy":[],
     "wof:id":538356763,
-    "wof:lastmodified":1460073380,
+    "wof:lastmodified":1462980057,
     "wof:name":"905-0705",
     "wof:parent_id":-1,
     "wof:placetype":"postalcode",
@@ -29,10 +38,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    127.925,
+    26.9964,
+    127.925,
+    26.9964
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[127.925,26.9964],"type":"Point"}
 }

@@ -5,34 +5,56 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"140.8766,38.285,140.8766,38.285",
+    "geom:latitude":38.285,
+    "geom:longitude":140.8766,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Miyagiken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Sendaishiaobaku",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Dainohara",
     "gp:parent_id":"28390977",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        102031919,
+        "85632429",
+        85672843
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26211572"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7b1ceffe83d999588df33f16e20a4ef8",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102031919,
+            "postalcode_id":538133363,
+            "region_id":85672843
+        }
+    ],
     "wof:id":538133363,
-    "wof:lastmodified":1460063455,
+    "wof:lastmodified":1462980210,
     "wof:name":"981-0911",
-    "wof:parent_id":-1,
+    "wof:parent_id":102031919,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    140.8766,
+    38.285,
+    140.8766,
+    38.285
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[140.8766,38.285],"type":"Point"}
 }

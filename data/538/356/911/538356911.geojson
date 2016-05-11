@@ -5,22 +5,31 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"123.793,24.4205,123.793,24.4205",
+    "geom:latitude":24.4205,
+    "geom:longitude":123.793,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Okinawaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Yaeyamaguntaketomichou",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Uehara",
     "gp:parent_id":"28494471",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
+    "mz:is_approximate":1,
+    "src:geom":"gn",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26320931"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"b724a9fa60889a506a3238926b8eeb33",
     "wof:hierarchy":[],
     "wof:id":538356911,
-    "wof:lastmodified":1460073384,
+    "wof:lastmodified":1462980059,
     "wof:name":"907-1541",
     "wof:parent_id":-1,
     "wof:placetype":"postalcode",
@@ -29,10 +38,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    123.793,
+    24.4205,
+    123.793,
+    24.4205
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[123.79300000000001,24.4205],"type":"Point"}
 }

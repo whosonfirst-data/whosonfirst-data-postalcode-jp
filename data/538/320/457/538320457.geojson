@@ -5,34 +5,54 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"133.745,34.0115,133.745,34.0115",
+    "geom:latitude":34.0115,
+    "geom:longitude":133.745,
+    "gn:accuracy":"",
+    "gn:adm1_code":"",
+    "gn:adm1_name":"Tokushimaken",
+    "gn:adm2_code":"",
+    "gn:adm2_name":"Miyoshigun'Ikedachou",
+    "gn:adm3_code":"",
+    "gn:adm3_name":"",
+    "gn:name":"Umaji",
     "gp:parent_id":"28478023",
     "iso:country":"JP",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:is_approximate":1,
+    "src:geom":"gn",
+    "wof:belongsto":[
+        "102191569",
+        "85632429",
+        85672729
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26303651"
     },
     "wof:country":"JP",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"17dea2dc0a15ff7cc70614c1aa5d08f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "postalcode_id":538320457,
+            "region_id":85672729
+        }
+    ],
     "wof:id":538320457,
-    "wof:lastmodified":1460071832,
+    "wof:lastmodified":1462979897,
     "wof:name":"778-5252",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672729,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    133.745,
+    34.0115,
+    133.745,
+    34.0115
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[133.745,34.0115],"type":"Point"}
 }
