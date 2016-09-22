@@ -18,6 +18,7 @@
     "gn:name":"Tanzemachi",
     "gp:parent_id":"28405091",
     "iso:country":"JP",
+    "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "src:geom":"gn",
     "wof:belongsto":[
@@ -42,10 +43,11 @@
         }
     ],
     "wof:id":538162007,
-    "wof:lastmodified":1462979419,
+    "wof:lastmodified":1474577242,
     "wof:name":"321-1449",
     "wof:parent_id":102031483,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-jp",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

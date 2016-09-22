@@ -18,6 +18,7 @@
     "gn:name":"Hinoguchi",
     "gp:parent_id":"28479557",
     "iso:country":"JP",
+    "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "src:geom":"gn",
     "wof:belongsto":[
@@ -42,10 +43,11 @@
         }
     ],
     "wof:id":538323749,
-    "wof:lastmodified":1462979930,
+    "wof:lastmodified":1474577486,
     "wof:name":"799-2102",
     "wof:parent_id":102031889,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-jp",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

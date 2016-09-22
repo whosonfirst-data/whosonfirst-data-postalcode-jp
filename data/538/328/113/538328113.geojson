@@ -18,6 +18,7 @@
     "gn:name":"Kouno",
     "gp:parent_id":"28481523",
     "iso:country":"JP",
+    "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "src:geom":"gn",
     "wof:belongsto":[
@@ -40,10 +41,11 @@
         }
     ],
     "wof:id":538328113,
-    "wof:lastmodified":1462979904,
+    "wof:lastmodified":1474577493,
     "wof:name":"781-4226",
     "wof:parent_id":85672717,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-jp",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

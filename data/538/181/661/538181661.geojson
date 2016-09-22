@@ -18,6 +18,7 @@
     "gn:name":"Kandahanaokachou",
     "gp:parent_id":"28413937",
     "iso:country":"JP",
+    "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "src:geom":"gn",
     "wof:belongsto":[
@@ -42,10 +43,11 @@
         }
     ],
     "wof:id":538181661,
-    "wof:lastmodified":1462979329,
+    "wof:lastmodified":1474577272,
     "wof:name":"101-0028",
     "wof:parent_id":102031307,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-jp",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

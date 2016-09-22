@@ -18,6 +18,7 @@
     "gn:name":"Tsunemichou",
     "gp:parent_id":"28404733",
     "iso:country":"JP",
+    "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "src:geom":"gn",
     "wof:belongsto":[
@@ -42,10 +43,11 @@
         }
     ],
     "wof:id":538160995,
-    "wof:lastmodified":1462979426,
+    "wof:lastmodified":1474577241,
     "wof:name":"326-0022",
     "wof:parent_id":102031841,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-jp",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

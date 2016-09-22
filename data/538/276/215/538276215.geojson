@@ -18,6 +18,7 @@
     "gn:name":"Handaijichou(Sonota)",
     "gp:parent_id":"28457860",
     "iso:country":"JP",
+    "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "src:geom":"gn",
     "wof:belongsto":[
@@ -42,10 +43,11 @@
         }
     ],
     "wof:id":538276215,
-    "wof:lastmodified":1462979667,
+    "wof:lastmodified":1474577414,
     "wof:name":"599-8267",
     "wof:parent_id":102031413,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-jp",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

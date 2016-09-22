@@ -18,6 +18,7 @@
     "gn:name":"Tsumori",
     "gp:parent_id":"28457446",
     "iso:country":"JP",
+    "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "src:geom":"gn",
     "wof:belongsto":[
@@ -42,10 +43,11 @@
         }
     ],
     "wof:id":538275273,
-    "wof:lastmodified":1462979649,
+    "wof:lastmodified":1474577413,
     "wof:name":"557-0062",
     "wof:parent_id":102031439,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-jp",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

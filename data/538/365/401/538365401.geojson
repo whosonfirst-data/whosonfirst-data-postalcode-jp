@@ -18,6 +18,7 @@
     "gn:name":"Matsunokisawada",
     "gp:parent_id":"1115315",
     "iso:country":"JP",
+    "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "src:geom":"gn",
     "wof:belongsto":[
@@ -40,10 +41,11 @@
         }
     ],
     "wof:id":538365401,
-    "wof:lastmodified":1462980220,
+    "wof:lastmodified":1474577565,
     "wof:name":"987-2159",
     "wof:parent_id":85672843,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-jp",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

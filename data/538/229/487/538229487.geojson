@@ -18,6 +18,7 @@
     "gn:name":"Katsuyama",
     "gp:parent_id":"28436080",
     "iso:country":"JP",
+    "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "src:geom":"gn",
     "wof:belongsto":[
@@ -42,10 +43,11 @@
         }
     ],
     "wof:id":538229487,
-    "wof:lastmodified":1462979597,
+    "wof:lastmodified":1474577344,
     "wof:name":"505-0076",
     "wof:parent_id":102031671,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-jp",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

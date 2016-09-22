@@ -18,6 +18,7 @@
     "gn:name":"Ikefunemachi",
     "gp:parent_id":"28490675",
     "iso:country":"JP",
+    "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "src:geom":"gn",
     "wof:belongsto":[
@@ -42,10 +43,11 @@
         }
     ],
     "wof:id":538348393,
-    "wof:lastmodified":1462980022,
+    "wof:lastmodified":1474577529,
     "wof:name":"876-0833",
     "wof:parent_id":102031417,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-jp",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

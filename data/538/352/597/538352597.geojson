@@ -18,6 +18,7 @@
     "gn:name":"Matsubarachou",
     "gp:parent_id":"28492539",
     "iso:country":"JP",
+    "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "src:geom":"gn",
     "wof:belongsto":[
@@ -42,10 +43,11 @@
         }
     ],
     "wof:id":538352597,
-    "wof:lastmodified":1462980042,
+    "wof:lastmodified":1474577538,
     "wof:name":"892-0833",
     "wof:parent_id":102031675,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-jp",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

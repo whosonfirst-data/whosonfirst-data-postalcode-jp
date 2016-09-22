@@ -18,6 +18,7 @@
     "gn:name":"Ueno",
     "gp:parent_id":"28458788",
     "iso:country":"JP",
+    "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "src:geom":"gn",
     "wof:belongsto":[
@@ -42,10 +43,11 @@
         }
     ],
     "wof:id":538278617,
-    "wof:lastmodified":1462979656,
+    "wof:lastmodified":1474577418,
     "wof:name":"573-1175",
     "wof:parent_id":102031739,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-jp",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -18,6 +18,7 @@
     "gn:name":"Hatakenaka",
     "gp:parent_id":"28438739",
     "iso:country":"JP",
+    "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "src:geom":"gn",
     "wof:belongsto":[
@@ -42,10 +43,11 @@
         }
     ],
     "wof:id":538235679,
-    "wof:lastmodified":1462979498,
+    "wof:lastmodified":1474577353,
     "wof:name":"411-0914",
     "wof:parent_id":102031387,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-jp",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

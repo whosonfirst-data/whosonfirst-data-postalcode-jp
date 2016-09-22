@@ -18,6 +18,7 @@
     "gn:name":"Mizono",
     "gp:parent_id":"28446639",
     "iso:country":"JP",
+    "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "src:geom":"gn",
     "wof:belongsto":[
@@ -42,10 +43,11 @@
         }
     ],
     "wof:id":538253035,
-    "wof:lastmodified":1462979609,
+    "wof:lastmodified":1474577379,
     "wof:name":"511-0118",
     "wof:parent_id":102031571,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-jp",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

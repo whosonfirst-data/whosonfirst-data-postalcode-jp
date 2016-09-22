@@ -18,6 +18,7 @@
     "gn:name":"Satanakamachi",
     "gp:parent_id":"28458718",
     "iso:country":"JP",
+    "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "src:geom":"gn",
     "wof:belongsto":[
@@ -42,10 +43,11 @@
         }
     ],
     "wof:id":538278019,
-    "wof:lastmodified":1462979653,
+    "wof:lastmodified":1474577417,
     "wof:name":"570-0002",
     "wof:parent_id":102031521,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-jp",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -18,6 +18,7 @@
     "gn:name":"Mikagemachi",
     "gp:parent_id":"28426234",
     "iso:country":"JP",
+    "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "src:geom":"gn",
     "wof:belongsto":[
@@ -42,10 +43,11 @@
         }
     ],
     "wof:id":538208407,
-    "wof:lastmodified":1462980080,
+    "wof:lastmodified":1474577313,
     "wof:name":"921-8021",
     "wof:parent_id":102031655,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-jp",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

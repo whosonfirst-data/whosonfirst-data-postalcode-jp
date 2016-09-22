@@ -18,6 +18,7 @@
     "gn:name":"Iriyamazu",
     "gp:parent_id":"28412074",
     "iso:country":"JP",
+    "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "src:geom":"gn",
     "wof:belongsto":[
@@ -42,10 +43,11 @@
         }
     ],
     "wof:id":538177853,
-    "wof:lastmodified":1462979387,
+    "wof:lastmodified":1474577266,
     "wof:name":"299-0115",
     "wof:parent_id":102031981,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-jp",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

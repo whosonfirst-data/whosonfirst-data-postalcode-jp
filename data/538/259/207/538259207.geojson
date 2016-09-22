@@ -18,6 +18,7 @@
     "gn:name":"Imonoshi",
     "gp:parent_id":"28449284",
     "iso:country":"JP",
+    "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "src:geom":"gn",
     "wof:belongsto":[
@@ -42,10 +43,11 @@
         }
     ],
     "wof:id":538259207,
-    "wof:lastmodified":1462979643,
+    "wof:lastmodified":1474577389,
     "wof:name":"529-1522",
     "wof:parent_id":102032183,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-jp",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

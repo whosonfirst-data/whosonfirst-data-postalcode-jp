@@ -18,6 +18,7 @@
     "gn:name":"Senriyamakirigaoka",
     "gp:parent_id":"28458316",
     "iso:country":"JP",
+    "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "src:geom":"gn",
     "wof:belongsto":[
@@ -42,10 +43,11 @@
         }
     ],
     "wof:id":538277303,
-    "wof:lastmodified":1462979651,
+    "wof:lastmodified":1474577416,
     "wof:name":"565-0844",
     "wof:parent_id":102031367,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-jp",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -18,6 +18,7 @@
     "gn:name":"Hirotonuma",
     "gp:parent_id":"28410462",
     "iso:country":"JP",
+    "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "src:geom":"gn",
     "wof:belongsto":[
@@ -40,10 +41,11 @@
         }
     ],
     "wof:id":538173865,
-    "wof:lastmodified":1462979439,
+    "wof:lastmodified":1474577260,
     "wof:name":"345-0032",
     "wof:parent_id":85672807,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-jp",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

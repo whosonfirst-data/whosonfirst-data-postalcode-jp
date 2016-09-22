@@ -18,6 +18,7 @@
     "gn:name":"Fukiyachou",
     "gp:parent_id":"28467861",
     "iso:country":"JP",
+    "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "src:geom":"gn",
     "wof:belongsto":[
@@ -42,10 +43,11 @@
         }
     ],
     "wof:id":538298301,
-    "wof:lastmodified":1462979736,
+    "wof:lastmodified":1474577448,
     "wof:name":"640-8324",
     "wof:parent_id":102031879,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-jp",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

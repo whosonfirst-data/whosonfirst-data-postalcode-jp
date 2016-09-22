@@ -18,6 +18,7 @@
     "gn:name":"Nishiogikita",
     "gp:parent_id":"28414466",
     "iso:country":"JP",
+    "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "src:geom":"gn",
     "wof:belongsto":[
@@ -42,10 +43,11 @@
         }
     ],
     "wof:id":538182971,
-    "wof:lastmodified":1462979336,
+    "wof:lastmodified":1474577274,
     "wof:name":"167-0042",
     "wof:parent_id":102031307,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-jp",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

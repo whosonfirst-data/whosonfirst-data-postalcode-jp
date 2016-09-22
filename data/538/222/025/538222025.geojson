@@ -18,6 +18,7 @@
     "gn:name":"Minamiminowamuraichien",
     "gp:parent_id":"24715950",
     "iso:country":"JP",
+    "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "src:geom":"gn",
     "wof:belongsto":[
@@ -42,10 +43,11 @@
         }
     ],
     "wof:id":538222025,
-    "wof:lastmodified":1462979484,
+    "wof:lastmodified":1474577332,
     "wof:name":"399-4511",
     "wof:parent_id":102031711,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-jp",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -18,6 +18,7 @@
     "gn:name":"Unumayamazakichou",
     "gp:parent_id":"28434946",
     "iso:country":"JP",
+    "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "src:geom":"gn",
     "wof:belongsto":[
@@ -42,10 +43,11 @@
         }
     ],
     "wof:id":538227283,
-    "wof:lastmodified":1462979601,
+    "wof:lastmodified":1474577340,
     "wof:name":"509-0124",
     "wof:parent_id":102031671,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-jp",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

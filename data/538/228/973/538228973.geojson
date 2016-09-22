@@ -18,6 +18,7 @@
     "gn:name":"Higashikanda",
     "gp:parent_id":"28435860",
     "iso:country":"JP",
+    "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "src:geom":"gn",
     "wof:belongsto":[
@@ -42,10 +43,11 @@
         }
     ],
     "wof:id":538228973,
-    "wof:lastmodified":1462979594,
+    "wof:lastmodified":1474577343,
     "wof:name":"503-2125",
     "wof:parent_id":102031331,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-jp",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

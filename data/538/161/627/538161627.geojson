@@ -18,6 +18,7 @@
     "gn:name":"Sendo",
     "gp:parent_id":"28405016",
     "iso:country":"JP",
+    "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "src:geom":"gn",
     "wof:belongsto":[
@@ -42,10 +43,11 @@
         }
     ],
     "wof:id":538161627,
-    "wof:lastmodified":1462979422,
+    "wof:lastmodified":1474577241,
     "wof:name":"322-0002",
     "wof:parent_id":102031651,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-jp",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

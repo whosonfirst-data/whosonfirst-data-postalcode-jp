@@ -18,6 +18,7 @@
     "gn:name":"Komochizaka",
     "gp:parent_id":"90013181",
     "iso:country":"JP",
+    "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "src:geom":"gn",
     "wof:belongsto":[
@@ -42,10 +43,11 @@
         }
     ],
     "wof:id":538234301,
-    "wof:lastmodified":1462979505,
+    "wof:lastmodified":1474577351,
     "wof:name":"421-1122",
     "wof:parent_id":102031807,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-jp",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -18,6 +18,7 @@
     "gn:name":"Misakuchou",
     "gp:parent_id":"28462392",
     "iso:country":"JP",
+    "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "src:geom":"gn",
     "wof:belongsto":[
@@ -42,10 +43,11 @@
         }
     ],
     "wof:id":538285843,
-    "wof:lastmodified":1462979759,
+    "wof:lastmodified":1474577429,
     "wof:name":"662-0095",
     "wof:parent_id":102031481,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-jp",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

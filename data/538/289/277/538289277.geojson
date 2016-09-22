@@ -18,6 +18,7 @@
     "gn:name":"Nakashimachou",
     "gp:parent_id":"28463756",
     "iso:country":"JP",
+    "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "src:geom":"gn",
     "wof:belongsto":[
@@ -40,10 +41,11 @@
         }
     ],
     "wof:id":538289277,
-    "wof:lastmodified":1462979787,
+    "wof:lastmodified":1474577434,
     "wof:name":"675-1366",
     "wof:parent_id":85672769,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-jp",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

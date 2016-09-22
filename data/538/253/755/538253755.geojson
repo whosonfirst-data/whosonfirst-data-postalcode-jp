@@ -18,6 +18,7 @@
     "gn:name":"Tsutsujigaokakita9banchou",
     "gp:parent_id":"28446912",
     "iso:country":"JP",
+    "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "src:geom":"gn",
     "wof:belongsto":[
@@ -40,10 +41,11 @@
         }
     ],
     "wof:id":538253755,
-    "wof:lastmodified":1462979621,
+    "wof:lastmodified":1474577380,
     "wof:name":"518-0439",
     "wof:parent_id":85672745,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-jp",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
