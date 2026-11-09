@@ -31,7 +31,7 @@
         "gp:id":"26272874"
     },
     "wof:country":"JP",
-    "wof:geomhash":"ea0e537e8e35c91f695913a5b5a026bb",
+    "wof:geomhash":"d63f3631a0f5dc98355070b8d844ac82",
     "wof:hierarchy":[
         {
             "continent_id":"102191569",
@@ -56,5 +56,5 @@
     136.199,
     35.1067
 ],
-  "geometry": {"coordinates":[136.19900000000001,35.1067],"type":"Point"}
+  "geometry": {"coordinates":[136.199,35.1067],"type":"Point"}
 }
